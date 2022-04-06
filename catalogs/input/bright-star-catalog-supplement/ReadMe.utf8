@@ -1,0 +1,314 @@
+V/36B       Supplement to the Bright Star Catalogue     (Hoffleit+ 1983)
+================================================================================
+A Supplement to the Bright Star Catalogue
+    Hoffleit, D., Saladyga, M., and Wlasuk, P.
+    <Yale University Obs. (1983)>
+    =1982BS....C......0H
+================================================================================
+ADC_Keywords: Combined data ; Stars, bright
+
+Description:
+    The catalog is an extension of the BSC4 (Hoffleit 1982; see catalog
+    <V/50>) and contains compiled data on stars for which photoelectric
+    determinations are given as 7.10V or brighter and that are not already
+    included in the latter catalog. The data included in the supplement
+    are basically the same as those in the BSC4 itself, and the format of
+    the machine version is very similar. Notable differences are that the
+    NAME column has been omitted, since very few supplement stars have
+    Bayer or Flamsteed designations, and has been replaced with the SAO
+    number. Also, the parallax field includes only data determined from
+    trigonometric methods; all dynamical parallax data have been relegated
+    to the REMARKS. Position-angle data are given in the main table for
+    double stars, whereas they were contained, if reported, only in the
+    REMARKS file of the BSC4. Remarks for supplement stars are given in a
+    separate file of the machine version and are present for 49% of the
+    stars.
+    The introductory file "intro.doc" contains the text given in the
+    introduction to the published catalog except that the figures are, of
+    course, not included.
+    Data included in the catalog "bsc4s.dat" are HD number; DM number; SAO
+    number; double-star code or identification; variable-star
+    identification; right ascension (B1900) declination, right ascension
+    (B2000) declination; galactic coordinates; V magnitude; B-V, U-B, R-I
+    colors; spectral type; annual proper motions; parallax; radial
+    velocity (km/s): and projected rotational velocity v sin i (km/s).
+    Data included for multiple stars are magnitude difference, separation
+    (arcsec), position angle (PA) of components, component identifications
+    (A, B, ...), and number of components (N). A remarks flag is included
+    as a pointer to a remarks file.
+    The third file "remarks.dat" contains the actual remarks for stars
+    flagged in the data file.
+
+File Summary:
+--------------------------------------------------------------------------------
+ FileName    Lrecl    Records    Explanations
+--------------------------------------------------------------------------------
+ReadMe          80          .    This file
+intro.doc       80        412    Introduction to the catalogue
+bsc4s.dat      212       2611    The Supplement to the Bright Star Catalogue
+remarks.dat     68       3578   *Remarks to stars in the catalogue
+--------------------------------------------------------------------------------
+Note to remarks.dat: the text includes special symbols
+    (e.g. Greek letters) which coding is explained at the end
+    of the file "intro.doc" .
+--------------------------------------------------------------------------------
+
+See also:
+    V/50 : Bright Star Catalogue, 5th Revised Ed. (Hoffleit+, 1991)
+
+Byte-by-byte Description of file: bsc4s.dat
+--------------------------------------------------------------------------------
+   Bytes Format Units   Label     Explanations
+--------------------------------------------------------------------------------
+   1-  6  I6    ---     HD        [1/252421]? Number in the
+                                    Henry Draper Catalogue <III/135>
+   7-  8  A2    ---     m_HD     *HD suffix.  May be component identifications
+   9- 18  A10   ---     DM        Durchmusterung (BD, CD, CPD) designation
+  20- 25  I6    ---     SAO       [1/258997]? Catalog number in SAO <I/131>
+      27  A1    ---     Iflag     [I] "I" if the star occurs in the
+                                     NASA Merged Infrared Catalogue <II/71>
+  28- 35  A8    ---     ADS      *Double or multiple star identifications
+  37- 47  A11   ---     Vname    *Variable-star designations
+  49- 50  I2    h       RAh       Right Ascension 1900 (hours)
+  52- 53  I2    min     RAm       Right Ascension 1900 (minutes)
+  55- 58  F4.1  s       RAs       Right Ascension 1900 (seconds)
+      60  A1    ---     DE-       Declination 1900 (sign)
+  61- 62  I2    deg     DEd       Declination 1900 (degrees)
+  64- 65  I2    arcmin  DEm       Declination 1900 (minutes)
+  67- 68  I2    arcsec  DEs       Declination 1900 (seconds)
+  70- 71  I2    h       RA2000h   Right Ascension 2000 (hours)
+  73- 74  I2    min     RA2000m   Right Ascension 2000 (minutes)
+  76- 79  F4.1  s       RA2000s   Right Ascension 2000 (seconds)
+      81  A1    ---     DE2000-   Declination 2000 (sign)
+  82- 83  I2    deg     DE2000d   Declination 2000 (degrees)
+  85- 86  I2    arcmin  DE2000m   Declination 2000 (minutes)
+  88- 89  I2    arcsec  DE2000s   Declination 2000 (seconds)
+  91- 96  F6.2  deg     GLON      Galactic longitude.
+  98-103  F6.2  deg     GLAT      Galactic latitude.  Sign always in
+ 105-108  F4.2  mag     Vmag     *V magnitude on UBV system.
+     109  A1    ---     u_Vmag    Uncertainty flag (:) on Vmag
+ 110-114  F5.2  mag     B-V       ? B-V colour index
+ 116-120  F5.2  mag     U-B       ? U-B colour index
+ 122-126  F5.2  mag     R-I       ? colour on system indicated by n_R-I
+     127  A1    ---     n_R-I    *[:EC] Code for R-I system
+ 128-147  A20   ---     SpType   *Spectral type.
+ 149-154  F6.3 arcsec/yr pmRA     ? Annual proper motion in right ascension.
+ 156-161  F6.3 arcsec/yr pmDE     ? Annual proper motion in declination.
+ 163-167  F5.3  arcsec  Plx       ? Trigonometric parallax.  Dynamical
+                                    parallaxes are given in the remarks file.
+ 169-172  I4    km/s    RVel      ?  Radial velocity (see codes in n_RVel)
+                                        field).
+ 173-177  A5    ---     n_RVel   *[V?SDB12O:.5 ]   Radial-velocity code
+ 179-180  A2    ---     l_vsini   [<>= ] Limit indicators for vsini
+ 181-183  I3    km/s    vsini     ? Projected rotational velocity v.sin i.
+     184  A1    ---     u_vsini   Colon (:) for uncertain v sin i (no
+                                        occurrences at present).
+ 185-188  F4.1  mag     Dmag     *?  Differential magnitude difference
+     189  A1    ---     u_Dmag   *[:V] Differential magnitude code.
+ 191-195  F5.1  arcsec  Sep       ?  Separation of the components "Comp"
+     196  A1    ---     n_Sep    *[a:] Separation code
+ 199-202  A4    deg     PAcomp   *Position angle for the components "Comp"
+     203  A1    ---     u_PAcomp  PA code (: for uncertainty).
+ 205-209  A5    ---     Comp     *Identification of components.
+ 210-211  I2    ---     Ncomp     ? Number of components assigned to
+                                    multiple systems.
+     212  A1    ---     Remark    [*] An asterisk indicates that further
+                                     information can be found in the remarks
+                                     file.
+--------------------------------------------------------------------------------
+Note on m_HD:  used for multiple systems, or /X when more than a single
+     HD star is included, e.g. HD 17245/6.
+     NOTE: m_HD is "S" for the 3 stars not in HD catalogue, for which
+           the SAO number is listed in column HD; those stars are
+           SAO 250043 (CP-60  980), SAO 179278 (BD-20 3283) and
+           SAO 252421 (CP-61 3926)
+Note on ADS: spectroscopic and eclipsing binaries are not considered here.
+     The field is uniform with the catalog codes in byte 28,
+     ADS numbers in bytes 29-33, and multiple-star letter designations
+     for components of a system which the HD number represents
+     in bytes 34-35. Other designations include:
+     W  Worley (1978; see Worley 1982) update of the IDS (Jeffers et al. 1963)
+        (see catalog <I/237>)
+     C  Couteau 1978 (see catalog <I/209>)
+     D  Duplicity discovered by occultation
+Note on Vname: these designations include:
+    (a) constellation designations from the General Catalogue of Variable
+        Stars (see 4th Edition as Catalog <II/139>)
+    (b) numbers (alone) from the New Catalogue of Suspected Variable
+        (see latest version in Catalog <II/140>)
+    (c) Var and Var? for unnamed variables and suspected unconfirmed
+        variables not included in the General and Suspected catalogs.
+        Can apply to the HD number and/or a close companion.
+    Note: HD 139216 = Tau4 Ser is recorded as "@t|4 Ser" where the character
+          following the t is a vertical bar.
+Note on Vmag: Magnitudes of variables and/or binaries may be reported to
+        0.1 mag only.
+Note on n_R-I: this code may be a colon indicating a larger uncertainty, or
+    (blank) - on Johnson system;
+        E   - mainly from Eggen, on Kron system;
+        C   - from Cousins, close to Kron system
+        (the Johnson and Kron filters have different passbands and
+         may not be used interchangeably).
+Note on SpType:
+     If the complete modern (MK) classification is too long for the data
+     field, it is given in the remarks file and an asterisk (*) occurs in
+     this data field.
+     Mt. Wilson luminosity classes are given as lower case letters in bytes
+     128-129.
+     The "W" in Wolf-Rayet types is in byte 129 with the C or N in the
+     following byte (130).
+     In general, the temperature class (O, B, A, ..., S, C) occurs in byte
+     130 and the temperature subclass in byte 131 (intermediate sub-classes
+     extend to 132-133 and other characters can be in bytes 131, ...).
+     Characters normally appearing as lower case in standard notation, e.g.
+     p, e, Si, Mn, Hg, Iab, are coded in lower case.
+     A greek delta appearing for HD 189337 is coded as "@d".
+Note on n_RVel: the peculiarities are:
+            V, V? - variable or suspected variable velocity;
+     SB, SB1, SB2 - spectroscopic binaries, single or double lined spectra;
+                O - orbital data available.
+     One star (HD 2268) has a velocity with one decimal (0.5) stored there.
+Note on Dmag: magnitude difference between two components of a double,
+     or between the two brightest components of a multiple system.
+Note on u_Dmag: this code takes the values
+     V indicates variable magnitude difference,
+     : uncertainty indicator (:); no occurrences at present.
+Note on n_Sep:
+     "a" occurs if the separation refers to the semimajor axis .
+     The colon (:) indicates, as usual, a large uncertainty.
+Note on PAcomp: this field may contain
+     "ORB"  to indicate an available orbit; hence, no PA.
+     "SP"   to indicate south preceding,
+     "SF"   to indicate south following, and
+     "S"    to indicate south.
+Note on Comp: Identification of components represented in
+     bytes 185-188 and 191-195.
+     The character "O" indicates an occultation binary.
+--------------------------------------------------------------------------------
+
+Byte-by-byte Description of file: remarks.dat
+--------------------------------------------------------------------------------
+   Bytes Format Units   Label     Explanations
+--------------------------------------------------------------------------------
+   1-  6  I6    ---     HD        [1/250043] HD (SAO in 3 cases) number,
+                                             as in file bcs4s.dat
+   7-  8  A2    ---     m_HD      HD suffix (or "S" for SAO),
+                                             as in file bcs4s.dat
+  10- 13  A4    ---     Category *Remark category abbreviation
+      15  A1    ---     ---       [(] Left parenthesis
+      16  A1    ---     Cont      [a-s] Continuation letter
+      17  A1    ---     ---       [)] Right parenthesis
+  19- 68  A50   ---     Text      Remarks in free text form.
+--------------------------------------------------------------------------------
+Note on Category: the categories are:
+   C:   magnitudes, colors, color excesses;
+   D:   double and multiple stars, including astrometric and those discovered
+        by occultations and speckle interferometry.  Orbital data given,
+        including magnitudes and spectral types of major components,
+        orbital periods, semimajor axes, etc.;
+   Dyn: dynamical parallaxes;
+   G:   membership in clusters, associations, groups and apparent association
+   N:   star names and identifications;
+   R:   stellar radii or diameters;
+        with nebulosity (R associations).  No attempt made to resolve
+        conflicting assignments in different sources: various alternatives
+        are included;
+   RV:  radial and rotational velocities;
+   S:   spectra;
+   SB:  spectroscopic binaries, mostly orbital data:
+        period of revolution,
+        K = half amplitude of radial velocity,
+        K$1, k$2 = semi-amplitude in RV for each of the components
+           of SB2 system,
+        V$0 = mean radial velocity of the system,
+        msin3i = mass function in Solar masses,
+        asini  = projected semimajor axis in Gm (10^6^km) ;
+   Var: variability, magnitude ranges, spectrum or magnetic field
+        variability or other characteristics;
+   M:   miscellaneous notes.
+================================================================================
+
+Acknowledgements:
+    Appreciation is expressed to Dr. E. Dorrit Hoffleit and her colleagues
+    for preparing and sending the magnetic tape of the catalog. Dr.
+    Hoffleit kindly communicated additional corrections to the catalog and
+    reviewed this document in preprint form before final printing.
+
+    A large part of this ReadMe file was generated from the "Documentation
+    for the machine-readable version of 'A Supplement to the Bright Star
+    Catalogue'" by Wayne H. Warren Jr. made in February 1984
+    (document NSSDC/WDC-A-R&S 84-04)
+
+References:
+  Aitken, R. G. 1932, New General Catalogue of Double Stars within 120
+    degrees of the North Pole, Carnegie Institution of Washington Pub. 417
+    (Washington: Carnegie Institution of Washington).
+  Cannon, A. J. and Pickering, E. C. 1918-1924, The Henry Draper
+    Catalogue, Ann.  Astron. Obs. Harvard College 91-99. (Cat. <III/135>)
+  Couteau, P. 1978, Circ. Inf. No 75 (Meudon: IAU Commission des Etoiles
+    Doubles). See also catalog <I/209>
+  Hoffleit, D. (with the collaboration of Jaschek, C.) 1982, The BRIGHT
+    STAR CATALOGUE, 4th revised edition (New Haven: Yale University
+    Observatory ; see catalog <V/50>).
+  Hoffleit, D., Saladyga, M. and Wlasuk, P. 1984, A Supplement to the
+    Bright Star Catalogue (New Haven: Yale University Observatory).
+  Jeffers, H. M., van den Bos, W. H. and Greeby, F. M. 1963, Index
+    Catalogue of Visual Double Stars, Publ. Lick Obs. 21.
+  Kholopov, P. N., Kukarkina, N. P. and Perova, N. B. 1978, 63rd
+    Name-List of Variable Stars, Inf. Bull. Variable Stars, No. 1414.
+    (See catalog <II/139>)
+  Kholopov, P. N., Kukarkina, N. P. and Perova, N. B. 1979, 64th
+    Name-List of Variable Stars, Inf. Bull. Variable Stars, No. 1581.
+    (See catalog <II/139>)
+  Kholopov, P. N., Samus', N. N., Kukarkina, N. P., Medvedeva, G. I. and
+    Perova, N. B. 1981, 65th Name-List of Variable Stars,
+    Inf. Bull. Variable Stars, No. 1921.
+    (See catalog <II/139>)
+  Kholopov, P. N., Samus', N. N., Kukarkina, N. P., Medvedeva, G. I. and
+    Perova, N. B. 1981, 66th Name-List of Variable Stars,
+    Inf. Bull. Variable Stars, No. 2042.
+    (See catalog <II/139>)
+  Kukarkin, B. V., Kholopov, P. N., Artiukhina, N. M., Fedorovich, V.
+    P., Frolov, M. S., Goranskij, V. P., Gorynya, N. A., Karitskaya, E. A.,
+    Kireeva, N. N., Kukarkina, N. P., Kurochkin, N. E., Medvedeva, G. I.,
+    Perova, N. B., Ponamareva, G. A., Samus', N. N. and Shugarov, S. Yu.
+    1982, New Catalogue of Suspected Variable Stars (Moscow: Publishing
+    Office <<Nauka>>). (See catalog <II/140>)
+  Kukarkin, B. V., Kholopov, P. N., Efremov, Yu. N., Kukarkina, N. P.,
+    Kurochkin, N. E., Medvedeva, G. I., Perova, N. B., Pskovsky, Yu. P.,
+    Fedorovich, V. P. and Frolov, M. S. 1971, First Supplement to the
+    Third Edition of the General Catalogue of Variable Stars (Moscow:
+    Publishing House of the Academy of Sciences of the U.S.S.R.).
+    (See catalog <II/139>)
+  Kukarkin, B. V., Kholopov, P. N., Efremov, Yu. N., Kukarkina, N. P.,
+    Kurochkin, N. E., Medvedeva, G. I., Perova, N. B., Pskovsky, Yu. P.,
+    Fedorovich, V. P. and Frolov, M. S. 1974, Second Supplement to the
+    Third Edition of the General Catalogue of Variable Stars (Moscow:
+    Publishing House of the Academy of Sciences of the U.S.S.R.).
+    (See catalog <II/139>)
+  Kukarkin, B. V., Kholopov, P. N., Fedorovich, V. P., Kireyeva, N. N.,
+    Kukarkina, N. P., Medvedeva, G. I. and Perova, N. B. 1977, 62nd
+    Name-List of Variable Stars, Inf. Bull. Variable Stars, No. 1248.
+    (See catalog <II/139>)
+  Kukarkin, B. V., Kholopov, P. N., Kukarkina, N. P. Kurochkin, N. E.,
+    Medvedeva, G. I., Perova. N. B., Pskovsky, Yu. P., Fedorovich, V. P.
+    and Frolov, M. S. 1976, Third Supplement to the Third Edition of the
+    General Catalogue of Variable Stars (Moscow: Publishing House of the
+    Academy of Sciences of the U.S.S.R.). (See catalog <II/139>)
+  Kukarkin, B. V., Kholopov, P.  N., Pskovsky, Yu. P., Efremov, Yu. N.,
+    Kukarkina, N. P., Kurochkin, N. E., Medvedeva, G. I., Perova, N. B.,
+    Fedorovich, V. P. and Frolov, M. S. 1969-70, General Catalogue of
+    Variable Stars, 3rd edition (Moscow: Publishing House of the Academy
+    of Sciences of the U.S.S.R.) (See catalog <II/139>)
+  Schmitz, M., Brown, L. W., Mead, J. M. and Nagy, T. A. 1978, Merged
+    Infrared Catalogue, NASA TM-79683. (Catalog <II/71>)
+  Smithsonian Astrophysical Observatory Staff 1966, Star Catalog.
+    Positions and Proper Motions of 258,997 Stars for the Epoch and
+    Equinox of 1950.0, Pub. of the Smithsonian Institution of
+    Washington, D.C. No. 4652 (Washington: Carnegie Institution
+    of Washington; see catalog <I/131>)
+  Worley, C. E. 1982, in IAU Colloquium No. 64, Automated Data Retrieval
+    in Astronomy, Ed. C. Jaschek and W. Heintz (Dordrecht: D. Reidel
+    Publishing Company), p. 257. (see catalog <I/237>)
+================================================================================
+(End)                                     Francois Ochsenbein [CDS]  08-Apr-1997

@@ -1,0 +1,13 @@
+*.class
+.settings/
+.classpath
+.project
+# The catalog files below need to be downloaded from VizieR. 
+# See the various SOURCE.utf8 files for links.
+/catalogs/input/bright-star-catalog/catalog.utf8
+/catalogs/input/bright-star-catalog/catalog.utf8
+/catalogs/input/bright-star-catalog-supplement/bcs4s.dat
+/catalogs/input/general-catalog-of-mean-rv/catalog.dat
+/catalogs/input/hipparcos/hip_main.dat
+/catalogs/input/hipparcos-2/hip2.dat
+/catalogs/input/pulkovo-radial-velocities/table8.dat

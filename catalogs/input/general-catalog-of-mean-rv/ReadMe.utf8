@@ -1,0 +1,199 @@
+III/213   General Catalog of mean radial velocities  (Barbier-Brossat+, 2000)
+================================================================================
+Catalogue general de vitesses radiales moyennes pour les etoiles galactiques.
+(General catalog of averaged stellar radial velocities for galactic stars.)
+     Barbier-Brossat M., Figon P.
+    <Astron. Astrophys. Suppl. Ser. 142, 217 (2000)>
+    =2000A&AS..142..217B
+================================================================================
+ADC_Keywords: Radial velocities
+Keywords: catalogs - stars: general - stars: kinematics
+
+Abstract:
+    We present a catalogue of mean radial velocities for Galactic stars
+    which supplements the catalogue WEB (1998, See Cat. <III/190>) with
+    observations published through december 1990. The catalogue contains
+    new mean velocities for 36145 stars, among which 20574 are new. Only
+    observations obtained with adequate spectral resolution and
+    standardized to the IAU or Wilson (1953, Cat. <III/21>) velocity
+    systems have been used. Entries in the WEB mean radial velocities
+    catalogue have been taken to represent the mean of earlier
+    measurements, to which the new data have been added. The sources of
+    new data are referenced. To make easier the work of users, we have
+    included in our catalogue the results of the catalogue WEB with the
+    agreement of the author.
+
+    This catalogue supersedes the previous version numbered <III/161>.
+
+File Summary:
+--------------------------------------------------------------------------------
+  FileName      Lrecl  Records   Explanations
+--------------------------------------------------------------------------------
+ReadMe             80        .   This file
+catalog.dat       351    36145   Catalogue  (version 1, decembre 1999)
+--------------------------------------------------------------------------------
+
+See also:
+   III/190 : WEB Catalog of Radial Velocities (Duflot+ 1995)
+   III/21  : General catalogue of stellar radial velocity (Wilson 1953)
+   III/4   : Bibliography of stellar radial velocities (Abt+, 1972)
+
+Byte-by-byte Description of file: catalog.dat
+--------------------------------------------------------------------------------
+   Bytes Format Units   Label   Explanations
+--------------------------------------------------------------------------------
+   1-  5  I5    ---     BF      [1/36145]+ Sequential number
+       6  A1    ---   n_BF      [*] * if star of WEB (WEB version 8, June 1999)
+   7- 12  I6    ---     HD      ? Number in the Henry Draper Catalogue
+      13  A1    ---   m_HD      Component (1)
+  14- 24  A11   ---     DM      ? Durchmusterung identification (2)
+      25  A1    ---   m_DM      Component (1)
+  26- 50  A25   ---     Names   Other identifications from the publications,
+                                 in agreement with Simbad when it is possible.
+                                 Possibility of two separate identifiers by "="
+  51- 60  A10   ---     CCDM    ? Number in the CCDM Catalogue (Dommanget J.,
+                                   Nys O., 1994, Cat. <I/211>
+  61- 63  A3    ---   m_CCDM    Components with the code used by Duflot
+                                 (Duflot et al., 1995, Cat. <III/190>, WEB)
+  65- 70  I6    ---     HIC     ? Hipparcos number (Turon et al., 1993,
+                                   Cat. <I/196>
+  72- 76  I5    ---     WEB     ? WEB number (Cat. <III/190>)
+      77  A1    ---   n_WEB     [*] * if the mean is modified (see section 2)
+  79- 80  I2    h       RAh     Right ascension 2000 (3)
+  82- 86  F5.2  min     RAm     Right ascension 2000
+                                  if "mm. ", approximate co-ordinates
+      87  A1    ---     DE-     Declination sign
+  88- 89  I2    deg     DEd     Declination 2000 (degrees)
+  91- 92  I2    arcmin  DEm     Declination 2000 (minutes)
+      93  A1    ---   n_Pos     [@] for coordinates not in Simbad, precessed
+                                       by us
+      94  A1    ---   n_Vmag    [*] * if Vmag is photographic or B magnitude
+  95- 99  F5.2  mag     Vmag    ? Visual or photoelectric magnitude
+     100  A1    ---   u_Vmag    [V:] V for variable
+                                     ":" if data are uncertain
+ 101-111  A11   ---     Sp      Spectral type and luminosity class (4)
+ 113-119  F7.2  km/s    RV      Mean Radial Velocity (5)
+     120  A1    ---   n_RV      [Gge] Note on RV (6)
+     121  A1    ---   u_RV      [:*] ":" uncertainty flag on RV
+                                     "*" approximate value
+ 122-125  F4.1  km/s  e_RV      ? Mean standard error
+     126  A1    ---   q_RV      [A-E I] if * in n_WEB, quality from the WEB (7)
+ 127-130  I4    ---   o_RV      ? Number of observations
+     131  A1    ---   f_RV      [SOCR] Flag Number of observations not given (8)
+ 132-133  I2    ---     Nrefs   [1,12]? Number of bibliographic references
+ 137-351  A215  ---     Ref     References as 12A18 (9)
+--------------------------------------------------------------------------------
+Note (1): See the article sect. 5, column 2,
+           /: two components for the same number
+Note (2): The first two characters identify the catalog:
+        * BD Bonner Durchmusterung (DE >= -22)
+        * CD Cordoba               (-22> DE >-52)
+        * CP Cape                  (DE <= -52)
+          (small letters indicate case where the HD convention is not followed)
+Note (3): From SIMBAD/CDS (spring 1998), when they exist
+Note (4): From Simbad. If there is no indication or if spectral type and
+           luminosity of the publication are more precise we publish data
+           from the author. If * in n_WEB data are from the WEB <III/190>
+Note (5): Without decimal if the mean standard error > 3.70 km/s.
+          For stars flagged in f_RV column, the velocity is defined as:
+          For double stars (O): systemic velocity of the last published orbit
+           since the publication of the catalogue of Batten et al;
+           (1978PDAO...15..121B)
+          For standard stars: mean radial velocity of UAI
+          For RR Lyrae or Cepheid stars: the best mean radial velocity
+          (see also Note (8) below)
+Note (6): The flags are:
+          e = for emission radial velocity
+          G = VR of the gravity center for double or multiple system
+          g = VR of the gravity center for a sub-system
+Note (7): from A to E decreasing quality, I for insufficient data
+Note (8): The flags are:
+          S = STND : UAI's standard star
+          O = ORB  : systemic velocity
+          C = CEPH : cepheid star
+          R = RRLY : RR Lyrae star
+          (see also Note (5) above for the velocity quoted)
+Note (9): Each reference uses 17 bytes, and has the structure
+           (byte position numbers for first reference):
+           ---------------------------------------------------------
+           137-140  A4    ---     Pub       Publication abbreviation
+           141-143  I3    ---     Vol       Volume number
+               144  A1    ---     ---       [,]
+           145-148  A4    ---     Page      Page number
+               149  A1    ---     ---       [-]
+           150-153  I4    ---     Year      Year of publication
+           ---------------------------------------------------------
+    The Publication abbreviations are as follows:
+    AAP  = Astronomy and Astrophysics
+    AAPS = Astronomy and Astrophysics Supplement Series
+    AFA  = Arkiv fur Astrophysik
+    AJ   = Astronomical Journal
+    AN   = Astronomische Nachrichten
+    AP   = Astrophysics (Russia)
+    APJ  = Astrophysical Journal
+    APJS = Astrophysical Journal Supplement Series
+    ASS  = Astrophysics and Space Science
+    AT   = Annals of the Tokyo Astronomical Observatory
+    BAIC = Bulletin of the Astronomical Institutes of Czechoslovakia
+    BCDS = Bulletin du centre de Donnees de Strasbourg
+    DAO  = Publications of the Dominion Astrophysical Observatory
+    IAUS = International Astronomical Union Symposium
+    IBVS = Information Bulletin on Variable Stars
+    JAA  = Journal of Astrophysics and Astronomy (India)
+    MAKL = Mededelingen van Het Astronomich Institut van de Katholieke
+           Universiteit Leuven
+    MEM  = Memoirs of the Royal Astronomical Society
+    MN   = Monthly Notices of the Royal Astronomical Society
+    MSAI = Memorie della Societa Astronomica Italiana
+    OBS  = The Observatory
+    PASJ = Publications of the Astronomical Society of Japan
+    PASP = Publications of the Astronomical Society of Pacific
+    PDDO = Publications of the David Dunlap Observatory
+    POAS = Publications de l'Observatoire Astronomique de Strasbourg
+    POHP = Publications de l'Observatoire de Haute-Provence
+    RASC = Journal of the Royal Astronomical Society of Canada
+    RGOA = Royal Greenwich Observatory Annals
+    RMAA = Revista Mexicana de Astronomia y Astrofisica
+    ROB  = Royal Observatory Bulletin
+    SAL  = Soviet Astronomy-Letters
+    SAOC = South African Astronomical Observatory Circulars
+    UAI  = Transactions of the International Astronomical Union
+--------------------------------------------------------------------------------
+
+Acknowledgements:
+    Patrick Figon <figon@observatoire.cnrs-mrs.fr>
+
+References:
+  Abt & Biggs                    1972..............A
+    Bibliography of stellar radial velocities (Latham Process Corp.,New York).
+  Bakos                          1974AJ.....79..866B
+  Barbier-Brossat & Petit        1986A&AS...65...59B
+  Barbier-Brossat                1989A&AS...80...67B Cat. <III/161>
+  Barbier-Brossat & Petit        1990A&AS...85..885B Cat. <III/160>
+  Barbier-Brossat et al.         1994A&AS..108..603B Cat. <III/184>
+  Batten et al.                  1989PDAO...17....1B Cat. <V/64>
+  Beavers & Eitter               1986ApJS...62..147B
+  Dommanget & Nys                1994CoORB.115....1D Cat. <I/211>
+  Duflot et al.                  1995A&AS..114..269D Cat. <III/190>
+  Duflot M.,Fehrenbach C         1956POHP...41.....D
+    Publ.Obs.Haute-Provence III,N0 41
+  Duflot & Fehrenbach            1956POHP....3...49D
+  Evans                          1967IAUS...30...57E
+  Evans                          1970Priv..........E
+  Fehrenbach et al.              1987A&AS...71..263F
+  Fehrenbach et al.              1996BICDS..48...11F Cat. <III/192>
+  Fernandez et al.               1983A&AS...52C...1F
+    1983, A&AS 52 (4), p.1.1-7.14
+  Grenier et al.                 1999A&AS..137..451G Cat. <J/A+AS/137/451>
+  Griffin                        1980MNRAS.190..711G
+  Heard                          1956PDDO....2..107H
+  Hube                           1970MmRAS..72..233H
+  Lortet et al.                  1994A&AS..107..193L
+  Transactions of the International Astronomical Union,Reports 1955,
+    Vol.IX,Commission 30         1955IAUT....9......
+  Transactions of the International Astronomical Union,Reports 1973,
+    Vol.XV A,Commission 30       1973IAUT...15......
+  Turon et al.                   1992BICDS..41....9T Cat. <I/196>
+  Wilson                         1953GCRV..C......0W Cat. <III/21>
+================================================================================
+(End)                                         Patricia Bauer [CDS]   09-Dec-1999

@@ -1,0 +1,95 @@
+III/252      Pulkovo radial velocities for 35493 HIP stars (Gontcharov, 2006)
+================================================================================
+Pulkovo Compilation of Radial Velocities for 35493 Hipparcos Stars in a
+Common System.
+    Gontcharov G.A.
+   <Pis'ma Astron. Zh. 32, 844 (2006)>
+   =2006PAZh...32..844G
+   =2006AstL...32..759G
+================================================================================
+ADC_Keywords: Stars, nearby ; Radial velocities
+Keywords: catalogs - stars: general - stars: kinematics
+
+Abstract:
+    The Pulkovo Compilation of Radial Velocities (PCRV) has been made to
+    study the stellar kinematics in the local spiral arm. The PCRV contains
+    weighted mean absolute radial velocities for 35495 Hipparcos stars of
+    various spectral types and luminosity classes over the entire celestial
+    sphere mainly within 500 pc of the Sun. The median accuracy of the
+    radial velocities obtained is 0.7km/s. Results from 203 publications
+    were used in the catalogue. Four of them were used to improve the radial
+    velocities of standard stars from the IAU list. The radial velocities of
+    155 standard stars turned out to be constant within 0.3km/s. These
+    stars were used to analyze 47768 mean radial velocities for 37200 stars
+    from 12 major publications (80% of all the data used). Zero-point
+    discrepancies and systematic dependences on radial velocity, B-V color
+    index, right ascension, and declination were found in radial velocity
+    differences of the form "publication minus IAU list of standards". These
+    discrepancies and dependences were approximated and taken into account
+    when calculating the weighted mean radial velocities. 1128 stars whose
+    independent radial-velocity determinations were available at least in
+    three of these publications and agreed within 3km/s were chosen as the
+    work list of secondary standards. Radial-velocity differences of the
+    form "publication minus list of secondary standards" were used by
+    analogy to correct the zero points and systematic dependences in the
+    radial velocities from 33 more publications (13% of the data used). In
+    addition, the radial velocities from 154 minor publications (7% of the
+    data used) pertaining to well-known instruments were used without any
+    corrections. Data are also available at:
+    http://www.geocities.com/orionspiral/
+
+File Summary:
+--------------------------------------------------------------------------------
+ FileName   Lrecl  Records   Explanations
+--------------------------------------------------------------------------------
+ReadMe         80        .   This file
+table1.dat     43      155   IAU standard stars used to make the PCRV
+table4.dat     43     1128   Work list of secondary standards used
+table8.dat     50    35493   Main catalogue data
+--------------------------------------------------------------------------------
+
+See also:
+     I/239  : The Hipparcos and Tycho Catalogues (ESA 1997)
+     V/117  : Geneva-Copenhagen Survey of Solar neighbourhood (Nordstrom+ 2004)
+   III/190  : WEB Catalog of Radial Velocities (Duflot+ 1995)
+   III/213  : General Catalog of mean radial velocities (Barbier-Brossat+ 2000)
+ J/A+A/430/165  : Radial velocities for 6691 K and M giants (Famaey+, 2005)
+ J/A+AS/137/451 : Radial velocities. IX. (Grenier+ 1999)
+ J/A+AS/139/433 : RV and vsini of evolved stars (de Medeiros+ 1999)
+
+Byte-by-byte Description of file: table1.dat table4.dat
+--------------------------------------------------------------------------------
+   Bytes Format Units   Label     Explanations
+--------------------------------------------------------------------------------
+   1-  6  I6    --      HIP       Hipparcos number
+   8- 13  I6    --      HD        ? HD number
+  14- 19  F6.1  km/s    RV        Mean radial velocity
+  20- 23  F4.1  km/s  e_RV        Mean error of radial velocity
+  25- 31  F7.3  deg     RAdeg     Approximate right ascension (J2000.0)
+  32- 38  F7.3  deg     DEdeg     Approximate declination (J2000.0)
+  39- 43  F5.2  mag     Vmag      Johnson V magnitude
+--------------------------------------------------------------------------------
+
+Byte-by-byte Description of file: table8.dat
+--------------------------------------------------------------------------------
+   Bytes Format Units   Label     Explanations
+--------------------------------------------------------------------------------
+   1-  6  I6    --      HIP       Hipparcos number
+   8- 13  I6    --      HD        ? HD number
+  14- 20  F7.1  km/s    RV        Mean radial velocity
+  22- 24  F3.1  km/s  e_RV        Mean error of radial velocity
+  25- 26  I2    --    o_RV        Number of publications used
+  27- 30  F4.1  km/s    eRV       ? Standard deviation of RV measurements (1)
+  32- 38  F7.3  deg     RAdeg     Approximate right ascension (J2000.0)
+  39- 45  F7.3  deg     DEdeg     Approximate declination (J2000.0)
+  46- 50  F5.2  mag     Vmag      Johnson V magnitude
+--------------------------------------------------------------------------------
+Note (1): Calculated as the standard deviation of the differences 
+          "publication minus weighted mean velocity" for the case of 
+          two or more publications.
+--------------------------------------------------------------------------------
+
+Acknowledgements:
+    George Gontcharov <georgegontcharov@yahoo.com>
+================================================================================
+(End)    George Gontcharov [Pulkovo Obs.], Patricia Vannier [CDS]    18-Apr-2007

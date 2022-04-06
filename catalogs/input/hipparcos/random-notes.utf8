@@ -1,0 +1,155 @@
+The 5 parts of the annex as a PDF, with graphics of systems (large):
+https://www.cosmos.esa.int/documents/532822/552851/vol10_all.pdf/e9aaf2a5-c9fe-49ff-a277-a92f6e05bd53
+
+Q: what distinguishes these cases with H59=C: 
+   1 ccdm entry in hip   + num-comp = 2..4 (annex components)   ex: 00003-4417 Vmag 6.28 main = Hp 6.894 + Hp 7.551
+   2 ccdm entries in hip + num-comp = 1 (0 annex components)    ex: 00008+3647 Vmag 8.26 + Vmag 10.42
+   
+Q: the docs said somewhere that H59=C with H58=1 had no annex, but the data says otherwise: 00008+3647   
+
+C - optical doubles; fixed position, or linear proper motions over the observing interval (long period systems)
+G - apparent singletons with non-linear motions, t^2 or t^3; astrometric binaries: rho < 0.1" or companion too faint; long-period
+O - some or all of the Keplerian orbital elements; main cat entry is for center-of-mass
+V - variability-induced-movers (VIM), unresolved with one or more variable stars; motion of photocentre coupled to brightness.
+X - none of the above; photocenter moves semi-randomly
+
+The main cat entry is always linear for proper motion across the sky.
+The annex gives the non-linear parts.
+
+"...the HIP number of systems in part C has no simple relation
+to the double and multiple systems or their components: a given HIP number may
+correspond to several components, while a given double or multiple system may contain
+components with different HIP numbers. The entry point to DMSA/C is thus provided
+by the CCDM identifier given in Field H55 of the main catalogue."
+
+Field by field description:
+https://www.cosmos.esa.int/documents/532822/553204/sect2_01.pdf/88f60038-085c-4cf0-9de0-42af104e8ae1
+
+It says that H0 indicates if HIP or TYC data. But I'm not seeing that at all in Vizier. 
+It looks like H0 is always 'H' in Vizier. Their web interface doesn't even include it as a column.
+
+H2: proximity flag, with 10". 10,800 + 125 non-blank.
+Careful: this is about pointing to *other entries* that are nearby.
+It doesn't mean that the item is a multiple system. Different semantics. 
+
+H5: Vmag, Johnson. Mixed bag! Sometimes from other catalogs, sometimes an (approximate) calculated field.
+H7: source of the Vmag.
+
+H10: this entry is which component of a multiple (A, B, ...), photocenter (of 2 or more entries), or center of mass.
+
+"Systems with separations < 0.1−0.15 arcsec or magnitude differences > 3.5−4 mag were
+at the limit of what could be recognised as non-single and measured."
+
+https://www.cosmos.esa.int/documents/532822/552851/vol1_all.pdf/99adf6e3-6893-4824-8fc2-8d3c9cbba2b5
+  the detector's field of view is about 30" across
+  fig 1.4.1 on page 79 - "2-pointing double" geometry; 'pointing' means the pointing of the instrument
+  
+what distinguishes these cases with H59=C? 
+   1 ccdm entry in hip   + num-comp = 2..4 (annex components)   ex: 00003-4417 Vmag 6.28 main = Hp 6.894 + Hp 7.551   Small separation
+   2 ccdm entries in hip + num-comp = 1 (0 annex components)    ex: 00008+3647 Vmag 8.26 + Vmag 10.42                 Large separation
+  
+  
+"..double or multiple stars may be contained
+within a single Hipparcos Catalogue ‘entry’, which means that the detector was always
+(nominally) pointed at the same point in the system, or they may appear as separate
+entries (because of the large component separation), or with one or more previously
+known components unobserved by the satellite (because of its faint magnitude, or due
+to its lack of high-priority scientific interest)."  
+
+
+https://www.cosmos.esa.int/documents/532822/552851/vol1_all.pdf/99adf6e3-6893-4824-8fc2-8d3c9cbba2b5
+Section 1.4.2 on multiplicity!
+
+Two probs with mag criterion
+ - bandpass not the same as V
+ - multiplicity, consolidation of doubles: the individuals are without, but the combo is within
+ 
+Hipparcos is slightly more complete than Tycho for the brighter stars.
+https://www.cosmos.esa.int/documents/532822/552851/vol1_all.pdf/99adf6e3-6893-4824-8fc2-8d3c9cbba2b5 fig 1.1.1
+
+"The same numbering system is strictly adhered to in the final catalogue, so that the Hipparcos
+Catalogue (HIP) number is the same as the HIC number for any given entry."
+
+HIC has radial velocity:
+"Cross-identifications and certain other auxiliary data (in particular the radial velocity, spectral type, variability
+type, and multiplicity data) provided in the Hipparcos Input Catalogue apply equally to the final Hipparcos Catalogue."
+For Vmag < 6.5 it's about 95% complete! To 0.1 km/s, same as Pulkovo. I should likely use it.
+It notes the source and rates the quality.
+"There are three principal sources of radial velocity data used in the present compilation: the General
+Catalogue of Stellar Radial Velocities (Wilson 1953) and the catalogue of Evans (1978), both accessed
+via the SIMBAD data base, and the catalogue of Barbier-Brossat (1989) which was later included
+in the INCA data base."
+The RV ratings:
+ a: 0.5 km/s
+ b: 1.2 km/s
+ c: 2.5 km/s
+ d: 5 km/s
+ e: not given
+
+Celestia 2000:
+kind of an amalgamation of HIP, an updated HIC (radial vel, spectral type), and TYC.
+
+
+"...ground-based proper motions are typically obtained by comparing positional catalogues having
+an epoch difference of 20 to 50 years, the Hipparcos proper motions are determined using a temporal
+baseline of only a few years. The ground-based values thus give the mean motion over several decades,
+while the Hipparcos proper motions are, by comparison, quasi-instantaneous. This is of no consequence
+as long as the motions are uniform, which is a valid assumption at least for the single stars. However,
+many apparently single stars are in reality double, and the actual motions of the individual components
+or of the photocentre of the double star may be significantly non-uniform"
+
+
+"Double stars with separations below
+10 arcsec were observed as a single catalogue entry, with the target position being either
+at the photocentre or at the geometric centre of the two components. Components
+of double stars with wider separations were considered as separate potential targets
+although not all components of such systems were necessarily included in the Hipparcos
+Input Catalogue."
+
+Combined magnitudes mentioned:
+"During the observations of a double star with a separation between 5 and 35 arcsec,
+pointing at the primary, the secondary was not always on the central part of the detector’s
+profile and could consequently appear dimmed. The total intensity as measured by the
+instrument was therefore smaller than the true intensity. The photometric results for
+such double stars have been corrected for this effect, in the computation of both the
+combined magnitudes and the component magnitudes."
+
+Should I filter on Vt?
+
+Should I use Tycho-2 proper motions (0.1mas)? Hipparcos has such a short time-scale, but it still has 0.01mas.
+
+H2 10" proximity flag, to either a HIP or TYC entry.
+
+My mag 5 star atlas used 210" (3.5') as its proximity limit.
+Mizar-Alcor is about 12'.
+Good sextant measurements are to 1', and even below. Maybe 10" is perfectly fine.
+Alpha Centauri A and B are 20.9" apart.
+
+RASC has almost all doubles with sep < 10".
+Norton's eps Lyr as 'naked eye pair' sep 207.8".
+
+Sirius A HD 48915 (the sep should be about 11.08")
+HIP    Vmag   par     pmRA    pmDec    CCDM       H57.Nsys H58.Ncomp MultFlag
+32349 -1.44 379.21  -546.01 -1223.08  06451-1643  1       1          O     ???????
+1 orbital solution; where is Sirius B?
+HIC has 4 components under that CCDM, ABCD.
+B is HIC 32349
+
+
+14 Ori
+HIP    Vmag   par     pmRA    pmDec    CCDM        H57.Nsys H58.Ncomp MultFlag
+23879   5.33   16.84   34.96   -59.49  05079+0830  1         2         C 
+2 components in the annex, Hp 5.807+6.711, sep 0.68".
+
+84 Cet
+HIP    Vmag   par     pmRA    pmDec    CCDM        H57.Nsys H58.Ncomp MultFlag
+12530  5.72   46.24   218.94  -125.30   02412-0042  1        2          C
+2 components in the annex, Hp 5.871+9.675, sep 4.01". 
+
+CCDM has some pairs with wide separations, 1648 over 100", 17 over 1000".
+They don't have a tight definition of a max separation.
+CCDM was created as an input to Hipparcos. 
+
+Visual Double Stars in Hipparcos : I/260 (2000)
+https://cdsarc.cds.unistra.fr/viz-bin/cat/I/260
+Has 1404 with sep > 100".

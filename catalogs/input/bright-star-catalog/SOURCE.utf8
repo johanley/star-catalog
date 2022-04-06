@@ -1,0 +1,12 @@
+Bright Star Catalog r5 (1991):
+https://cdsarc.cds.unistra.fr/viz-bin/cat/V/50
+Download the 'catalog' file, and place it in this directory.
+
+Note: 
+It seems like the 5th edition was never published in book form. 
+The source documents are not totally clear in this regard.  
+
+Supplement (1983, for r4):
+https://cdsarc.cds.unistra.fr/viz-bin/cat/V/36B
+The supplement has large differences with the r5 main catalog, both in layout and data details.
+There is no supplement for r5. Is it best to ignore the supplement when using r5? 

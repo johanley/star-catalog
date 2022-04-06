@@ -1,0 +1,3578 @@
+   434   S:   (a) Also classified A4Vm.
+   443   D:   (a) Astrometric binary unresolved by
+   443   D:   (b) speckle interferometry 1975-6.
+   698   S:   (a) Also classified B7+B:.
+   698   Var: (a) NSV 74.  7.07-7.11V.  SB originally
+   698   Var: (b) thought to be eclipsing is not eclipsing.
+   698   SB:  (a) 55.9212d, e 0.01, K 84.2k/s, V$0
+   698   SB:  (b) -25.6k/s, asini 65.7.  Masses about
+   698   SB:  (c) 15 solar; primary undergoing mass-loss.
+   761   D:   (a) ADS 148, 7.3,8.1v, 68.5y, e 0.79,
+   761   D:   (b) a 0.225", i 38~.
+   861   S:   (a) Metallic-line star, also classified
+   861   S:   (b) A2m, A3V, from K-line, F2 from metallic.
+   861   SB:  (a) 11.2153d, e 0.22k/s, K 43.8k/s, V$0
+   861   SB:  (b) -12.5, asini 6.59.
+   941   M:   (a) Highly evolved.
+  1142   S:   (a) Also classified G0V and G1III.
+  1142   RV:  (a) Haute Provence gives values -15 and -40k/s.
+  1223   Dyn: (a) ".008.
+  1228   Var: (a) NSV 112.  Amp. 0.04V.
+  1273   SB:  (a) 411.9d, e 0.58, K 13.7k/s, V$0
+  1273   SB:  (b) -14.4k/s, asini 63.5.
+  1317   N:   (a) 38 Psc.
+  1317   D:   (a) Tabulated mag. and colors for blend
+  1317   D:   (b) ABC.  AB 7.16V, +0.67(B-V),
+  1317   D:   (c) +0.14(U-B).  Proper motion of C,
+  1317   D:   (d) +.073",+.090".  ADS 238AB period near
+  1317   D:   (e) 20y.  Speckle interferometry AB, sep.
+  1317   D:   (f) 0.186", 125~; ABxC, sep. 1.757", 111~.
+  1317   D:   (g) C, 7.79V, +0.43(B-V), -0.09(U-B), dA9.
+  1400   S:   (a) Also classified dK5.
+  1431   S:   (a) Also classified A0Vn.
+  1431   Dyn: (a) ".002.
+  1563   N:   (a) 40 Psc.
+  1826   Var: (a) Amp. 0.025V, 1.4323d same as SB.
+  1826   SB:  (a) 1.4323d, e 0.02, K 53.4k/s, V$0
+  1826   SB:  (b) +4.4k/s, asini 1.05.
+  1826   D:   (a) Probably member of ADS 324.  Component
+  1826   D:   (b) A, = DM +28~56, 8.20V, +0.555(B-V),
+  1826   D:   (c) +0.05(U-B), G0.  PM +0.063",+0.000".
+  1826   D:   (d) Component B, = DM +28~55, 8.48V,
+  1826   D:   (e) +0.58(B-V), +0.085(U-B), G0.
+  1826   D:   (f) PM +0.050",-0.007".
+  2019   S:   (a) Secondary spectrum of SB seen but
+  2019   S:   (b) difficult to measure.
+  2019   SB:  (a) 3.1128d, e 0.03, K$1 79.6k/s, V$0
+  2019   SB:  (b) +4.8k/s, m$1sin3i 2.00, a$1sini 3.41;
+  2019   SB:  (c) K$2 134.7k/s, m$2sin3i 1.18, a$2sini 5.76.
+  2019   M:   (a) Close to the IR source UGC 238,
+  2019   M:   (b) which is a member of the Perseus
+  2019   M:   (c) supercluster of galaxies.
+  2070   SB:  (a) 115.33d, e 0.33, K 15.3k/s, V$0
+  2070   SB:  (b) +8.3k/s, asini 22.9.
+  2140   N:   (a) 45 Psc.
+  2140   G:   (a) Group with HR 1614.
+  2207   Var: (a) TU Cas.  6.88 to 8.03V, +0.18 to
+  2207   Var: (b) +0.66(B-V), 2.13930d.  This is probably a
+  2207   Var: (c) beat period of two shorter periods.  Highest
+  2207   Var: (d) observed max. 6.88; usually fainter.
+  2301   D:   (a) BD +49~95, ADS 364, a quadruple system
+  2301   D:   (b) of faint stars is within 6' of ADS
+  2301   D:   (c) 361, BD +49~91.  The proper motions
+  2301   D:   (d) of BD +49~91 and +49~95 in SAO and
+  2301   D:   (e) AGK3 discordant.  The AGK3 values for
+  2301   D:   (f) HD 2301 are -.009",+.004".
+  2358   RV:  (a) Discordant values, +2.1 and -20.2k/s.
+  2358   D:   (a) Component B, 10v F8 at 103", 238~.
+  2358   D:   (b) C is BD +15~60, PM +.013",-.018".
+  2358   G:   (a) Member Hyades Group.
+  2438   Var: (a) AG Cet.  SRb.  6.99 to 7.45V, +1.48 to
+  2438   Var: (b) +1.50(B-V), +0.92 to 1.12(U-B), +1.69
+  2438   Var: (c) to 1.72(R-I).  90d, quasi-periodic.
+  2453   Var: (a) GR And.  @aCV.  6.90-6.95V.  Variation
+  2453   Var: (b) in U in period about 1y.
+  2760   D:   (a) Component A of ADS 426.  BC, 8.45V,
+  2760   D:   (b) +0.62(B-V), +0.10(U-B), G0.  BC,
+  2760   D:   (c) 9.7,9.7v, sep. 0.5", 186~, PM +.003",-.029".
+  2873   M:   (a) Misidentified by Eggen and Blanco as
+  2873   M:   (b) HR 873, was used as comparison star
+  2873   M:   (c) for TU Cas.
+  2901   S:   (a) K2IIICN-0.5Ca1.
+  2901   D:   (a) CPM with HD 2952 = HR 135.
+  2925   S:   (a) G8/K0III/IVmd.
+  3074   S:   (a) Also classified G0V.
+  3074   D:   (a) 6.8,8.6v, @DV = 1.82,
+  3074   D:   (b) @D(B-V) = 0.32, @D(U-B) = 0.45.
+  3074   Dyn: (a) ".005.
+  3125AB D:   (a) ADS 475C = BD -5~84, 9.27V, +0.57(B-V),
+  3125AB D:   (b) +0.07(U-B).  PM +.089",-.002".
+  3125AB Dyn: (a) ".004.
+  3165   D:   (a) Component B, 9.19V, +0.97(B-V),
+  3165   D:   (b) +0.66(U-B), G8III/IV, RV -8.0k/s,
+  3165   D:   (c) CPM, -0.016",-0.012".
+  3165   Dyn: (a) ".009.
+  3405   SB:  (a) 3.7418d, e 0.01, K$1 84.9k/s, V$0
+  3405   SB:  (b) -3.0k/s, m$1sin3i .994, a$1sini 4.37;
+  3405   SB:  (c) K$2 86.8k/s, m$2sin3i .972, a$2sini 4.47.
+  3405   D:   (a) Component B at 330", 273~, 8.40V, G8IV
+  3405   D:   (b) = HD 3359 = -49~138; RV +5k/s.
+  3405   D:   (c) Probably optical.
+  3460   D:   (a) 7.7,7.9v.
+  3460   G:   (a) Member 61 Cyg Group.
+  3512   N:   (a) 15 Cet.
+  3512   D:   (a) ADS 534B, 13.53V, +0.64(B-V),
+  3512   D:   (b) +0.15(U-B), optical?
+  3580   S:   (a) Also classified B4IV.
+  3580   Var: (a) BB Cet.  Amp. 0.04u, 0.02v, 0.015y on
+  3580   Var: (b) Geneva system.  1.480 or 2.94d.
+  3821   D:   (a) ADS 566B, 10.02V, +1.22(B-V),
+  3821   D:   (b) +1.08:(U-B), dM1, RV+10, +22k/s,
+  3821   D:   (c) optical.  Trig. parallax of A,
+  3821   D:   (d) +".037+/-7; of B, +".039+/-6.
+  3821   Dyn: (a) ".053.
+  3950   Var: (a) V486 Cas.  EB, 6.91-6.95V, 5.551d.
+  3950   SB:  (a) 5.565d, e 0.09, K$1 26k/s, V$0 -85k/s,
+  3950   SB:  (b) m$1sin3i .653, a$1sini 1.98; K$2 88k/s,
+  3950   SB:  (c) m$2sin3i .193, a$2sini 6.71.
+  3950   RV:  (a) Vitrichenko gives two values for
+  3950   RV:  (b) vsini: 40 and 10k/s.  Uncertain if
+  3950   RV:  (c) these are for the same star or two
+  3950   RV:  (d) components.
+  4271   N:   (a) LTT 417.
+  4271   D:   (a) LTT 418, 14.56V, +1.66(B-V),
+  4271   D:   (b) +1.17(U-B), +1.37(R-I)$E, color class
+  4271   D:   (c) m, is CPM at 55", 46~.
+  4308   G:   (a) Arcturus Group, member.
+  4332   S:   (a) K4II/IIICNIV/V.
+  4647   Var: (a) NSV 305.  Lb, amp. 0.5p.
+  5459   G:   (a) HII 13.
+  5617   Dyn: (a) ".010.
+  5638   SB:  (a) 10.418d, e 0.13, K 64.3k/s, V$0
+  5638   SB:  (b) -12.9k/s, asini 9.13.
+  5659   D:   (a) A, 7.79V, +0.43(B-V), -0.03(U-B), dF6;
+  5659   D:   (b) B, 7.85V, +0.44(B-V), -0.04(U-B),
+  5659   D:   (c) dF7, at 6", 216~, RV -2.6k/s, PM
+  5659   D:   (d) +.023",+.013".  Trig. parallax of A,
+  5659   D:   (e) +".026+/-8; of B, +".034+/-12.
+  5659   Dyn: (a) ".011.
+  5679   S:   (a) B7/8V+G8III/IV.
+  5679   Var: (a) U Cep.  ADS 830A, EA, 6.80-9.10V,
+  5679   Var: (b) 2.493083d, masses 4.2, 2.8 solar,
+  5679   Var: (c) radii 2.9, 4.8 solar, semi-detached
+  5679   Var: (d) system.  Secondary min 6.89V.  Period
+  5679   Var: (e) varies, gradual increase as well as
+  5679   Var: (f) irregular spontaneous variations.  In
+  5679   Var: (g) primary minimum, emission lines of
+  5679   Var: (h) variable intensity.  For the two
+  5679   Var: (i) eclipsing components Eggen gives
+  5679   Var: (j) 6.95V, -0.11(B-V), -0.43(U-B), B7V;
+  5679   Var: (k) and 9.11V, +0.88(B-V), +0.40(U-B), G8III.
+  5679   SB:  (a) 2.4930d, e 0.0, K$1 120k/s, V$0 -2k/s,
+  5679   SB:  (b) m$1sin3i 4.19, K$2 180k/s, m$2sin3i
+  5679   SB:  (c) 2.80, a$1sini 4.11; a$2sini 6.17.
+  5679   SB:  (d) Brighter component of ADS 830;
+  5679   SB:  (e) companion 11.2m at 13.8".
+  5679   RV:  (a) ADS 830 A, from -157 to +189k/s.
+  5679   RV:  (b) Emission lines give +310k/s.
+  5679   D:   (a) B, 11.2v ,RV +20.6k/s, PM
+  5679   D:   (b) +.023",-.002"; @Dm for variable
+  5679   D:   (c) primary at maximum.  C, 12.2v at
+  5679   D:   (d) 21.2", 323~, companions of the
+  5679   D:   (e) eclipsing variable, U Cep.
+  5679   G:   (a) Primary component surrounded by
+  5679   G:   (b) gaseous disc.
+  5747   G:   (a) HII 13.
+  6334   C:   (a) Magnitude and colors blend of
+  6334   C:   (b) components A and B.
+  6334   S:   (a) Also classified F6/8III/IV.
+  6334   D:   (a) Component A, 7.52V, +0.48(B-V),
+  6334   D:   (b) +0.04(U-B); RV +12k/s.  Component B,
+  6334   D:   (c) 7.62V, +0.46(B-V), +0.02(U-B); RV
+  6334   D:   (d) +13k/s.  Component C, 11.8v at 100".
+  6334   Dyn: (a) ".006.
+  6403   D:   (a) 6.6,10.6v.
+  6403   Dyn: (a) ".018.
+  6734   N:   (a) 29 Cet.
+  6734   G:   (a) Arcturus group, member.
+  6833   S:   (a) K1.5IIICN1Fe0.5.  Metal-deficient red giant.
+  6869   Dyn: (a) ".007.
+  6918   D:   (a) ADS 963Aa.  Nearly equal components
+  6918   D:   (b) showing orbital motion.  Other
+  6918   D:   (c) components probably optical.
+  6918   Dyn: (a) ".014.
+  7122   Var: (a) AM Cet.  SRb.  6.84 to 7.13V, +1.54 to
+  7122   Var: (b) 1.64(B-V), 1.46 to 1.61(U-B), +1.16
+  7122   Var: (c) to 1.25(R-I).  70d, quasi-periodic.
+  7215   S:   (a) Also classified A0V.
+  7215   D:   (a) Component A, SB2, A2+A1.
+  7215   D:   (b) Component B, 8.78V, +0.20(B-V),
+  7215   D:   (c) +0.075.  CPM.
+  7215   Dyn: (a) ".020.
+  7471   D:   (a) ADS 1030C.  AB, HD 7507, 7.17V,
+  7471   D:   (b) +0.38(B-V), +0.04(U-B), F0.
+  7471   D:   (c) Components differ by one magnitude
+  7471   D:   (d) and show orbital motion.  Probably
+  7471   D:   (e) not related to CD or E.  CD possibly
+  7471   D:   (f) a physical system.  D, 11.64V,
+  7471   D:   (g) +0.61(B-V), +0.07(U-B).  E, 15.58V,
+  7471   D:   (h) +1.08(B-V), optical.
+  7471   Dyn: (a) ".006.
+  7561   S:   (a) Formerly classified N0.
+  7561   Var: (a) Z Psc.  SRb, 8.8-10.1p, 144d.
+  7636   S:   (a) Also classified B2V, B1.5e.
+  7727   N:   (a) 40 Cet.
+  7902   Var: (a) NSV 466, ADS 1073C 6.93-7.01V.  B6Ib.
+  7902   D:   (a) ADS 1073A = HR 382 = HD 7927.  B 12.3
+  7902   D:   (b) at 48", 208~.  C is BD +57~257.
+  7902   G:   (a) NGC 457.131.
+  8001   Var: (a) NSV 465.  Spectrum probably var.
+  8224   Dyn: (a) ".019.
+  8391   G:   (a) Member Hyades Group.
+  8441   S:   (a) B8/A2pSrCrEu.
+  8441   Var: (a) HN And.  @aCV, 6.67-6.76V, 69.5d.
+  8441   SB:  (a) Period 106.27d.
+  8441   Dyn: (a) ".011.
+  8487   Dyn: (a) ".006.
+  8787   D:   (a) Comp. B is CPD -60~111, PM  +.085",+.023".
+  8875   N:   (a) 95 Psc.
+  8875   Var: (a) NSV 515.  Amp. 0.03.
+  8875   D:   (a) ADS 1158, 7.6,7.9v, 63.8y, e 0.86, a
+  8875   D:   (b) 0.311", i 111~.  Also occultation double.
+  8875   Dyn: (a) ".003.
+  8875   G:   (a) Wolf 630 Group, member.
+  9022   RV:  (a) +39 and +54.9k/s.
+  9166   G:   (a) @zHerculis Group.
+  9250   S:   (a) Also classified F8II.
+  9250   Var: (a) V636 Cas.  C@d, amp. 0.17V, 8.377d.
+  9250   Var: (b) (B-V) on Geneva system varies from
+  9250   Var: (c) about +0.70 to +0.79.  One of the
+  9250   Var: (d) smallest amplitude Cepheids known.
+  9250   SB:  (a) 8.377d, amp. 9.4k/s.
+  9312   SB:  (a) Brighter component of ADS 1202.  36.588d,
+  9312   SB:  (b) e 0.20, K 30.0k/s, V$0 -3.4k/s, asini 14.8.
+  9312   D:   (a) Component C 11.60V at 67", 241~,
+  9312   D:   (b) probably optical.
+  9336   D:   (a) Component B, -19~263, 7.39V, K0 = HD
+  9336   D:   (b) 9337, PM +.031",-.007".
+  9770   D:   (a) AB 7.8,7.9v, 4.559y, e 0.316, a 0.171",
+  9770   D:   (b) i 25~.  AB-C 7.10,11.5, K3V+M2V, 115.2y,
+  9770   D:   (c) a 1.443".  111.8y, a 1.419".
+  9770   Dyn: (a) ".056.
+ 10135   N:   (a) 104 Psc.
+ 10783   Var: (a) UZ Psc.  @aCV.  Amp. .022V, 4.1327d.
+ 10783   Var: (b) Magnetic variable, period of magnetic
+ 10783   Var: (c) field 4.134d.
+ 10783   SB:  (a) Period 1 year or longer.
+ 11131   D:   (a) CPM with HD 11171 = HR 531 = @cCyg,
+ 11131   D:   (b) parallax +".046.
+ 11285   Var: (a) VV Ari.  @dSct,  6.69 and 6.74V, amp.
+ 11285   Var: (b) 0.02(B-V), 110min.  Ultra-short
+ 11285   Var: (c) period cepheid.
+ 11860   SB:  (a) 7.4391d, e 0.0, K$1 31.6k/s, V$0
+ 11860   SB:  (b) -9.5k/s, m$1sin3i 0.124, a$1sini 3.23;
+ 11860   SB:  (c) K$2 35.6k/s, m$2sin3i 0.110, a$2sini
+ 11860   SB:  (d) 3.64.  Primary perhaps as late as A2.
+ 11860   SB:  (e) Secondary has weak K-line and may be Am.
+ 11860   RV:  (a) +1 to -24k/s.
+ 12369   G:   (a) Member Arcturus Group.
+ 12402   G:   (a) Member Hyades Group.
+ 12509   G:   (a) Perseus I.
+ 12927   D:   (a) Component B is HD 12881, 7.17V, Am, SB2
+ 12927   D:   (b) period 3.674d.  C is 13.9v at 51" from B.
+ 13043   D:   (a) LTT 1107.  Companion is LTT 1106, 10.52V,
+ 13043   D:   (b) +1.24(B-V), +1.23(U-B), at 84", 339~, CPM.
+ 13136   C:   (a) Tabulated V is mag. of var. at max.;
+ 13136   C:   (b) Nicolet 7.75V, +2.24(B-V), +2.35(U-B).
+ 13136   S:   (a) M1.0-M3.5Iab-Ib.
+ 13136   Var: (a) KK Per.  Lc, 6.6-7.78V.
+ 13136   G:   (a) Member h and @cPersei.
+ 13403   Var: (a) Either component A or B is variable by
+ 13403   Var: (b) 0.5m, short period.
+ 13403   RV:  (a) -15 to -34k/s.
+ 13403   D:   (a) Component B is +56~446, 8.6v G0.
+ 13435   S:   (a) Also classified K1III.
+ 13579   C:   (a) Other determinations of UBV, 7.07 to
+ 13579   C:   (b) 7.19V, 0.86-0.91(B-V), 0.57 to 0.70(U-B).
+ 13579   D:   (a) Component B is BD +66~193.
+ 14082   D:   (a) Component B, 7.77V, +0.615(B-V),
+ 14082   D:   (b) +0.08(U-B), G2V.  CPM.
+ 14082   Dyn: (a) ".017.
+ 14134   Var: (a) Rufener suspected var.
+ 14134   G:   (a) H Per 1057.  NGC 869.1057
+ 14143   Var: (a) Rufener suspected var.
+ 14143   G:   (a) H Per 1162.  NGC 869.1162.
+ 14322   C:   (a) V ranges from 6.74 to 6.86, (B-V) from
+ 14322   C:   (b) +0.29 to +0.35, (U-B) from -0.28 to
+ 14322   C:   (c) -0.34, and (R-I) from +0.16 to +0.24.
+ 14433   C:   (a) V ranges from 6.37 to 6.44V.
+ 14433   G:   (a) NGC 884.2178.
+ 14542   Var: (a) NSV 806.  Amp. 0.08V.
+ 14542   G:   (a) NGC 884.2621.
+ 14817   Var: (a) V559 Cas.  E, primary amp. 0.22V,
+ 14817   Var: (b) secondary 0.20V.  Uncertain which
+ 14817   Var: (c) component of ADS 1833 is the eclipsing
+ 14817   Var: (d) binary, but @Dm = 0.26V.  The bright
+ 14817   Var: (e) visual companion at only 0.25".
+ 14817   SB:  (a) ADS 1833A is SB1, 1.58d.
+ 14817   D:   (a) 7.5,8.0v, 581.861y, e 0.613, a 0.682", i 47~.
+ 14817   Dyn: (a) ".008.
+ 14817   G:   (a) Near HII 18, IC 1795.
+ 14882   D:   (a) 7.6,7.9v F8, 110.5y, e 0.48, a 0.640",
+ 14882   D:   (b) i 101~.  Retrograde motion.
+ 14882   Dyn: (a) ".011.
+ 14914   S:   (a) Also classified K0V.
+ 14914   RV:  (a) +12.0 to 22.7k/s.
+ 15165   Var: (a) VW Ari.  ADS 15164A.  @dSct, amp.
+ 15165   Var: (b) 0.07V.  About 2.5h.  0.149d, variable
+ 15165   Var: (c) amplitude; and 0.089d, constant amplitude.
+ 15165   D:   (a) The primary may be a horizontal branch
+ 15165   D:   (b) star; if so, it is the brightest known.
+ 15165   D:   (c) Component B = BD +9~372, HD 15164, 8.33V,
+ 15165   D:   (d) F0, PM +.031",-.030".  Component C, 11.3v
+ 15165   D:   (e) at 62".  Component A, a metal-poor @dSct
+ 15165   D:   (f) star; component B is metal-normal.
+ 15228   N:   (a) 25 Ari in Cet.
+ 15497   Var: (a) V425 Per.  Microvariable in V.  Amp. 0.12V.
+ 15497   RV:  (a) -35.4 to -59k/s.
+ 15793   Var: (a) TV Hor.  SRb.  6.74 to 6.89V, +1.55 to
+ 15793   Var: (b) +1.65(B-V), +1.53 to +1.62(U-B), 5.05
+ 15793   Var: (c) to 5.23R, +1.31 to +1.35(R-I)$E.  About 30d.
+ 16141   N:   (a) 79 Cet.
+ 16448   RV:  (a) -15 to -26.0k/s.
+ 16505   RV:  (a) -49.7 to -69.4k/s.
+ 16626   S:   (a) Also classified F2V.
+ 16626   G:   (a) NGC 1027.1.
+ 16694AB D:   (a) AB nearly equal components, 7.5,7.8v;
+ 16694AB D:   (b) C, 9.47V, +0.25(B-V), +0.11(U-B),
+ 16694AB D:   (c) A7IV, at 66".
+ 16694AB Dyn: (a) ".005.
+ 16723   S:   (a) Metallic-line star also classified F0IV.
+ 16855   G:   (a) Member Hyades Group.
+ 17086   G:   (a) HII 26.
+ 17245/6 RV:  (a) vsini for 17245 = 80k/s; for 17246, <=50k/s.
+ 17332   D:   (a) ADS 2122AB, 7.4,8.2v, @DV = 0.69,
+ 17332   D:   (b) @D(B-V) = 0.17, @D(U-B) = 0.08, 720y,
+ 17332   D:   (c) e 0.77, a 2.913", i 114~.  Also
+ 17332   D:   (d) occultation binary.  Component B, PM
+ 17332   D:   (e) +.098",-.145".
+ 17332   Dyn: (a) ".036.
+ 17433   Var: (a) VY Ari.  BY Dra, 6.834-7.013V; +0.929
+ 17433   Var: (b) to +0.983 (B-V); +0.604 to +0.661
+ 17433   Var: (c) (U-B).  7.854d and 43.9d.
+ 17505   S:   (a) Also classified Oe5V and O7.5.
+ 17505   G:   (a) IC 1848.10, HII 26.
+ 17895   Var: (a) RR Eri.  SRb, amp. 1.2p, 97d.  6.93 to
+ 17895   Var: (b) 7.54V, +1.55 to +1.67(B-V), +1.19 to
+ 17895   Var: (c) +1.52(U-B), +1.50 to +1.67(R-I)$E.
+ 17895   G:   (a) Old disc population.
+ 18352   S:   (a) Also classified B2III.
+ 18352   RV:  (a) -1.5 to -18k/s.
+ 18391   C:   (a) Another determination of V, 6.978.
+ 18391   S:   (a) Also classified G0Ia.
+ 18391   Var: (a) Gradual increase in brightness.
+ 18391   Var: (b) Microvariable in colors.
+ 18391   RV:  (a) One early obs, -33k/s; two later -44
+ 18391   RV:  (b) and -46k/s.
+ 18757   S:   (a) Also classified G2IV.
+ 18757   RV:  (a) Mean values from different sources
+ 18757   RV:  (b) range from -3 to -9.4k/s.
+ 18803   N:   (a) 51 Ari.
+ 19243   Var: (a) NSV 1048.  Amp. 0.31V.
+ 19467   G:   (a) Probable member Wolf 630 Group.
+ 19624   G:   (a) Mel 20.145.  @aPer Cluster.
+ 19820   S:   (a) O9.3IV+O9.IV; also variously
+ 19820   S:   (b) classified O9III, O8, O9IV, O9V,
+ 19820   S:   (c) O8.5III((N)), B0II.
+ 19820   Var: (a) CC Cas.  EA, 7.59-7.74B, 3.36897d.
+ 19820   Var: (b) Secondary minimum 7.68B.  Variable
+ 19820   Var: (c) radio emission at 2695 and 8055 MHz.
+ 19820   SB:  (a) 3.3690d, e 0.10, K$1 141.7k/s, K$2
+ 19820   SB:  (b) 291.8k/s, V$0-4.2k/s, m$1sin3i 18.9,
+ 19820   SB:  (c) m$2sin3i 9.18, a$1sini 6.53, a$2sini 13.5.
+ 19820   G:   (a) HII 29.
+ 20060   D:   (a) Component B, 10.7v at 43", 40~ is CPD
+ 20060   D:   (b) -64~231.
+ 20301   Var: (a) TZ For.  E, amp., 0.28u, 0.25v, 0.21b
+ 20301   Var: (b) and 0.19y.  37.805d, possibly 75.61d.
+ 20301   Var: (c) Primary eclipse may last 24h.
+ 20301   Var: (d) Alternate possible periods 50.46d,
+ 20301   Var: (e) and 44.18d.
+ 20301   RV:  (a) Period 40-50d.
+ 20407   Var: (a) Suspected Am variable: UBV values
+ 20407   Var: (b) range from 6.67 to 6.92V, +0.32 to
+ 20407   Var: (c) +0.58(B-V), 0.00 to +0.19(U-B), and
+ 20407   Var: (d) +0.14 to +0.19 (R-I).
+ 20536   RV:  (a) -8.3 and +15k/s.  Objective prism RV +15k/s.
+ 20557   M:   (a) Magnitude or identification in A&A
+ 20557   M:   (b) Supp 43, 127, 1981, questioned;
+ 20557   M:   (c) CPD gives 8.0v, HD gives 8.8.
+ 20863   G:   (a) Mel 20.581; @aPer Cluster.
+ 21181   G:   (a) Mel 20.735; @aPer Cluster.
+ 21223   S:   (a) Metallic-line star also classified
+ 21223   S:   (b) A5m, A7-F0.
+ 21238   G:   (a) Mel 20.747.
+ 21242   S:   (a) G5IV/V+K0IV.
+ 21242   Var: (a) UX Ari.  RS CVn type, 6.37-6.49V,
+ 21242   Var: (b) 6.43791d.  No eclipses observed.  H@a
+ 21242   Var: (c) profile varies.  Period of light equals
+ 21242   Var: (d) period of orbital motion.  Light variations
+ 21242   Var: (e) not caused by eclipses.  Form of light
+ 21242   Var: (f) curve varies.  Amplitude varies.
+ 21242   SB:  (a) The later-type component is the more
+ 21242   SB:  (b) massive.  Not known to be eclipsing
+ 21242   SB:  (c) but probably RS CVn type.  6.4379d,
+ 21242   SB:  (d) K$1 66.7k/s, K$2 59.4k/s, V$0
+ 21242   SB:  (e) +26.5k/s, m$1sin3i 0.631, m$2sin3i
+ 21242   SB:  (f) 0.709, a$1sini 5.90, a$2sini 5.26.
+ 21483   C:   (a) Published V range from 6.95 to 7.07.
+ 21540   G:   (a) Mel 20.903; @aPer Cluster.
+ 21641   D:   (a) PM of component B, +.020",+.018".  Optical?
+ 21641   G:   (a) Mel 20.955; @aPer Cluster.
+ 21672   G:   (a) @aPer Cluster.  Mel 20.965.
+ 21940   S:   (a) Metallic-line star also classified
+ 21940   S:   (b) A2m, A5-A8.
+ 22136   Var: (a) NSV 1197.  Amp. 0.03V.
+ 22136   RV:  (a) +10.7, -1.5, +2k/s.
+ 22136   G:   (a) Mel 20.1153; @aPer Cluster.
+ 22374   N:   (a) 9 Tau.
+ 22374   C:   (a) (B-V), +0.10, +0.16.
+ 22374   Var: (a) V486 Tau.  @aCV, 6.65-6.78V, 10.61d.
+ 22399   D:   (a) ADS 2650BC, 8.20V, +0.83(B-V),
+ 22399   D:   (b) +0.40(U-B) at 46", 69~.
+ 22578   G:   (a) Mel 22.5004.  TS 23.  Member Pleiades
+ 22578   G:   (b) cluster.  Reflection nebula IC 336.
+ 22614   D:   (a) Reported double in 1841 but probably
+ 22614   D:   (b) single star.
+ 22614   G:   (a) Mel 22.5005.  Pleiades cluster member, TS 25.
+ 22918   G:   (a) Near HII 668.
+ 22989   D:   (a) Component B, 8.9 F5 is CPD -60~261 =
+ 22989   D:   (b) HD 22960.  CPM.
+ 23410   Var: (a) NSV 1280, ADS 2748A.  Is:, 6.5-7.3p.
+ 23410   SB:  (a) Only K-line found double; it yields
+ 23410   SB:  (b) elements 7.1538d, V$0 -23k/s, e
+ 23410   SB:  (c) 0.631, K$1 86.2k/s, K$2 144:k/s,
+ 23410   SB:  (d) a$1sini 6.58, a$2sini 12.3.  m$1sin3i
+ 23410   SB:  (e) 2.66, m$2sin3i 1.59.
+ 23410   D:   (a) ADS 2748A.  B, 11v.  A is occultation
+ 23410   D:   (b) double, 8.5,9.1v, sep. 0.001".
+ 23410   G:   (a) Mel 22.801.  Pleiades Cluster member, H 801.
+ 23456   S:   (a) Also classified F6V.
+ 23478   G:   (a) Perseus II.
+ 23484   S:   (a) Ultraviolet deficient.
+ 23568   RV:  (a) Values range from -19 to +17k/s.
+ 23568   D:   (a) Occultation sep. 0.299".  Unresolved
+ 23568   D:   (b) by speckle interferometry 1975-6.
+ 23568   G:   (a) Mel 22.1234.  Pleiades Cluster member.
+ 23629   N:   (a) @hTauB, 24 Tau.
+ 23629   C:   (a) V also given as 6.83.  HD mag. 8.1 in  error.
+ 23629   S:   (a) Also classified B0IV.  Companion  F0III.
+ 23629   D:   (a) Component A is HD 23630 = HR 1165, an
+ 23629   D:   (b) occultation binary and SB.  Occultation
+ 23629   D:   (c) binary 7.1,8.2v, sep. 0.0016", 205~.
+ 23629   D:   (d) Unresolved by speckle interferometry in 1976.
+ 23629   R:   (a) Diam. ".0104 by occultation.
+ 23629   G:   (a) Mel 22.1375.  Pleiades Cluster.
+ 23632   RV:  (a) Values range from -24 to +25k/s.
+ 23632   G:   (a) Mel 22.1380.  Pleiades Cluster member.
+ 23642   S:   (a) AoVpSi+A5m.
+ 23642   SB:  (a) First binary in Pleiades found to show
+ 23642   SB:  (b) double lines.  @Dm, 1.1 or 1.4.  Should be
+ 23642   SB:  (c) tested for shallow eclipses.  2.46111d,
+ 23642   SB:  (d) V$0 +5k/s, e 0.018, K$1 98.1k/s, K$2
+ 23642   SB:  (e) 140.6k/s, a$1sini 3.32, a$2sini 4.76, m$1sin3i
+ 23642   SB:  (f) 2.05, m$2sin3i 1.43.  Spectra A0 and A1.
+ 23642   D:   (a) Occultation double, sep. 0.0004".
+ 23642   G:   (a) Mel 22.1431.  Pleiades Cluster member.
+ 23675   S:   (a) Also classified B0Ib.
+ 23675   Var: (a) NSV 1333.  6.69-6.72V.
+ 23675   RV:  (a) Component B, vsini 115k/s.
+ 23675   D:   (a) ADS 2783, 7.0,9.2v.  C, 12.2v, 12",
+ 23675   D:   (b) 39~; D, 10.3v, 66", 336~.
+ 23675   G:   (a) NGC 1444.1.  Cluster member.
+ 23712   R:   (a) Diam. ".0018 from occultation.
+ 23712   G:   (a) Mel 22.1705.  Pleiades H1705.  Non-member.
+ 23763   RV:  (a) +14.2, -7.6, -9.6, +7.6Vk/s.
+ 23763   D:   (a) Suspected occultation double.
+ 23763   G:   (a) Mel 22.1876.  Pleiades Cluster member H1876.
+ 23800   S:   (a) H@a bright.
+ 23800   Var: (a) NSV 1357.  Amp. 0.10V.
+ 23800   G:   (a) NGC 1444.2 member.
+ 23822   N:   (a) 26 Tau.
+ 23822   D:   (a) Occultation double, sep. 0.0092".
+ 23822   D:   (b) Unresolved by speckle interferometry
+ 23822   D:   (c) in 1976.
+ 23841   G:   (a) Probable member Wolf 630 Group.  HII 668.
+ 23873   D:   (a) Component A is occultation double,
+ 23873   D:   (b) 7.4,7.4v; component B, 8.1v, B9, at
+ 23873   D:   (c) 87", 308~, is BD +23~560, PM +0.022",-.039".
+ 23873   G:   (a) Mel 22.2263.  Pleiades Cluster member.
+ 23913   RV:  (a) DAO values range from +2.5 to
+ 23913   RV:  (b) +12.8k/s.  The earlier RV -7.0 quoted
+ 23913   RV:  (c) in Abt & Biggs as well as in Wilson's
+ 23913   RV:  (d) GCRV depended on two McDonald spectra,
+ 23913   RV:  (e) one giving -26.5k/s, the other +12.5.
+ 23913   G:   (a) Mel 22.5023.  Pleiades Group member.  TS 142.
+ 23937   Var: (a) BR Eri.  SRb, amp. 0.4V, about 50d.
+ 23937   Var: (b) Previous results, 8.7-10.0p, 175.5d
+ 23937   Var: (c) not confirmed.
+ 23964   S:   (a) B9.5VpSiSrCr.
+ 23964   SB:  (a) Brightest component of ADS 2786.  16.725d,
+ 23964   SB:  (b) e 0.0, K 32.4k/s, V$0 +9.7k/s, asini 7.45.
+ 23964   D:   (a) Component B, 9.7v at 3.2".
+ 23964   D:   (b) Occultation companions, 8.9m, sep.
+ 23964   D:   (c) 0.0004" from A; and 8.9, sep. 10.2" 236~.
+ 23964   G:   (a) Mel 22.2507, Pleiades Cluster member.
+ 24076   RV:  (a) The range of values in DAO 14,
+ 24076   RV:  (b) No.14, 1975 from +1.5 to 8.8k/s,
+ 24076   RV:  (c) mean, +5.8 differs from range -40 to
+ 24076   RV:  (d) +30, mean -7.3k/s given in ApJ
+ 24076   RV:  (e) 142, 1611, 1965.
+ 24076   G:   (a) Mel 22.2866.  Pleiades Cluster member.
+ 24118   SB:  (a) 8.2233d, e 0.0, K 35.2k/s, V$0
+ 24118   SB:  (b) -31.3k/s, asini 3.98.
+ 24118   D:   (a) Occultation binary sep. 0.0003".
+ 24368   Var: (a) NSV 1391.  Amp. 1.50V.
+ 24368   G:   (a) Mel 22.5030.  Reflection nebula IC 353.
+ 24421   G:   (a) HII 32.
+ 24431   G:   (a) HII 32.
+ 24733   S:   (a) Also classified A5III.
+ 24733   SB:  (a) 1.7629d, e 0.08, K 67k/s, V$0 -4k/s,
+ 24733   SB:  (b) asini 1.62.
+ 24733   G:   (a) HII 32.
+ 25535   D:   (a) AB, 7.2,7.8v; C, 11.5 at 48", 149~.
+ 25535   Dyn: (a) ".026.
+ 25639   Var: (a) SZ Cam.  ADS 2984B, EB, 7.0-7.29B,
+ 25639   Var: (b) 2.6984378d, B0II-III+B1.  Secondary
+ 25639   Var: (c) min. 7.25B.
+ 25639   SB:  (a) Binary with HR 1260 = HD 25638.
+ 25639   D:   (a) ADS 2984B.  Component A is NSV 1458 =
+ 25639   D:   (b) HD 25638 = HR 1260, q.v.  Three
+ 25639   D:   (c) of the 12 components of ADS 2984 are
+ 25639   D:   (d) optical: C, NGC 1502.59 and 1502.60.
+ 25639   D:   (e) The many components listed as ADS
+ 25639   D:   (f) 2984 are cluster stars not
+ 25639   D:   (g) necessarily binary.
+ 25639   G:   (a) NGC 1502.2.  Near center of cluster,
+ 25639   G:   (b) probable member.  II Per Association.
+ 25799   Var: (a) NSV 1459.  E, 6.98-7.27V.
+ 25799   SB:  (a) 10.67d, e 0.2, K 20k/s, V$0 +24k/s,
+ 25799   SB:  (b) asini 2.88.
+ 25799   RV:  (a) Velocity curve subject to erratic changes.
+ 25799   G:   (a) @zPer Group.
+ 25833   S:   (a) Also classified B5V:p.
+ 25833   Var: (a) AG Per.  EB, 6.71-7.00V, 2.02872933d,
+ 25833   Var: (b) masses 4.56, 4.16 solar, radii 3.04,
+ 25833   Var: (c) 2.29 solar, detached system.
+ 25833   Var: (d) Sinusoidal variation in period.
+ 25833   Var: (e) Secondary min. 7.00V.
+ 25833   SB:  (a) 2.0287d, e 0.07, K$1 162.8k/s, V$0
+ 25833   SB:  (b) +24.7k/s, m$1sin3i 4.36.  a$1sini 4.53.
+ 25833   SB:  (c) K$2 178.7k/s, V$0+26.8k/s, m$2sin3i
+ 25833   SB:  (d) 3.97, a$2sini 4.97.  SB is brightest
+ 25833   SB:  (e) component of ADS 2990.  Visual
+ 25833   SB:  (f) companions 8.8m at 1" and 12.6m at 36".
+ 25833   D:   (a) Component B, 9.00V, B5V:, vsini 110k/s.
+ 25833   G:   (a) @zPer Association.  II Per Association.
+ 25921   Var: (a) CY Eri.  SRb,  6.98 to 7.20V, +1.60 to
+ 25921   Var: (b) 1.63(B-V), +1.78 to +1.80(U-B),
+ 25921   Var: (c) +1.145 to +1.165(R-I)$E.  25d.
+ 26345   G:   (a) Mel 25.13.  Hyades Cluster.
+ 26584   D:   (a) Component B, 9.75V.
+ 26737   G:   (a) Hyades Cluster.
+ 26784   G:   (a) Mel 25.19, Hyades.
+ 27019   D:   (a) 7.3,7.7v, 18.60y, e 0.68, a 0.250", i 63~.
+ 27019   Dyn: (a) ".036.
+ 27028   D:   (a) ADS 3102, 7.7,8.1v, F4V+F6V, 63.3y,
+ 27028   D:   (b) e 0.98, a 0.358", i 130~.  Also the
+ 27028   D:   (c) occultation pair.
+ 27028   Dyn: (a) ".004.
+ 27383   N:   (a) 55 Tau.
+ 27383   D:   (a) ADS 3135, 7.2,8.2v, P 88.453y, e 0.603,
+ 27383   D:   (b) a 0.545", i 52, masses 1.32, 1.05 solar.
+ 27383   D:   (c) Also observed as occultation pair, sep.
+ 27383   D:   (d) 0.561", @Dm 0.7, and by speckle
+ 27383   D:   (e) interferometry, sep. 0.440", 83~.
+ 27383   Dyn: (a) ".021.
+ 27383   G:   (a) Mel 25.29.  Hyades Cluster.
+ 27498   Var: (a) DQ Eri.  SRb, 6.84 to 7.05V, +1.505 to
+ 27498   Var: (b) +1.57(B-V), +1.61 to +1.67(U-B),
+ 27498   Var: (c) +1.09 to +1.14(R-I)$E.  Period about 30d.
+ 27498   G:   (a) @sPuppis Group.
+ 27524   G:   (a) Mel 25.35.  Hyades Cluster.
+ 27534   G:   (a) Mel 25.36.  Hyades Cluster.
+ 27561   G:   (a) Mel 25.37.  Hyades Cluster.
+ 27598   Var: (a) DG Eri.  SRc, 6.94-7.14V, 82d.
+ 27691   S:   (a) Also classified F9V, G0V.
+ 27691   SB:  (a) Brighter component of ADS 3169, 4.0000d,
+ 27691   SB:  (b) e 0.06, K 36.1k/s, V$0 +37.4k/s, asini 1.98.
+ 27691   D:   (a) ADS 3169AB, 7.3,9.3v, dF9+dG1, 255.5y,
+ 27691   D:   (b) e 0.29, a 1.185", i 138~.  Occultation
+ 27691   D:   (c) triple, 8.5v, sep. 0.0004" and 8.5 at 1.185".
+ 27691   Dyn: (a) ".019.
+ 27691   G:   (a) Mel 25.40.  Hyades Cluster.
+ 27848   G:   (a) Mel 25.51.  Hyades Cluster.
+ 28363   D:   (a) ADS 3248, 7.0,7.7v, 40.4y, e 0.41,
+ 28363   D:   (b) a 0.425", i 93~.  Also observed as
+ 28363   D:   (c) speckle and occultation double.
+ 28363   Dyn: (a) ".027.
+ 28363   G:   (a) Mel 25.75.  Hyades Cluster.
+ 28394   G:   (a) Mel 25.77.  Hyades Cluster.
+ 28398   S:   (a) Also classified A2m, A9-F2.
+ 28406   G:   (a) Mel 25.78.  Hyades Cluster.
+ 28483   G:   (a) Mel 25.81.  Hyades Cluster.
+ 28568   D:   (a) Component A is HD 28527 = HR 1427.
+ 28568   D:   (b) Both components A and B are
+ 28568   D:   (c) occultation binaries: A, 5.6,5.6v,
+ 28568   D:   (d) sep. 0.02"; B, 7.5,7.5v sep. 0.1:", 90~:.
+ 28568   D:   (e) Another companion at 0.9" also inferred
+ 28568   D:   (f) by occultation, probably spurious.
+ 28568   G:   (a) Mel 25.85.  Hyades CLuster.
+ 28595   N:   (a) 84 Tau.
+ 28608   G:   (a) Mel 25.86.  Hyades Cluster.
+ 28911   G:   (a) Mel 25.94.  Hyades Cluster.
+ 29203   S:   (a) Also classified G5II.
+ 29225   G:   (a) Mel 25.101.  Hyades Cluster.
+ 29260   Var: (a) SZ Tau.  C@d, 6.370 to 6.714V, 7.13 to
+ 29260   Var: (b) 7.74B, +0.758 to +0.937 (U-B), +0.520 to
+ 29260   Var: (c) 0.617(U-B).  3.148987d.  Period variable.
+ 29260   G:   (a) Region of cluster NGC 1647.
+ 29376   SB:  (a) 2.2075d, e 0.08, K$1 124.9k/s, V$0
+ 29376   SB:  (b) +25.3k/s, m$1sin3i 6.97, a$1sini 3.78;
+ 29376   SB:  (c) K$2 235.8k/s, m$2sin3i 3.69, a$2sini
+ 29376   SB:  (d) 7.13.  @Dm 1.91m.
+ 30282   Var: (a) AW Per.  C@d.  7.037 to 7.484V, +0.915
+ 30282   Var: (b) to +1.234(B-V), +0.587 to +0.751(U-B).
+ 30282   Var: (c) 6.46338d.
+ 30455   SB:  (a) 45.454d, e 0.39, K 13.6k/s,
+ 30455   SB:  (b) V$0 +54.7k/s, asini 7.83.
+ 30455   D:   (a) Also observed as occultation double,
+ 30455   D:   (b) 7.0,9.0v, sep. 0.0006".
+ 30649   C:   (a) (B-V) also reported as +0.23.
+ 30649   S:   (a) Also classified G2V, G5V.
+ 30649   G:   (a) @sPuppis Group.
+ 30677   S:   (a) Also classified B1V:.
+ 30736   S:   (a) Also classified F7V.
+ 30796   G:   (a) HII 679.
+ 30810   D:   (a) ADS 3475AB, 7.5,7.6v, 16.298y, e 0.455,
+ 30810   D:   (b) a 0.212, i 16~, masses 1.10, 1.07 solar.
+ 30810   D:   (c) Also observed by speckle interferometry.
+ 30810   Dyn: (a) ".025.
+ 30810   G:   (a) Mel 25.122.  Hyades CLuster.
+ 30869   SB:  (a) ADS 3483A.
+ 30869   D:   (a) ADS 3483AB 6.5,8.1v, 98.629y, e 0.5411,
+ 30869   D:   (b) a 0.710".  Third component 13v at 45"
+ 30869   D:   (c) unobserved since 1906.
+ 30869   Dyn: (a) ".026.
+ 30869   G:   (a) Mel 25.124.  Hyades Cluster.
+ 31009   Var: (a) XZ Dor.  Amp. 0.16y, >0.1V.
+ 31293   C:   (a) IR excess.
+ 31293   S:   (a) Star with envelope.
+ 31293   Var: (a) AB Aur.  Ina, 7.2-8.4p.  Usually at
+ 31293   Var: (b) maximum.  Minima at irregular intervals.
+ 31293   Var: (c) Source of luminosity of nebula.
+ 31293   G:   (a) In reflection nebula; AB Aur is at edge of
+ 31293   G:   (b) very opaque cloud.  Member association Tau R2.
+ 31306   Dyn: (a) ".007.
+ 31412   G:   (a) HII 679.
+ 31845   N:   (a) 101 Tau.
+ 31845   G:   (a) Mel 25.128.  Hyades CLuster.
+ 31966   S:   (a) Also classified G5V.
+ 31966   G:   (a) HII 674.
+ 32092   D:   (a) ADS 3608AB, 7.1,8.4v, 25.0y, e 0.29,
+ 32092   D:   (b) a 0.225", i 27~.  Also observed as
+ 32092   D:   (c) occultation double.  Component ADS
+ 32092   D:   (d) 3608C, 8.22V, +0.70(B-V), +0.17(U-B),
+ 32092   D:   (e) at 79", physical.
+ 32092   Dyn: (a) ".024.
+ 32633   Var: (a) HZ Aur.  @aCV, amp. 0.05U, 0.03(U-B),
+ 32633   Var: (b) 0.015(B-V).  6.431d.  Light max.
+ 32633   Var: (c) coincides with min. of magnetic field.
+ 32633   Var: (d) Also secondary brightness variation
+ 32633   Var: (e) 0.07390d.  Period probably varies.
+ 32633   RV:  (a) Period 0.073502d, vsini = 23k/s.
+ 32641   D:   (a) Component A is occultation double,
+ 32641   D:   (b) sep. 0.4", 91~, and speckle double
+ 32641   D:   (c) sep. 0.357", 154~.  Visual companion
+ 32641   D:   (d) also observed by occultation, 7.5v,
+ 32641   D:   (e) sep. 0.51", 158~.
+ 32656   D:   (a) Occultation double, sep. 0.076".
+ 32778   S:   (a) Also classified G0V.
+ 32778   D:   (a) Component B, CPD -57~767, 10.62V,
+ 32778   D:   (b) +1.35(B-V), +1.14(U-B), +0.56(R-I)$E, dM.
+ 32966   Var: (a) 7.075-7.167V.
+ 33069   Var: (a) NSV 1837.  Amp. 0.03V.
+ 33345   G:   (a) HII 679.
+ 33636   G:   (a) HII 679.
+ 33988   N:   (a) 12 Aur.
+ 34318/9 RV:  (a) vsini for 34318, 50k/s; for 34319, 100k/s.
+ 34335   Var: (a) CD Tau.  EA, 6.8V-7.6p, 7.27-7.9V,
+ 34335   Var: (b) 3.435137d, masses 1.41, 1.32 solar,
+ 34335   Var: (c) radii 1.63, 1.66 solar, detached
+ 34335   Var: (d) system.  Secondary min. 7.9v.
+ 34335   SB:  (a) The brighter component of ADS 3866.
+ 34335   SB:  (b) 3.4351d, e 0.0, K$1 94.4k/s, V$0
+ 34335   SB:  (c) -30.4k/s, m$1sin3i 1.40, a$1sini 4.46;
+ 34335   SB:  (d) K$2 102.0k/s, V$0 -28.6k/s, m$2sin3i
+ 34335   SB:  (e) 1.30, a$2sini 4.82.
+ 34335   D:   (a) Comp. B, 9.88V, +0.81(B-V), +0.42(U-B),
+ 34335   D:   (b) dK2 at 10.2".  Occultation triple: A,
+ 34335   D:   (c) 7.5,7.6v, sep. 0.0008"; B, 9.9v,
+ 34335   D:   (d) sep. 10.2", 148~ from 7.6v.
+ 34335   Dyn: (a) ".021.
+ 34358   D:   (a) Component B, -36~2133, 8.64V, K1.
+ 34477   G:   (a) HII 50 or 52, IC 405.
+ 34656   D:   (a) A faint pair, 11.1,11.6v at 0.1m prec, N 1'.
+ 34656   M:   (a) Stellar wind velocity 45k/s.
+ 34719   S:   (a) A0pSiHgCrEu.
+ 34719   Var: (a) NSV 1934, @aCV:, amp. 0.03V.
+ 35008   G:   (a) Ori I Association.  Belt of Orion.  HII 679.
+ 35079   G:   (a) Ori I Association.  Belt of Orion.  HII 679.
+ 35134   G:   (a) HII 679.
+ 35155   S:   (a) Also classified S4/2, S4,1.
+ 35158   Var: (a) NSV 1946.  Amp. 0.15V.
+ 35192   D:   (a) Component B, PM +.046",-.061".
+ 35192   G:   (a) HII 679.
+ 35395   Var: (a) NSV 1969.  Amp. 0.02V.
+ 35456   G:   (a) Ori I Association.  Belt of Orion.  HII 679.
+ 35575   G:   (a) Ori I Association.  Belt of Orion.  HII 679.
+ 35673   G:   (a) Ori I Association.  HII 679.
+ 35681   G:   (a) HII 52.
+ 35762   G:   (a) Ori I Association.  HII 679.
+ 35777   G:   (a) Ori I Association.  Belt of Orion.  HII 679.
+ 35859   D:   (a) Component A is -52~718 = HD 35860 = HR 1818.
+ 35859   Dyn: (a) ".004.
+ 35921   S:   (a) H@a emission.
+ 35921   Var: (a) LY Aur.  EB, 6.66-7.35V, 4.002496d.
+ 35921   Var: (b) Secondary minimum 7.26V.
+ 35921   SB:  (a) 4.002521d, V$0 -2.5k/s, e 0.0, K$1
+ 35921   SB:  (b) 113.0k/s, K$2 301.7k/s, i 86~.  m$1sin3i
+ 35921   SB:  (c) 21.6, m$2sin3i 8.08, a$1sini 6.22, a$2sini
+ 35921   SB:  (d) 16.6.  Semi- detached system.
+ 35921   D:   (a) 8.5m component at 0.5".
+ 35921   G:   (a) Region of cluster NGC 1907.  HII 57.
+ 35956   G:   (a) HII 59.
+ 35971   G:   (a) Ori I Association.  Belt of Orion.  HII 679.
+ 36013   G:   (a) Ori I Association.  HII 679.
+ 36133   S:   (a) Also classified B2V.
+ 36133   D:   (a) Component BC Sp. F8III.
+ 36133   G:   (a) Ori I Association.  HII 679.
+ 36139   G:   (a) Ori I Association.  Belt of Orion.  HII 679.
+ 36151   G:   (a) Ori I Association.  Sword of Orion.  HII 679.
+ 36264   G:   (a) HII 59.
+ 36360   S:   (a) Also classified Am.
+ 36410   G:   (a) HII 679.
+ 36435   S:   (a) Also classified G6/8V.
+ 36811   S:   (a) Also classified B9, A1m.
+ 36811   G:   (a) Ori I Association.  Belt of Orion.  HII 679.
+ 36824   G:   (a) Ori I Association.  HII 679.
+ 36827   G:   (a) Ori I Association.  Belt of Orion.  HII 679.
+ 36843   Var: (a) NSV 2195.  6.80-6.86V.
+ 36843   G:   (a) Ori I Association.  Sword of Orion.
+ 36843   G:   (b) HII 679, 681.
+ 36895   G:   (a) HII 59.
+ 36898   G:   (a) Ori I Association.  Belt of Orion.  HII 679.
+ 36916   S:   (a) Also classified B8IIIp.
+ 36916   Var: (a) Ap Var.  Amp. 0.04y, 0.07b, 0.06v,
+ 36916   Var: (b) 0.09u.  1.564d.
+ 36916   G:   (a) Ori I Association.  Sword of Orion.  HII 679.
+ 36954   SB:  (a) 4.6239d, e 0.12, K 48.1k/s, V$0
+ 36954   SB:  (b) +0.9k/s, asini 3.04.
+ 36954   G:   (a) Ori I Association.  Belt of Orion.   HII 679.
+ 37042   Var: (a) NSV 2326.  6.38-6.44V.
+ 37042   D:   (a) ADS 4188B.  Primary of ADS 4188 is HR
+ 37042   D:   (b) 1897, HD 37041 = -5~1319, 5h30m28.2s,
+ 37042   D:   (c) -5~28'54" (1900).  In the Bright Star
+ 37042   D:   (d) Catalogue the UBV data  refer to Comp.
+ 37042   D:   (e) B, while component  A is 5.08V,
+ 37042   D:   (f) -0.09(B-V), -0.94(U-B).  Component C
+ 37042   D:   (g) is -5~1326 = HD 37062, 9.1v B8.
+ 37042   D:   (h) PM +.012",-.008".  Multiple system
+ 37042   D:   (i) consisting of 9 components of ADS 4186
+ 37042   D:   (j) and 3 of ADS 4188.
+ 37061   C:   (a) IR excess.
+ 37061   Var: (a) NU Ori.  Inas, 6.83 to 6.93V.  +0.24
+ 37061   Var: (b) to +0.30 (B-V); -0.39 to -0.75 (U-B).
+ 37061   Var: (c) Considered "constant", but micro-
+ 37061   Var: (d) variability 0.02V on time-scale 50min.,
+ 37061   Var: (e) and 0.2U in 4h found.  The identification
+ 37061   Var: (f) of NU Ori (GCVS 2nd ed. II, 1958)
+ 37061   Var: (g) as HD 37061 is questioned because HD 37061
+ 37061   Var: (h) = BD -5~1325 = 9.1v, 9.1pg, B8.  All
+ 37061   Var: (i) tabulated data given refer to NU Ori.
+ 37061   Var: (j) Parenago's Chart: (Var Stars
+ 37061   Var: (k) 9, 89, 1952), indicates a
+ 37061   Var: (l) faint star approx. 4' North of the bright
+ 37061   Var: (m) variable: ft = #2073 about 14m; br var.
+ 37061   Var: (n) = #2074.  An examination of Harvard MC
+ 37061   Var: (o) plates suggests large variation; however
+ 37061   Var: (p) the bright nebulosity surrounding the
+ 37061   Var: (q) star strongly influences the apparent
+ 37061   Var: (r) brightness on plates of differing
+ 37061   Var: (s) effective exposure.
+ 37061   G:   (a) M43, called Mairan's nebula.  Ring Ori
+ 37061   G:   (b) 19.  Ori I Association.  Sword of
+ 37061   G:   (c) Orion.  HII 679, 680.  NGC 1976, 1982.
+ 37070   N:   (a) 22 Cam.
+ 37070   G:   (a) Member Hyades Group.
+ 37115   Var: (a) NSV 2382.  Amp. 0.08V.
+ 37115   G:   (a) Orion I Association.  HII 679, 680,
+ 37115   G:   (b) NGC 1976, 1982.
+ 37321   C:   (a) Both HD and DM give magnitude 9.1v.
+ 37321   C:   (b) Approx. 6m on Carte du Ciel zone -1~,
+ 37321   C:   (c) No. 42.  AGK2 gives 7.6pg B8 for
+ 37321   C:   (d) ADS 4222 AB.
+ 37321   Var: (a) NSV 2468 = ADS4222B, 8.5-10.5:V.
+ 37321   D:   (a) IDS, 9.6,10.2v, B8, sep. 0.8"; NSV,
+ 37321   D:   (b) 7.9,8.5v sep. 0".8, 12~.
+ 37321   Dyn: (a) ".012.
+ 37321   G:   (a) Ori I Association.  Belt of Orion.  HII 679.
+ 37370   D:   (a) AB, 7.46V, -0.04(B-V), -0.44(U-B), B9;
+ 37370   D:   (b) CD, 7.95V, +0.10(B-V), -0.15(U-B), B9.
+ 37370   G:   (a) Ori I Association.  Belt of Orion.
+ 37370   G:   (b) In reflection nebula HII 679.
+ 37397   G:   (a) Ori I Association.  Belt of Orion.  HII 679.
+ 37410   G:   (a) Ori I Association.  Sword of Orion.  HII 679.
+ 37606   G:   (a) Ori I Association.  HII 679.
+ 37687   G:   (a) Ori I Association.  Belt of Orion.
+ 37687   G:   (b) HII 679.  682.  IC 434.
+ 37776   Var: (a) V901 Ori.  @bC, 6.82-6.85B.  0.37968d.
+ 37776   Var: (b) Helium-rich variable.
+ 37776   G:   (a) Orion I Assoc.  Belt of Orion.  In
+ 37776   G:   (b) reflection nebula, IC 432, Assoc. Ori
+ 37776   G:   (c) R1/R2.  HII 679, 682, 683.  IC 434, NGC 2024.
+ 37956   S:   (a) Also classified G5IV.
+ 38098   G:   (a) HII 679.
+ 38312   G:   (a) HII 679.
+ 38583   D:   (a) ADS 4383A.  Component B, 10.18V,
+ 38583   D:   (b) +0.48(B-V), +0.06(U-B).  CPM.
+ 38797   D:   (a) Probably single.
+ 39647   G:   (a) HII 679.
+ 39746   G:   (a) Gemini I.
+ 39773   Dyn: (a) ".004.
+ 39773   G:   (a) HII 679.
+ 40210   G:   (a) HII 679.
+ 40460   D:   (a) Occultation triple 7.3,8.0v, sep. 0.040",
+ 40460   D:   (b) 333~; 8.3, sep. 0.038" from 8.0v, 153~.
+ 40726   G:   (a) HII 679.
+ 41433   D:   (a) B, 10.19V, +0.28(B-V), +0.07(U-B).  CPM.
+ 41433   G:   (a) HII 679.
+ 41460   G:   (a) HII 679.
+ 41543   N:   (a) 2 Gem.
+ 41593   G:   (a) Near HII 73.
+ 41756   G:   (a) HII 679.
+ 41943AB D:   (a) Component A, B1V; B, B2V, PM
+ 41943AB D:   (b) +.011",-.026"; C, 11.00V, +0.11
+ 41943AB D:   (c) (B-V), -0.24 (U-B), +0.12 (R-I), B9V;
+ 41943AB D:   (d) D, 8.10V, -0.10 (B-V), -0.77 (U-B),
+ 41943AB D:   (e) -0.04 (R-I), B1V; E, 9.19V, +0.02
+ 41943AB D:   (f) (B-V), -0.54 (U-B), +0.03 (R-I), B3V.
+ 41943AB Dyn: (a) ".001.
+ 41943AB G:   (a) NGC 2169.1.
+ 42092   D:   (a) Component B of double, of which HD
+ 42092   D:   (b) 42111 = HR 2174, (q.v.), is A.
+ 42216   N:   (a) 4 Gem.
+ 42216   Dyn: (a) ".003.
+ 42352   G:   (a) HII 76.
+ 42400   G:   (a) Gemini I Association.  Near HII 74.
+ 43044   D:   (a) Component B, RV +12k/s, SB:.
+ 43044   Dyn: (a) ".005.
+ 43185   D:   (a) Occultation double sep. 0.015".
+ 43618   D:   (a) Component B is CPD -65~566.
+ 43818   N:   (a) 11 Gem.
+ 43818   Var: (a) LU Gem.  @bC, 7.21-7.24B.  0.26111d.
+ 43818   G:   (a) Gem I Assoc.  HII 84.
+ 43836   N:   (a) 12 Gem.
+ 43836   G:   (a) In reflection nebula, IC 444,
+ 43836   G:   (b) association Ori R1/R2.  HII 84.
+ 43931   D:   (a) Component B = BD +13~1200 = HD 43930,
+ 43931   D:   (b) 7.67V, +1.13(B-V), +0.92(U-B), K1V, optical.
+ 43931   G:   (a) Possible member Hyades Group.
+ 44496   Dyn: (a) ".004.
+ 44701   Var: (a) IM Mon.  EB, 6.40-6.49B, 1.190243d,
+ 44701   Var: (b) masses 8.3, 4.1 solar, radii 3.72,
+ 44701   Var: (c) 2.09 solar, detached system.
+ 44701   Var: (d) Secondary minimum 6.47B.
+ 44701   SB:  (a) 1.1903d, e 0.04, K$1 172.8k/s, V$0
+ 44701   SB:  (b) +8.3k/s, m$1sin3i 6.19, a$1sini 2.83;
+ 44701   SB:  (c) K$2 263.5k/s, m$2sin3i 4.06, a$2sini
+ 44701   SB:  (d) 4.31.  Probable early-type contact
+ 44701   SB:  (e) binary.  @Dm 1.31.
+ 45057   S:   (a) Also classified B3V.
+ 45088   S:   (a) Sp. in blue shows only the absorption
+ 45088   S:   (b) lines of the primary.  H and K
+ 45088   S:   (c) emission double and nearly equal
+ 45088   S:   (d) absorption of secondary vis. in red.
+ 45088   Var: (a) May be one of the brightest BY
+ 45088   Var: (b) Draconis type variables known.
+ 45088   Var: (c) Variable amplitude from 0.02 to
+ 45088   Var: (d) 0.045V, light period 7.36d in
+ 45088   Var: (e) contrast to 6.99d orbital.
+ 45088   SB:  (a) Brighter component of ADS 5054.
+ 45088   SB:  (b) 6.991868d, V$0 -8.4k/s, K 56.55k/s, e
+ 45088   SB:  (c) 0.150, asini 5.38, f(m) 0.127.
+ 45088   SB:  (d) Reticon observations in the red give,
+ 45088   SB:  (e) for the primary, 6.9990d, e 0.141, K
+ 45088   SB:  (f) 55.97k/s, V$0 -10k/s, asini 5.33; for
+ 45088   SB:  (g) the secondary, 6.9865d, e 0.148, K
+ 45088   SB:  (h) 66.88k/s, V$0 -10k/s, asini 6.35.
+ 45088   RV:  (a) Probably higher than normal rotational
+ 45088   RV:  (b) velocity.
+ 45088   D:   (a) Companion 13.7v.
+ 45180   Dyn: (a) ".011.
+ 45398   G:   (a) NGC 2232.4.  Near HII 679.
+ 45418   N:   (a) 9 Mon.
+ 45418   G:   (a) NGC 2232.3.  Near HII 679.
+ 45431   S:   (a) @l4077 abnormally strong?
+ 45910   S:   (a) Primary also classified B1IV;
+ 45910   S:   (b) secondary K0III or K0/2II/III.
+ 45910   Var: (a) AX Mon.  Unique star.  Possible
+ 45910   Var: (b) flare-star or irregular.  Light
+ 45910   Var: (c) variation caused by eclipse of the
+ 45910   Var: (d) bright star by gaseous streams or a
+ 45910   Var: (e) cloud.  (U-B) means given as -0.42 to
+ 45910   Var: (f) -0.67; (R-I) from +0.50 to +0.60.
+ 45910   SB:  (a) 232.5d, e 0.02, K 51.5k/s, V$0
+ 45910   SB:  (b) +6.5k/s, asini 165.  Shell spectrum
+ 45910   SB:  (c) appears correlated with orbital
+ 45910   SB:  (d) phase.  Double system with envelope.
+ 45910   RV:  (a) Period 38.5d.
+ 45910   G:   (a) Near HII 87.
+ 46136A  N:   (a) 20 Gem.
+ 46136A  D:   (a) Both components A,B show UV deficiency.
+ 46136A  D:   (b) Component A is occultation double,
+ 46136A  D:   (c) 8.0,8.0v, sep. 0.05", 32~.
+ 46136A  Dyn: (a) ".006.
+ 46150   S:   (a) Also classified O6e.
+ 46150   RV:  (a) vsini also given as 70k/s.
+ 46150   D:   (a) Multiple system; 4 faint stars within
+ 46150   D:   (b) 14" of A.
+ 46150   G:   (a) NGC 2244.28, HII 87, NGC 2237.
+ 46288   Dyn: (a) ".005.
+ 46595   Var: (a) W Gem.  C@d, 6.537 to 7.364V, +0.709
+ 46595   Var: (b) to 1.167(B-V), +0.538 to +0.923(U-B).
+ 46595   Var: (c) 7.91413d.  Period varies.
+ 46780   D:   (a) ADS 5234, 7.13,8.69v, 114.8y, e 0.71,
+ 46780   D:   (b) a 0.86", i 112~.  Also observed as
+ 46780   D:   (c) occultation double, sep. 0.86".
+ 46780   D:   (d) Component A, 7.14V, +0.57(B-V),
+ 46780   D:   (e) +0.80(U-B); component B, 8.71V,
+ 46780   D:   (f) +0.85(B-V), +0.53(U-B).
+ 46780   Dyn: (a) ".027.
+ 46966   G:   (a) HII 87, NGC 2237.
+ 47579/0 RV:  (a) vsini of 47579, 70k/s; of 47580, 110k/s.
+ 47601   S:   (a) Also classified B3V.
+ 48402   S:   (a) Also classified B3/5V.
+ 48616   S:   (a) Also classified F2II.
+ 48807   G:   (a) HII 93.
+ 48857   D:   (a) Component B is CoD -50~2356.
+ 49091   G:   (a) NGC 2287.21.
+ 49294   D:   (a) ADS 5455, 7.5,7.8v, 299y, a 0.56".
+ 49294   G:   (a) Near HII 93.
+ 49500   S:   (a) K2IIICN-2CH-1H@d1.
+ 49500   D:   (a) Occultation double sep. 0.25".
+ 50281   S:   (a) Ultraviolet deficient.
+ 50281   D:   (a) Component B, 10.11V, +1.50(B-V),
+ 50281   D:   (b) +1.26(U-B), +0.93(R-I)$E, dM.
+ 50711   G:   (a) Near HII 92.
+ 51200   G:   (a) HII 96.
+ 51418   S:   (a) A0pEuSrCrMgII.
+ 51418   Var: (a) NY Aur.  @aCV, 6.60-6.77V.  5.4379d.
+ 51418   Var: (b) Maximum of rare-earth lines coincides
+ 51418   Var: (c) with light maximum.  MgII @l2796,
+ 51418   Var: (d) 2803, definitely variable.
+ 51478   Var: (a) X Mon.  SRa, 6.9-10.0v, 155.70d.  7.07
+ 51478   Var: (b) to 8.77V, +1.43 to +1.68(B-V), +1.00
+ 51478   Var: (c) to +1.48(U-B), +0.88 to +1.43(R-I)$E.
+ 51478   G:   (a) Halo population.  Near HII 111, NGC 2327.
+ 51480   S:   (a) P Cygni characteristics.  Variable
+ 51480   S:   (b) shell density.
+ 51480   Var: (a) V644 Mon.  Amp. 0.105V, 0.027(B-V),
+ 51480   Var: (b) 0.144(U-B).
+ 51480   RV:  (a) Emission RV +66Vk/s.
+ 51480   G:   (a) CMa OB1 Assoc.
+ 51620   S:   (a) Also classified C5II.
+ 51725   Var: (a) V523 Mon.  SRb, 6.97 to 7.45V, +1.575
+ 51725   Var: (b) to +1.62(B-V), +1.42 to +1.62(U-B),
+ 51725   Var: (c) +1.30 to +1.37(R-I)$E.  Possible halo
+ 51725   Var: (d) star.  Period close to 60d or 45d.
+ 52356   S:   (a) Also classified B3Vn, B3III.
+ 52403   R:   (a) Diam. ".008 (diffraction).
+ 52432   C:   (a) Values of V are 7.01, 7.15 and 7.31;
+ 52432   C:   (b) of (B-V), +1.71, +1.79 and +1.83.
+ 52432   S:   (a) Also classified C7I.
+ 52432   Var: (a) V614 Mon.  SRb, 7.15-7.16V, 60d.
+ 52694   Dyn: (a) ".008.
+ 52694   G:   (a) HII 111, NGC 2327.
+ 52698   G:   (a) HII 117.
+ 52721   Var: (a) GU CMa.  Amp. 0.23V, 0.5pg.
+ 52721   G:   (a) In reflection nebula, association CMa
+ 52721   G:   (b) R1, HII 104.
+ 53344   G:   (a) HII 117.
+ 53367   G:   (a) In reflection nebula, association CMa
+ 53367   G:   (b) R1.  Exciting star of HII  region, HII
+ 53367   G:   (c) 109, IC 2177.
+ 54141   G:   (a) HII 111, NGC 2327.
+ 54361   S:   (a) Also classified C5II, R8-N.
+ 54361   Var: (a) W CMa.  6.54-6.82V, 8.7-9.7p, +2.34 to
+ 54361   Var: (b) +2.59(B-V), +0.96 to +1.00(R-I)$E.
+ 54361   Var: (c) Erratic variations of about 0.15V.
+ 54361   RV:  (a) Another determination, +28.3k/s.
+ 54361   D:   (a) Possibly CPM with HD 54306 at 2.5',
+ 54361   D:   (b) a B-type star 8.79V, +0.01(B-V),
+ 54361   D:   (c) -0.69(U-B), reddening +0.25m, at a
+ 54361   D:   (d) distance 1 kpc if a main-sequence
+ 54361   D:   (e) star.  Probably optical.
+ 54361   G:   (a) HII 111, NGC 2327.
+ 54371   SB:  (a) Brightest component of ADS 5827,
+ 54371   SB:  (b) 32.8092d, e 0.08, K 27.5k/s, V$0
+ 54371   SB:  (c) +19.7k/s, asini 12.4.
+ 54371   D:   (a) Occultation triple: A, 7.2,9.2v, sep.
+ 54371   D:   (b) 0.002"; B, 13.0v at 22.8", 73~ from
+ 54371   D:   (c) 9.2.  ADS 5827C 7.7m, 110" is BD
+ 54371   D:   (d) +25~1595, PM +.014",-.023", optical.
+ 55000   G:   (a) HII 128.
+ 55156   N:   (a) 49 Gem.
+ 55523   S:   (a) Also classified B4V.
+ 55958   G:   (a) In Collinder 132.
+ 56161   Var: (a) NSV 3484.  6.88-7.18V.
+ 56176   G:   (a) Probable member Wolf 630 Group.
+ 56310   SB:  (a) 2.7704d, e 0.21, K 62.2k/s, V$0
+ 56310   SB:  (b) +24.4k/s, asini 2.32.
+ 56531   G:   (a) HII 128.
+ 56578   Var: (a) Component B of HR 2764 = HD 56577 =
+ 56578   Var: (b) NSV 3503.  Uncertain if one or both
+ 56578   Var: (c) components vary.  Magnitudes for B
+ 56578   Var: (d) discordant from 6.00 to 6.80V.
+ 56578   D:   (a) ADS 5951B, is CoD -23~5192.  Component
+ 56578   D:   (b) A is -23~5189 = HD 56577, = HR 2764,
+ 56578   D:   (c) an IR source.  Optical pair.
+ 56593AB C:   (a) Magnitude and colors for blend of AB.
+ 56593AB D:   (a) ADS 5956AB, 7.4,7.4v, 109.0y, a
+ 56593AB D:   (b) 0.244", e 0.51, i 46.3~.  Sum of
+ 56593AB D:   (c) masses 4.66 solar.  Component C,
+ 56593AB D:   (d) 6.95V, +0.88(B-V), +0.48(U-B) at 16",
+ 56593AB D:   (e) physical.  Speckle interferometry
+ 56593AB D:   (f) sep. 0.137", 114~.
+ 56593AB Dyn: (a) ".0064.
+ 56593AB G:   (a) HII 111, NGC 2327.
+ 57044   D:   (a) AB, 7.36V, +0.32(B-V), +0.04(U-B), F2IV.
+ 57044   D:   (b) C,  7.82V, +0.30(B-V), +0.04(U-B), F0IV.
+ 57044   Dyn: (a) ".007.
+ 57066   N:   (a) 20 Lyn.
+ 57066   D:   (a) Position and PM from AGK3 primary =
+ 57066   D:   (b) following component.  Secondary, PM
+ 57066   D:   (c) -.048",-.061".
+ 57095   D:   (a) 7.1,7.8v, 84.0y, e 0.90, a 0.609", i 111~.
+ 57095   Dyn: (a) ".014.
+ 57095   G:   (a) HII 128.
+ 57192   RV:  (a) Velocities reported from +4 to +50k/s.
+ 57192   G:   (a) NGC 2362.46.  HII 117.
+ 57275AB D:   (a) ADS 5996AB, nearly equal components
+ 57275AB D:   (b) showing orbital motion of about
+ 57275AB D:   (c) 0.4~/y.  Companions C, D, E, may be optical.
+ 57275AB Dyn: (a) ".005.
+ 57890   Var: (a) SRb.  6.94 to 7.02V, +1.58 to
+ 57890   Var: (b) +1.655(B-V), +1.45 to +1.545(U-B),
+ 57890   Var: (c) +1.40 to +1.435(R-I)$E.  Amp. 0.1V, 20d.
+ 58011   Var: (a) NSV 3564.  Amp. 0.08V.
+ 58011   G:   (a) HII 117.
+ 58038   D:   (a) 7.5,8.8v.
+ 58038   G:   (a) Field of Collinder 135.
+ 58063   S:   (a) Also classified B3III.
+ 58063   G:   (a) In Collinder 140.
+ 58260   S:   (a) Also classified B2Vp, B2/3Vp.
+ 58260   S:   (b) He unusually strong.
+ 58260   G:   (a) Field of Collinder 135.
+ 58377   S:   (a) Also classified B3III.
+ 58510   Dyn: (a) ".002.
+ 58521   S:   (a) Sp. shows both ZrO and TiO.
+ 58521   Var: (a) Y Lyn.  SRb.  9.5-12.00p.
+ 59074   D:   (a) The secondary, HD 59075 = BD -18~1847,
+ 59074   D:   (b) 7.67V, B8I, PM +.022",+.038", is
+ 59074   D:   (c) presumably the IR source.
+ 59099   D:   (a) 7.2,7.9v.  Secondary is CoD -34~3610,
+ 59099   D:   (b) HD 59100, 8.18V, +0.65(B-V),
+ 59099   D:   (c) +0.18(U-B), F8.  Trig. parallax of A,
+ 59099   D:   (d) +".019+/-12; of B, +".030+/-12.
+ 59693   Var: (a) U Mon.  RVb.  6.1-8.1p.  5.82 to
+ 59693   Var: (b) 7.17V, +1.03 to 1.31 (B-V), +0.47 to
+ 59693   Var: (c) 1.22(U-B).  92.26d+ 1500:d.  Mean
+ 59693   Var: (d) mag. varies in period 2320d.
+ 60552   Var: (a) NSV 3649.  Amp. 0.06 in both (B-V)
+ 60552   Var: (b) and (U-B).
+ 60848   Var: (a) BN Gem.  @gC.  6.0-6.6p.
+ 60929   G:   (a) HII 128.
+ 60969   G:   (a) NGC 2422.71.
+ 60998   C:   (a) Combined mag. of HD 60997/8, 6.39V.
+ 60998   C:   (b) A, 7.00V, B6V; B, HD 60997 7.30V, B6V.
+ 60998   D:   (a) B is BD -14~2021, PM -.032",-.024",
+ 60998   D:   (b) vsini 60k/s.  Component G is BD
+ 60998   D:   (c) -14~2022, 9.1v, G 7.76V, -0.05(B-V),
+ 60998   D:   (d) -0.44(U-B), B6IV, at 84~, 361~.  I is
+ 60998   D:   (e) -14~2025, PM  +.008",+.005".  J is
+ 60998   D:   (f) -14~2019, PM -.022",-.006".
+ 60998   Dyn: (a) ".008.
+ 60998   G:   (a) NGC 2422.211.
+ 61017   G:   (a) NGC 2422.83.
+ 61071   G:   (a) In reflection nebula, association CMa
+ 61071   G:   (b) R1.  Near HII 117.
+ 61332   S:   (a) Barium Star?
+ 61332   G:   (a) Near HII 128.
+ 61687   S:   (a) Also classified B3/5V.
+ 61944   S:   (a) Also classified B3/5V:.
+ 62301   G:   (a) Arcturus Group member.
+ 62317   G:   (a) HII 128.
+ 62351   D:   (a) ADS 6315, 7.1,7.6v, G5III+G5III, 138y,
+ 62351   D:   (b) e 0.57, a 0.348", i 138~.
+ 62522   D:   (a) ADS 6354, 7.8,7.8v, F9V+F9V, 18.80y,
+ 62522   D:   (b) e 0.50, a 0.20", i 129~.
+ 62753   G:   (a) Near HII 128.
+ 63008   D:   (a) Component B is CoD -50~2948, 7.57V,
+ 63008   D:   (b) +0.70(B-V), G0.  Trig. parallax of A,
+ 63008   D:   (c) +".037+/-11; of B, +".020+/-12.
+ 63079   G:   (a) NGC 2451.256.  Near HII 128.
+ 63291   C:   (a) Also given as 6.48V, +1.36(B-V).
+ 63291   G:   (a) NGC 2451.269.  Near HII 128.
+ 63425   S:   (a) Also classified B1V.
+ 63425   D:   (a) Component B is CoD -41~3385.
+ 63425   G:   (a) HII 128.
+ 63531   S:   (a) Also classified B2III.
+ 63579   G:   (a) HII 128.
+ 63610   D:   (a) Component A of double of which B is HD
+ 63610   D:   (b) 63631, 7.75V, +0.17(B-V), +0.07(U-B), A5.
+ 63868   G:   (a) HII 128.
+ 63988   G:   (a) HII 128.
+ 64318   G:   (a) HII 128.
+ 64616   G:   (a) NGC 2467.81.  Association Pup I.  HII 127.
+ 64657   Var: (a) OR Pup.  Amp. 0.25:V.
+ 64657   G:   (a) NGC 2467.83.  Assoc. Pup I.  HII 127.
+ 64717   S:   (a) Also classified B2III.
+ 64756   S:   (a) Also classified A2V.
+ 64827   G:   (a) HII 128.
+ 65270   Var: (a) Suspected variable, amp. 0.03 in y, b,
+ 65270   Var: (b) v, and u.  0.85d.
+ 65270   G:   (a) HII 128.
+ 65583   G:   (a) Arcturus Group member.
+ 65622   G:   (a) HII 128.
+ 65663   S:   (a) Also classified B8V.
+ 65663   G:   (a) NGC 2516.120.
+ 65930   S:   (a) Also classified B2III/IV.
+ 65930   G:   (a) HII 128.
+ 65950   S:   (a) B8.5IIIpHgMn.
+ 65950   Var: (a) NSV 3839.  Amp. 0.04V.
+ 65950   G:   (a) NGC 2516.126 member.
+ 66066   Dyn: (a) ".005.
+ 66066   G:   (a) NGC 2516.130.
+ 66079   G:   (a) HII 128.
+ 66097   D:   (a) ADS 6524B, 10.0v at 2", 45~.  C, 7.60V,
+ 66097   D:   (b) G0 = DM -21~2221.
+ 66605   S:   (a) Also classified A3III.
+ 66605   Var: (a) QQ Pup.  Amp. 0.06y, 0.08u.  2.23d.
+ 66605   G:   (a) HII 128.
+ 66676   G:   (a) HII 128?
+ 66726   G:   (a) HII 128?
+ 66765   S:   (a) Also classified B2V, B1/2V.
+ 66765   G:   (a) HII 128.
+ 67385   G:   (a) HII 128.
+ 67404   Var: (a) NSV 3907.  4.72-5.2:I.
+ 67409   D:   (a) B, CoD -26~5531, 9.02V, K0, optical?
+ 67458   S:   (a) Also classified G2V.
+ 67621   G:   (a) HII 128.
+ 67670   D:   (a) BC, 134" 56~, 7.55V K0, = HD 67728.
+ 67704   G:   (a) HII 128?
+ 67762   G:   (a) HII 128.
+ 67847   G:   (a) HII 128.
+ 68478   G:   (a) NGC 2547.44.  HII 128.
+ 68627   G:   (a) HII 128.
+ 68761   RV:  (a) Discordant determinations, +44 at
+ 68761   RV:  (b) Canberra; -19, -20 and -50k/s at Radcliffe.
+ 68763   G:   (a) HII 128.
+ 68860   S:   (a) F9-G7.
+ 68860   Var: (a) RS Pup.  C@d, 6.533 to 7.625V, +1.10
+ 68860   Var: (b) to +1.79(B-V), +0.76 to +1.656(U-B).
+ 68860   Var: (c) +0.54 to +0.74(R-I)$E.  41.3876d.
+ 68860   Var: (d) Period varies.
+ 68860   G:   (a) Faint reflection nebulosity, radius
+ 68860   G:   (b) about 1.4', surrounds variable.
+ 68978   C:   (a) V also given as 6.68.
+ 68978   S:   (a) Also classified G2V.
+ 69054   D:   (a) B, 10.79V, +0.68(B-V), +0.18(U-B),
+ 69054   D:   (b) G0V.  AB, 6.37V, +1.01(B-V).
+ 69066   S:   (a) Also classified G8/K0III+G:.
+ 69066   G:   (a) Near HII 129.
+ 69168   G:   (a) HII 128.
+ 69213   S:   (a) Also classified A2p, A9IV/V, A9IV/V, F2p.
+ 69213   Var: (a) AI Vel.  RRs, 6.4-7.13v.  0.11157396d.
+ 69213   Var: (b) Period and form of light curve vary.
+ 69213   Var: (c) Secondary oscillation 0.08620767d.
+ 69213   Var: (d) Beat period 0.379188d.
+ 69213   G:   (a) HII 128.
+ 69253   G:   (a) HII 128.
+ 69404   G:   (a) HII 128.
+ 69973   C:   (a) (U-B) also -0.69.
+ 69973   G:   (a) HII 128.
+ 70084   S:   (a) Shell star with weak and diffuse He lines.
+ 70084   Var: (a) IT Vel.  7.025 to 7.069V; -1.68 to
+ 70084   Var: (b) -1.38(B-V); -0.701 to -0.674(U-B).
+ 70084   G:   (a) HII 128.
+ 70157   G:   (a) HII 128.
+ 70195   G:   (a) HII 128.
+ 70309   S:   (a) Also classified B3III.
+ 70309   G:   (a) HII 128.
+ 71216   Var: (a) NSV 4063.  Amp. 0.09V, 0.07(U-B).
+ 71216   RV:  (a) Radcliffe values range from -10: to +86:k/s.
+ 71216   G:   (a) HII 128.
+ 71499AB D:   (a) ADS 6825, 7.5,7.6v, F0, 41.955y, e 0.078,
+ 71499AB D:   (b) a 0.201, i 110~, M$1 1.70, M$2 1.66
+ 71499AB D:   (c) (orbit by Starikova); or 43.0y, a ".20,
+ 71499AB D:   (d) e=0.15, i=109.0~.  Sum masses 3.5 solar
+ 71499AB D:   (e) (orbit by Baize).  Speckle interferometry
+ 71499AB D:   (f) sep. 0.104" to 0.127".
+ 71499AB Dyn: (a) ".0107.
+ 71518   S:   (a) Also classified B5III.
+ 71805AB D:   (a) 7.2,7.4v, F6V+F7V, 14.5y, e 0.28,
+ 71805AB D:   (b) a 0.158", i 53~.
+ 71805AB Dyn: (a) ".021.
+ 71866   Var: (a) TZ Lyn.  @aCV type.  6.65-6.79V, 6.79760d.
+ 72014   D:   (a) B, CoD -42~4287, 9.26V, G0.
+ 72014   G:   (a) Associated with galactic emission
+ 72014   G:   (b) nebulosity, HII 128.
+ 72066   G:   (a) HII 128.
+ 72275   S:   (a) Also classified F6-G2.
+ 72275   Var: (a) V Car.  C@d, 7.085 to 7.682V, +0.710
+ 72275   Var: (b) to +1.057(B-V), +0.417 to 0.769(U-B).
+ 72275   Var: (c) 6.69668d.
+ 72318   D:   (a) Component B, 7.52V, K4III = HD 72317
+ 72318   D:   (b) = CoD -40~4330.
+ 72318   G:   (a) HII 128.
+ 72555   Var: (a) NSV 4127.  Amp. 0.29V.
+ 72555   G:   (a) HII 128.
+ 72611   G:   (a) HII 128.
+ 72752   G:   (a) HII 128.
+ 72754   Var: (a) FY Vel.  EB?, 6.84-7.06V.  33.72d.
+ 72754   Var: (b) Variation possibly due to ellipticity
+ 72754   Var: (c) of components, but partial eclipse of
+ 72754   Var: (d) the region producing H-emission may
+ 72754   Var: (e) be contributing.
+ 72754   SB:  (a) 33.734d, e 0.04, K 136.8k/s, V$0
+ 72754   SB:  (b) +20.8k/s, asini 63.4.  Secondary is
+ 72754   SB:  (c) the more massive star but could not
+ 72754   SB:  (d) be detected.  Possibly a collapsed
+ 72754   SB:  (e) star, or black hole.  Light
+ 72754   SB:  (f) variations about 0.2V correlated with
+ 72754   SB:  (g) orbital period.
+ 72798   G:   (a) HII 128.
+ 72800   G:   (a) HII 128.
+ 73210   G:   (a) NGC 2632.50.  Praesepe Cluster.
+ 73244   G:   (a) HII 128.
+ 73287   G:   (a) IC 2391.1.
+ 73502   S:   (a) Also classified G8, K0.
+ 73502   Var: (a) RZ Vel.  C@d, 6.423 to 7.638V, +0.692
+ 73502   Var: (b) to +1.530(B-V).  20.3969d.
+ 73502   G:   (a) HII 128.
+ 73575   N:   (a) 38 Cnc.
+ 73575   Var: (a) BT Cnc.  @dSct,  6.66-6.69V, amp.
+ 73575   Var: (b) 0.07B.  0.108d.
+ 73575   G:   (a) NGC 2632.204, member.  Praesepe.
+ 73588   Var: (a) G0 Vel.  Lb:.  6.61 to 6.98V, +1.68 to
+ 73588   Var: (b) +1.77(B-V), +1.66 to +1.945(U-B),
+ 73588   Var: (c) +1.075 to +1.17(R-I)$E.  75d.
+ 73588   G:   (a) HII 135.
+ 73598   Var: (a) NSV 4171.  Amp. 0.09V.
+ 73598   D:   (a) ADS 6915D.  Component A is DM +20~2152
+ 73598   D:   (b) = HD 73618, 6.94v A0.  Component C is
+ 73598   D:   (c) BD +19~2153, SB2.  Component B, 11.9
+ 73598   D:   (d) at 1.4" from A.
+ 73598   G:   (a) NGC 2632.212.  Hyades group giant.
+ 73598   G:   (b) Praesepe Cluster.
+ 73658   G:   (a) HII 128.
+ 73666   N:   (a) 40 Cnc.
+ 73666   D:   (a) Comp. B; A = 73665 = HR 3427 = 39 Cnc.
+ 73666   G:   (a) NGC 2632.265.  Praesepe Cluster.
+ 73712   G:   (a) NGC 2632.284.  Praesepe Cluster.
+ 73785   N:   (a) 42 Cnc.
+ 73785   G:   (a) NGC 2632.328.
+ 73819   G:   (a) NGC  2632.348.  Praesepe Cluster.
+ 73844   Var: (a) AK Hya.  SRb, 6.33 to 6.91V, +1.51 to
+ 73844   Var: (b) +1.62(B-V), +1.055 to +1.22(U-B), +1.68
+ 73844   Var: (c) to +1.78(R-I)$E.  112:d.  Halo population.
+ 73871   G:   (a) NGC 2632.377.  Praesepe Group.
+ 73974   G:   (a) NGC 2632.428.  Hyades group giant.  Praesepe.
+ 74105   D:   (a) Component B is CoD -41~4370 = HD 74104,
+ 74105   D:   (b) 7.72V, G0.
+ 74105   G:   (a) HII 128.
+ 74234   G:   (a) IC 2395.2.  HII 128.
+ 74319   G:   (a) HII 128.
+ 74496   S:   (a) Also classified A0m A2-F0/2.
+ 74496   G:   (a) HII 128.
+ 74558   S:   (a) Also classified A9V.
+ 74558   G:   (a) Non-member Hyades Group.  HII 128.
+ 74599   G:   (a) HII 128.
+ 74711   G:   (a) HII 128.
+ 74868   S:   (a) Also classified F8IV/V.
+ 74868   G:   (a) Possible member Hyades Group.  HII 128.
+ 75009   G:   (a) HII 128.
+ 75021   S:   (a) Formerly classified R8.
+ 75021   Var: (a) UZ Pyx.  6.99 to 7.35V; +1.85 to
+ 75021   Var: (b) +2.10(B-V), +2.59 to +3.36(U-B);
+ 75021   Var: (c) +0.94 to +0.98(R-I).
+ 75021   D:   (a) CPM with HD 75022, 7.64V, +1.44(B-V),
+ 75021   D:   (b) +1.62(U-B), +0.53(R-I)$E.
+ 75021   G:   (a) HII 145.
+ 75125   G:   (a) HII 128.
+ 75126   S:   (a) Also classified B3III/IV.
+ 75126   G:   (a) Near Cluster Trumpler 10, probable
+ 75126   G:   (b) member.  HII 128.
+ 75129   G:   (a) HII 128.
+ 75156   R:   (a) Diam. by occultation from ".0031 to ".0045.
+ 75241   G:   (a) HII 128, 137.
+ 75272   G:   (a) HII 128.
+ 75470   D:   (a) Speckle interferometry sep. 0.317",
+ 75470   D:   (b) 36~, to 0.330", 38~.
+ 75767   SB:  (a) 10.2504d, e 0.1, K 24.5k/s, V$0
+ 75767   SB:  (b) +3.5k/s, asini 3.44.
+ 75767   G:   (a) Probable member Wolf 630 Group.
+ 75869   S:   (a) Also classified B2III.
+ 75869   G:   (a) HII 128.
+ 75974   D:   (a) Primary is close occultation double,
+ 75974   D:   (b) 7.3,7.9v, sep. 0.02", 90~.  Speckle
+ 75974   D:   (c) interferometry sep. 0.205", 35~.
+ 75974   D:   (d) Secondary also observed by
+ 75974   D:   (e) occultation, sep. 0.233", 41~from primary.
+ 76004   G:   (a) HII 128, 141.
+ 76095   Var: (a) NSV 4296.  @Dm of ADS components var?
+ 76095   D:   (a) ADS 7082.  7.0,8.1v, @Dm var?, G2V+K0V,
+ 76095   D:   (b) 45.0y, a 0.835", e 0.46, i 40.6~.  Sum
+ 76095   D:   (c) masses 2.50 solar.  These elements by
+ 76095   D:   (d) Baize differ from others by Starikova:
+ 76095   D:   (e) 45.257y, a 0.835", e 0.888, i 78.8~,
+ 76095   D:   (f) masses 0.79 and 0.65 solar.  Component C,
+ 76095   D:   (g) 13.0v at 44".
+ 76095   Dyn: (a) ".0195 (Baize); ".058 (Starikova).
+ 76186   G:   (a) HII 128, 143.
+ 76380   G:   (a) HII 128.
+ 76668   D:   (a) 7.0,9.7v.
+ 76943B  N:   (a) Nicolet lists HD 79643 as a double
+ 76943B  N:   (b) with the UBV data given.  However HD
+ 76943B  N:   (c) 79643, 8.5v, K2, is not a known
+ 76943B  N:   (d) double and the UBV data are not
+ 76943B  N:   (e) compatible with the HD spectrum.  If
+ 76943B  N:   (f) 76943 = HR 3579 is meant, HD 4.09v,
+ 76943B  N:   (g) F5, this star is double and the
+ 76943B  N:   (h) Nicolet data may refer to the
+ 76943B  N:   (i) secondary for which @Dm = 2.0v and
+ 76943B  N:   (j) another source gives 6.18, G5V:.
+ 76943B  N:   (k) Another possible identification might
+ 76943B  N:   (l) be HD 79743, 7.2v F5, a more
+ 76943B  N:   (m) compatible spectral type, but this
+ 76943B  N:   (n) star is not a recognized double.
+ 76943B  D:   (a) Component A is HR 3579 = HD 76943.
+ 76943B  D:   (b) AB 21.85y, a 0.619", trig. parallax +".069.
+ 76943B  D:   (c) Component E, PM +.003",-.025".
+ 76943B  D:   (d) Components C-E optical.
+ 76968   RV:  (a) vsini also given as 158k/s.
+ 77137   Var: (a) TY Pyx.  E, amp. 0.50p.  6.87-7.47V.
+ 77137   Var: (b) 3.198584d.  Min II 7.45:V.  Outside
+ 77137   Var: (c) eclipse, H and K in emission.
+ 77137   SB:  (a) 3.1986d, e 0.0, K$1 97.5k/s, V$0
+ 77137   SB:  (b) +63.2k/s, m$1sin3i 1.20, a$1sini 4.29;
+ 77137   SB:  (c) K$2 96.2k/s, m$2sin3i 1.22, a$2sini
+ 77137   SB:  (d) 4.23.  i 88~.  SB is also eclipsing
+ 77137   SB:  (e) variable.  Spectral classes G2-G5
+ 77137   SB:  (f) with H and K emission in both
+ 77137   SB:  (g) components.  The two components are
+ 77137   SB:  (h) approximately equal in light.
+ 77321   S:   (a) Also classified K1/2II.
+ 77408   S:   (a) CPM companion, 15.18V, +0.00(B-V),
+ 77408   S:   (b) -0.05(U-B), a sub-luminous star.
+ 77443   Var: (a) UX Lyn.  SRb:, 6.60-6.78V; +1.47-1.55(B-V).
+ 77464   Var: (a) CV Vel.  EA, 6.56-7.3p, 6.8895d,
+ 77464   Var: (b) masses 6.10, 5.99 solar, radii 4.10,
+ 77464   Var: (c) 3.95 solar, detached system.
+ 77464   Var: (d) Secondary min. 7.2p.
+ 77464   SB:  (a) 6.8895d, e 0.0, K$1 127.0k/s, V$0
+ 77464   SB:  (b) +24.3k/s, m$1sin3i 6.07, a$1sini 12.0;
+ 77464   SB:  (c) K$2 129.2k/s, m$2sin3i 5.96, a$2sini
+ 77464   SB:  (d) 12.2.  SB is also eclipsing variable.
+ 77464   RV:  (a) Component b, B2V, vsini 85k/s.
+ 77570   G:   (a) Possible member Hyades Group.
+ 77581   S:   (a) H@a emission.
+ 77581   SB:  (a) 8.9681d, e 0.136, K 21.75k/s, asini
+ 77581   SB:  (b) 32.83; msin3i 1.67 for X-ray source,
+ 77581   SB:  (c) 20.5 for optical.
+ 77581   M:   (a) Optical counterpart of binary X-ray
+ 77581   M:   (b) system 3U 0900-40 = Vela X-1.
+ 77581   M:   (c) Primary may be SR pulsating star.
+ 78005   S:   (a) Also classified B3III, B2.5IV, B4V.
+ 78005   Var: (a) NSV 4371.  Amp. 0.2B.
+ 78616   Var: (a) NSV 4391.  @bCep, amp. 0.06V, 4.6361d,
+ 78616   Var: (b) variable period.
+ 78616   D:   (a) Close visual binary with nearly equal
+ 78616   D:   (b) components, 7.6,8.0v.
+ 78616   G:   (a) HII 128.
+ 78643   G:   (a) HII 145.
+ 79009   N:   (a) 80 Cnc.
+ 79009   D:   (a) Component B, BD +18~2137, 9.4v.  C is
+ 79009   D:   (b) + 18~2136, 10.2v at 148", 317~, 975y,
+ 79009   D:   (c) a 16.725".
+ 79039   G:   (a) HII 128.
+ 79210/1 S:   (a) Also classified K7V.
+ 79210/1 D:   (a) Blended magnitude and colors.  HD 79210
+ 79210/1 D:   (b) is component A of double of which HD 79211
+ 79210/1 D:   (c) is B, 975y, a 16.725".  A possible third,
+ 79210/1 D:   (d) invisible companion, period 5.2y.  Trig.
+ 79210/1 D:   (e) parallax of A, +".168+/-2; of B, +".163+/-3.
+ 79210/1 D:   (f) A, 7.61V, +1.39(B-V), +1.20(U-B), 6.75R,
+ 79210/1 D:   (g) +0.69(R-I)$E.  B, BD +53~1321, 7.71V,
+ 79210/1 D:   (h) +1.36(B-V), +1.20(U-B), 6.80R,
+ 79210/1 D:   (i) +0.69(R-I)$E, PM -1.528",-.706".
+ 79210/1 D:   (j) C, 14.7v at 284"; D, 10.8v at 189", 172~.
+ 79210/1 Dyn: (a) ".22.
+ 79210/1 G:   (a) Hyades group.  Old disc population.
+ 79403   G:   (a) HII 128.
+ 79622   G:   (a) HII 128.
+ 79699   D:   (a) Direct motion.
+ 79765   G:   (a) Non-member Hyades Group.
+ 79810   G:   (a) HII 128.
+ 80105   N:   (a) 25 Hya.
+ 80205   Var: (a) NSV 4443.  Amp. 0.05V.
+ 80205   G:   (a) HII 128.
+ 80550   D:   (a) ADS 7311B.  Component A is HR 3709,
+ 80550   D:   (b) which is an IR source.  Component C,
+ 80550   D:   (c) 11.25V, +1.15(B-V), K2V.
+ 80567   Var: (a) IN Hya.  SRb, 6.27 to 6.75V, +1.62 to
+ 80567   Var: (b) +1.76(B-V), +1.76 to +1.92(U-B),
+ 80567   Var: (c) +1.10 to +1.23(R-I).  About 45d.
+ 80567   G:   (a) Wolf 630 Group.
+ 80572   G:   (a) HII 128?
+ 80777   G:   (a) HII 128?
+ 81028   Var: (a) DF Leo.  SRb, 6.74 to 6.95V, +1.60 to
+ 81028   Var: (b) +1.665(B-V), +1.72 to +1.85(U-B),
+ 81028   Var: (c) +1.10 to +1.20(R-I)$E.  Amp. 0.2V,
+ 81028   Var: (d) 60-80d, or 30:d.
+ 81347   S:   (a) Also classified B3IV, B5Vk.
+ 81347   Var: (a) NSV 4477.  Amp. 0.04V.
+ 81347   G:   (a) HII 128?
+ 81369   G:   (a) HII 128?
+ 81575   Var: (a) GK Vel.  SRb, 6.26-6.5V, about 120d.
+ 81575   G:   (a) HII 128?
+ 82191   Var: (a) NSV 4509.  E, amp. 0.03V.
+ 82191   SB:  (a) 9.0119d, e 0.008, K$1 72.3k/s, V$0
+ 82191   SB:  (b) +10.7k/s, m$1sin3i 2.05, a$1sini 8.96;
+ 82191   SB:  (c) K$2 86.6k/s, m$2sin3i 1.70, a$2sini 10.73.
+ 82191   SB:  (d) Both components Am, classified A1 by Ca:H,
+ 82191   SB:  (e) and F0 from metallic lines.  The secondary
+ 82191   SB:  (f) probably the hotter.  The system has the
+ 82191   SB:  (g) largest minimum masses of any known system
+ 82191   SB:  (h) containing Am stars (as of 1978).
+ 82207   D:   (a) Double with HD 82241.
+ 82224   G:   (a) Near HII 128.
+ 82241   D:   (a) Double with HD 82207.
+ 82436   Var: (a) NSV 4512.  Amp. 0.05V.
+ 82861   S:   (a) Also classified Am.
+ 83114   Var: (a) Y Dra.  M, 6.24-15.0V, 325.49d.
+ 83114   Var: (b) Mean max. 9.2V.
+ 83114   M:   (a) PM from McCormick Obs.
+ 83273   N:   (a) 9 Leo.
+ 83273   G:   (a) Non-member Hyades Group.
+ 83343   N:   (a) 11 Leo.
+ 83368   S:   (a) Also classified F0:p.
+ 83368   Dyn: (a) ".021.
+ 83509   D:   (a) Occultation double sep. 0.006".
+ 83625   Var: (a) IO Vel.  Amp. 0.03y, 1.080d.
+ 84046   Var: (a) NSV 4581.  6.42-6.8V.
+ 84375   S:   (a) Also classified B8e.
+ 84453   N:   (a) 14 LMi in UMa.
+ 85162   Var: (a) Rufener suspected variable.
+ 85209   G:   (a) Near HII 128.
+ 85405   Var: (a) Y Hya.  SRb, 8.3-12.0p.  302.8d.
+ 85405   Var: (b) Erratic variations of 0.25V.  Range
+ 85405   Var: (c) 6.35 to 6.60V, +3.23 to +3.40(B-V),
+ 85405   Var: (d) +1.04 to +1.10(R-I)$E.  Mean
+ 85405   Var: (e) photographic mag. varies slowly.
+ 85405   Var: (f) Periods 95d and 1200d also found.
+ 85762   N:   (a) 9 Sex.
+ 85762   D:   (a) Component B is BD +5~2247, 9.2v, K0,
+ 85762   D:   (b) at 52", 290~, PM -.028",-.022".
+ 86118   Var: (a) QX Car.  EA, 6.46-7.0B.  4.4772d.
+ 86675   Var: (a) NSV 4688.  6.3-7.06V.
+ 86754   S:   (a) Equal double lines.
+ 86778   M:   (a) Near IR radio source 3C234.
+ 87122   D:   (a) Component B is -55~2795.
+ 87127   D:   (a) ADS 7621.  Component B, 13.49V,
+ 87127   D:   (b) +0.82(B-V), +0.30(U-B).  CPM.
+ 87638   S:   (a) Also classified F0V.
+ 87870   Var: (a) IO Hya.  SRb, 6.87 to 7.02V, +1.50 to
+ 87870   Var: (b) +1.58(B-V), +1.48 to +1.59(U-B),
+ 87870   Var: (c) +1.27 to +1.34(R-I)$E.  80:d.
+ 88021/2 S:   (a) Uncertain which spectrum corresponds
+ 88021/2 S:   (b) to the primary.
+ 88021/2 Var: (a) NSV 4757.  6.64-6.74V.
+ 88021/2 D:   (a) ADS 7662, 7.3,7.4v, Am+F5III, 64.7y,
+ 88021/2 D:   (b) e 0.949, a 0.240", i 116~.  Also
+ 88021/2 D:   (c) observed by speckle interferometry,
+ 88021/2 D:   (d) sep. 0.182", 193~, but inconsistent
+ 88021/2 D:   (e) with Baize orbit.
+ 88021/2 Dyn: (a) ".017.
+ 88108   Var: (a) NSV 4759.  Amp. 0.34K.
+ 88158   Var: (a) NSV 4755.  @aCV?
+ 88230   S:   (a) Also classified dM0, K7V.
+ 88230   Var: (a) NSV 4765.  Microvariable in V, 6.59-6.66V.
+ 88230   D:   (a) Component B is BD +50~1724, 9.0v,
+ 88230   D:   (b) PM -1.352:,-.529".  C is +50~1723,
+ 88230   D:   (c) 10.1v at 303.5", 254~ from B.
+ 88230   G:   (a) Old disc population.
+ 88539   S:   (a) Also classified N, CH, C5II.
+ 88539   Var: (a) AB Ant.  Lb, 6.64-6.89V; +3.06 to
+ 88539   Var: (b) +3.48(U-B); +0.98 to +2.30(R-I)$C.
+ 88764   N:   (a) 21 Sex.
+ 89269   D:   (a) Component B is BD +44~1975.
+ 89269   G:   (a) Probable member Wolf 630 Group.
+ 89713   G:   (a) NGC 3228.1.  Probably non-member.
+ 89740   G:   (a) HII 164.
+ 90068   Var: (a) SR type.
+ 90068   D:   (a) Secondary is BD +34~2122, 8.3v K0,
+ 90068   D:   (b) PM -.001",-.019".
+ 90156   Var: (a) NSV 4844.  Amp. 0.10V.
+ 90250   N:   (a) 29 LMi.
+ 90250   G:   (a) @zHerculis Group.
+ 90473   N:   (a) 26 Sex.
+ 90485   N:   (a) 27 Sex.
+ 90490   G:   (a) Near HII 196.
+ 90586   Var: (a) NSV 4860.  6.93-7.02V.  Component A of
+ 90586   Var: (b) double.
+ 90586   D:   (a) B, 10.49, B3III.
+ 90706   G:   (a) IC 2581.2.
+ 90872   S:   (a) Also classified B8III.
+ 91011   N:   (a) 31 Sex.
+ 91645   D:   (a) 7.2,11.0,v.
+ 91943   S:   (a) Also classified B0.5Ie, B0.5Ibk,
+ 91943   S:   (b) B0.5/1II/III.
+ 91943   D:   (a) CPD -57~3500, 8.74V, B1III, RV-23k/s
+ 91943   D:   (b) is 1.3' S of HD 91943 = CPD-50~3499.
+ 91943   G:   (a) NGC 3293.3.  HII 172-175.
+ 91962   D:   (a) ADS 7854, 7.2,10.4v, G0, 283.11y, e 0.304,
+ 91962   D:   (b) a 1.317", i 35~, masses A 1.10, B 0.69 solar.
+ 91962   Dyn: (a) ".033.
+ 91969   S:   (a) Also classified B0I, B0Ib, O9.5Ik.
+ 91969   G:   (a) NGC 3293.4.  HII 172-175.
+ 92072   G:   (a) HII 176, 196.
+ 92385   G:   (a) IC 2602.17.
+ 92399   G:   (a) HII 181, NGC 3372.
+ 92463   D:   (a) Comp. B of which HD 92449 = HR 4180 is A.
+ 92464   Var: (a) NSV 4929.  Amp. 0.05V.
+ 92467   G:   (a) IC 2602.18.
+ 92505   S:   (a) Also classified B3/4IV.
+ 92505   G:   (a) HII 176, 181, 196, NGC 3372.
+ 92536   G:   (a) IC 2602.22.
+ 92626   S:   (a) Also classified K2p,Rp.
+ 92693   N:   (a) HD gives for -57~3663, HD 92692/3, G0
+ 92693   N:   (b) and A5; spectrum called composite,
+ 92693   N:   (c) magnitude blended.
+ 92693   G:   (a) HII 176, NGC 3372.
+ 92715   G:   (a) IC 2602.28.
+ 92783   G:   (a) IC 2602.29.
+ 92880   Var: (a) NSV 4956, 8.0-8.5p.
+ 93010   G:   (a) HII 176, NGC 3372, HII 196.
+ 93033   Var: (a) TX UMa.  EA, 7.06-8.76V, 3.063243d,
+ 93033   Var: (b) masses 3.6, 1.1 solar, radii 2.32,
+ 93033   Var: (c) 4.07 solar, semi-detached system.
+ 93033   Var: (d) Secondary min 7.13V.  Period varies.
+ 93033   SB:  (a) 3.0633d, e 0.08, K 56.1k/s, V$0
+ 93033   SB:  (b) -11.5k/s, asini 2.36.  Secondary
+ 93033   SB:  (c) spectrum observable at primary
+ 93033   SB:  (d) eclipse.  D and H@a lines may be double.
+ 93128   C:   (a) Mag. and (B-V) for blended image of
+ 93128   C:   (b) HD 93128/9.
+ 93128   S:   (a) Also classified O6e.
+ 93128   RV:  (a) Also given as +5V?
+ 93128   Dyn: (a) ".002.
+ 93128   G:   (a) HII 176, 181, 196, NGC 3372.
+ 93129   S:   (a) Also classified A1/3Ia/b.
+ 93129   RV:  (a) Wide range in RV depending on which
+ 93129   RV:  (b) lines are measured: from -37 to +4k/s
+ 93129   RV:  (c) for absorption lines, -16 to +3 for
+ 93129   RV:  (d) narrow emission, and over 200k/s for
+ 93129   RV:  (e) broad emission.
+ 93131   S:   (a) P Cygni characteristics.
+ 93131   RV:  (a) RV of different absorption lines range
+ 93131   RV:  (b) from -146 to -50k/s; narrow emission,
+ 93131   RV:  (c) -50 to -14; and broad emission of
+ 93131   RV:  (d) HeII 4686, +69k/s.
+ 93131   D:   (a) Probably single star.
+ 93131   G:   (a) HII 176, 181, 196, NGC 3372.  The most
+ 93131   G:   (b) luminous single star in Collinder 228.
+ 93203   S:   (a) Also classified F6-G4.
+ 93203   Var: (a) VY Car.  C@d, 6.867 to 7.990V, +0.831
+ 93203   Var: (b) to +1.473(B-V), +0.425 to
+ 93203   Var: (c) +1.396(U-B).  18.9484d.
+ 93203   G:   (a) Near HII 181.
+ 93206   S:   (a) Also classified B0I, O9Ib(f), O9.5Ib,
+ 93206   S:   (b) B0I and O9III+O9.5I.
+ 93206   Var: (a) QZ Car.  EB, 6.22-6.49V.  6.000d.
+ 93206   Var: (b) Amp. primary 0.09, secondary 0.07V.
+ 93206   Var: (c) 5.986d, 6.011d also possible.
+ 93206   SB:  (a) Orbital elements for component A,
+ 93206   SB:  (b) O9.5I, 20.73d, V$0 -7k/s, K 49k/s,
+ 93206   SB:  (c) e 0.34, asini 13.1, f(m) 0.21.  Orbital
+ 93206   SB:  (d) elements for component B, O9III,
+ 93206   SB:  (e) 5.9980d, V$0 -34k/s, K 255k/s, e
+ 93206   SB:  (f) 0.09, asini 21.0, f(m) 10.3.  The two
+ 93206   SB:  (g) stars do not belong to the same
+ 93206   SB:  (h) binary system.  A is the primary of
+ 93206   SB:  (i) one system, B (which is eclipsing) is
+ 93206   SB:  (j) the primary of the other.  The two
+ 93206   SB:  (k) pairs may be in wide orbit about each
+ 93206   SB:  (l) other at 0."012, period <25y.  A
+ 93206   SB:  (m) systematic difference in RV from HeI
+ 93206   SB:  (n) (-34+/-8) and SiIV (-47+/-18)k/s is
+ 93206   SB:  (o) attributed to stellar winds.
+ 93206   RV:  (a) Companion B, RV -26k/s.  Secondary of
+ 93206   RV:  (b) the eclipsing binary, +110.6k/s.
+ 93206   D:   (a) Component A of the visual system is
+ 93206   D:   (b) the blend of A,B of the spectroscopic
+ 93206   D:   (c) system of four components.  Visual
+ 93206   D:   (d) component B is 13v at 7";  C, a faint
+ 93206   D:   (e) star at 9".
+ 93206   G:   (a) Region of @hCar; Collinder 228.  HII
+ 93206   G:   (b) 176, 181, 196, NGC 3372.
+ 93521   Var: (a) Other V determinations 7.016 and 6.89V.
+ 93525   D:   (a) ADS 7930BC, of which HR 4218 = BD
+ 93525   D:   (b) -14~3186 HD 93526, is A.  PM of C,
+ 93525   D:   (c) +.013",-.056".
+ 93525   Dyn: (a) ".012.
+ 93695   G:   (a) HII 176, 181, 196, NGC 3372.
+ 93714   S:   (a) Also classified B3III.
+ 93714   G:   (a) IC 2602.53.
+ 93738   G:   (a) IC 2602.54.
+ 93807   G:   (a) Near HII 181.
+ 94144   S:   (a) Also classified B4III.
+ 94144   G:   (a) HII 196.
+ 94173   D:   (a) Component B is CPD -59~2783.
+ 94173   G:   (a) HII 176, 181, 182, 196.
+ 94190   Var: (a) Three obs. close to 6.83V, another
+ 94190   Var: (b) 6.65V.  Var?
+ 94304   S:   (a) Also classified B8Ia.
+ 94304   Var: (a) Rufener suspected variable.
+ 94304   G:   (a) HII 182.
+ 94491   D:   (a) Component B of which A = HD 94510 = HR
+ 94491   D:   (b) 4257 = CPD -58~2834.  C is CPD -
+ 94491   D:   (c) 58~2836, 8.5v at 62", 13~.
+ 94491   G:   (a) HII 181, 182, 196.
+ 94565   D:   (a) Component B is CoD -38~6819, 8.5v A.
+ 94898   Var: (a) NSV 5023.  7.10-7.23V.
+ 94902   Var: (a) VW UMa.  SR, 6.85-7.71V, amp. 0.7p, 125d.
+ 94910   S:   (a) P Cygni characteristics.
+ 94910   Var: (a) AG Car.  SD, 7.1-9.0p.  Bright 4 times
+ 94910   Var: (b) in 45y.  In 1970 slow fluctuations,
+ 94910   Var: (c) 7.11-7.37V.
+ 94910   G:   (a) In ring nebula.  HII 196.
+ 95506   D:   (a) 7.5,7.5v.
+ 95725   Var: (a) NSV 5068.  Amp. 0.23V.
+ 95880   Var: (a) NSV 5072.  6.87-6.97V.
+ 95880   G:   (a) HII 186-189, 196.
+ 95950   G:   (a) HII 188, 196.
+ 96248   Var: (a) NSV 5082.  Amp. 0.07V.
+ 96248   G:   (a) HII 186-189, 191, 196.
+ 96418   N:   (a) 52 LMi in Leo.
+ 96446   S:   (a) Also classified B2VHe, B3Vp.
+ 96446   G:   (a) Sco-Cen moving cluster.  HII 186-189,
+ 96446   G:   (b) 191, 193, 196.
+ 96917   Var: (a) NSV 5104.  Amp. 0.05V.
+ 96917   RV:  (a) Range -26 to +52k/s.
+ 97082   Var: (a) ER Car.  C@d, 6.576 to 7.095V, +0.689
+ 97082   Var: (b) to +1.024(B-V) +0.445 to +0.886(U-B).
+ 97082   Var: (c) 7.7187d.
+ 97082   G:   (a) HII 196.
+ 97253   G:   (a) Center of star clustering, Hogg 10.
+ 97253   G:   (b) HII 196.
+ 97398   G:   (a) HII 193, 196.
+ 97561   S:   (a) Also classified G7IV.
+ 97561   Var: (a) NSV 5140.  6.92-6.99V.
+ 97561   D:   (a) ADS 8094, 7.6,7.6v.
+ 97561   Dyn: (a) ".008.
+ 97689   S:   (a) Metallic-line star, A2/A8/F0II-III;
+ 97689   S:   (b) also classified A0/A3-5/F0, A0m, A3/5-F0.
+ 97918   Var: (a) SY Crt.  6.34 to 6.62V, +1.58 to
+ 97918   Var: (b) +1.62(B-V), +1.51 to +1.69(U-B),
+ 97918   Var: (c) +1.21 to +1.32(R-I)$E.
+ 97918   G:   (a) Young disc population.
+ 98220   S:   (a) Also classified F7V.
+ 98278   G:   (a) HII 196.
+ 98329   G:   (a) HII 196.
+ 98427   D:   (a) ADS 8131.  Component B, 7.90V,
+ 98427   D:   (b) +0.68(B-V), +0.25(U-B), dG3.
+ 98427   Dyn: (a) ".016.
+ 98732   G:   (a) HII 196.
+ 98824   N:   (a) 71 Leo.
+ 98824   G:   (a) Red giant in 61 Cyg Group.
+ 99592   Var: (a) ST UMa.  SRb, 7.7-9.5B, 81d.  Mean
+ 99592   Var: (b) mag. varies in period of perhaps 590d.
+ 99619   S:   (a) Also classified M1/2III.
+ 99619   Var: (a) V 771 Cen.  SRd?, 6.8-7.0v.
+ 99619   RV:  (a) Mean of two values, -26 and -38k/s.
+ 99619   G:   (a) HII 196.
+ 99946   S:   (a) Also classified F0-F2.
+ 99946   Var: (a) AW UMa.  EW, 6.84-7.10V.  0.4387318d.
+ 99946   D:   (a) Component B, 9.46V, +0.75(B-V),
+ 99946   D:   (b) +0.30(U-B).
+ 99953   Var: (a) V808 Cen.  Amp. about 0.07y.
+ 99953   Var: (b) Semi-period 17.7d.
+ 99953   G:   (a) HII 205.
+100018   SB:  (a) 7.3990d, e 0.38, K$1 76.2k/s, V$0
+100018   SB:  (b) -3.0k/s, m$1sin3i 1.33, a$1sini 7.17;
+100018   SB:  (c) g$2 84.5k/s, m$2sin3i 1.20, a$2sini
+100018   SB:  (d) 7.95.  Spectroscopic triple system
+100018   SB:  (e) containing the visual pair ADS 8189.
+100018   SB:  (f) SB is probably the visual primary.
+100018   D:   (a) ADS 8189, 7.6,7.9v, P 85.999, e 0.379,
+100018   D:   (b) a 0.400, i 57~, masses 1.44, 1.34 solar.
+100018   D:   (c) Also observed by speckle interferometry,
+100018   D:   (d) sep. 0.158", 75~ to 0.210", 115~.
+100018   Dyn: (a) ".015.
+100235   D:   (a) Highly inclined orbit; period
+100235   D:   (b) undetermined.  Unresolved by speckle
+100235   D:   (c) interferometry in 1976 and 1979.
+100238   RV:  (a) Abt records one discordant observation,
+100238   RV:  (b) -29.6k/s, on Mar 30, 1929.
+100735   G:   (a) HII 207.
+100773   C:   (a) Also 6.57V, +0.37(B-V).
+100773   G:   (a) Possible member Hyades Group.  HII 196.
+100826   D:   (a) Companion 7.02V, M2Iab+B, RV -13.2k/s.
+100826   G:   (a) NGC 3766.334.  HII 196.
+100901   S:   (a) Also classified K1V and K0/1III.
+100943   Var: (a) 7.077 to 7.14V, probably variable.
+100943   G:   (a) HII 196.
+100954   D:   (a) B, CoD -38~7231, = HD 100965, 7.47V, K2.
+100954   D:   (b) Optical?
+101007   G:   (a) NGC 3766.335.
+101103   G:   (a) HII 196.
+101104   S:   (a) Some confusion in the literature
+101104   S:   (b) between HD 101104 and 101105.  The
+101104   S:   (c) UBV data are from Humphreys (Ap.J,
+101104   S:   (d) 172, 79, 1972) where they are
+101104   S:   (e) ascribed to CoD -60~3647 which
+101104   S:   (f) corresponds to CPD -60~3695 = HD
+101104   S:   (g) 101105, B5, whereas HD 101104, Mb, is
+101104   S:   (h) CPD -60~3696 = CoD -60~3648.  Houk
+101104   S:   (i) gives M5/7 for HD 101104; B2III/IV
+101104   S:   (j) for 101105.  It is assumed Humphreys'
+101104   S:   (k) data refer to CoD -60~3648.
+101104   G:   (a) HII 196.
+101205   S:   (a) Also classified O7III/V,
+101205   S:   (b) O7IIInf:,O6,O8V and B7/8Ib.
+101205   Var: (a) NSV 5277.  6.45-6.48V.
+101205   RV:  (a) Range from -96 to +41:k/s.  Secondary
+101205   RV:  (b) +148.3k/s.
+101205   D:   (a) 7.2,7.2v.
+101205   G:   (a) IC 2944.47.  HII 206, NGC 2948.
+101545   S:   (a) O9.5III+B0.5Ib, also variously classified,
+101545   S:   (b) O9.5Ib, B0III, O9.5Ib+O9.5Ib.
+101545   D:   (a) Component B, 7.8v, RV -0.3V.
+101545   G:   (a) IC 2944.21.  HII 206.
+101584   SB:  (a) 1278d, e 0, K 12.3k/s, V$0 +30.3k/s, asini 216.
+101584   G:   (a) Near HII 207.
+101584   M:   (a) IR Source.  Possibly an A-type star
+101584   M:   (b) surrounded by shell streaming from M-type
+101584   M:   (c) star that has filled its Roche lobe.
+101584   M:   (d) However, binary nature still conjectural.
+101614   S:   (a) Also classified G5VI:.
+101805   S:   (a) Also classified F7V.
+101998   S:   (a) Also classified K2V.
+102056   S:   (a) Also classified Am:.
+102159   C:   (a) UBV also 7.15V, +1.55(B-V), +1.42(U-B).
+102159   Var: (a) TV UMa.  SRb, 8.3-9.2p, 50.38d.
+102357   G:   (a) Non-member Hyades Group.
+102997   G:   (a) HII 208.
+103246   D:   (a) ADS 8337, 7.2,8.4v, dF7, 77.15y,
+103246   D:   (b) e 0.477, a 0.388", i 34~.
+103246   Dyn: (a) ".016.
+103932   S:   (a) Metal-rich dwarf.  Ultraviolet deficient.
+104111   G:   (a) HII 209.
+104207   Var: (a) GK Com.  SRb, 6.84 to 7.13V, +1.47 to
+104207   Var: (b) +1.64(B-V), +1.425 to +1.655(U-B),
+104207   Var: (c) +1.265 to +1.35(R-I)$E.  50:d.
+104207   M:   (a) Belongs to spherical component.
+104471   D:   (a) 7.4,8.1v, 437.095y, e 0.503, a 1.171",
+104471   D:   (b) i 122~.  Rectilinear motion.
+104471   Dyn: (a) ".025.
+104556   D:   (a) Component B.  Component A = HD 104513
+104556   D:   (b) = HR 4594 = +43~2179.
+104631   S:   (a) Variously classified O9.5/B0III/IV,
+104631   S:   (b) B0.5Ib-II, B0.5II-III, B1II and
+104631   S:   (c) B1III+B1III.
+104631   Var: (a) NSV 5434.  6.75-6.81V.
+104631   SB:  (a) P 7.373d.
+104631   RV:  (a) Canberra range +9 to +48, other -19k/s.
+104631   G:   (a) HII 209.
+104747   N:   (a) 89 Cen.
+104747   D:   (a) 7.2,7.4v, 109.0y, e 0.58, a 0.67", i 150~.
+104747   Dyn: (a) ".022.
+104971   G:   (a) Near HII 196.
+105016   G:   (a) HII 209.
+105262   G:   (a) Probable member Wolf 630 Group.
+105266   Var: (a) RW Vir.  Lb, 8.6-9.1p.
+105475   S:   (a) Formerly classified dG9.
+105475   G:   (a) Mel 111.3.
+105590   Var: (a) NSV 5478.  Amp. 0.08V.
+105590   D:   (a) AB, 6.9v G2, 9.4v K8, 10.0", 89~;
+105590   D:   (b) C, BD -11~3248, 9.3v, PM -.016",-.058".
+105590   Dyn: (a) ".053.
+105824   D:   (a) ADS 8446, 7.3,8.0v, 326.773y, e 0.728,
+105824   D:   (b) a 0.774", i 155~.
+105824   Dyn: (a) ".011.
+106365   D:   (a) Comp. B, 8.77V, +0.59(B-V), 0.06(U-B),
+106365   D:   (b) F8V, F9V or F8IV, RV -4.4k/s, SB.
+106365   D:   (c) Component BC, 8.78V, F9V, RV +8k/s.
+106365   Dyn: (a) ".014.
+106365   G:   (a) Red giant member 61 Cyg Group.
+106384   Var: (a) FG Vir.  @dSct, 6.53-6.58V, 0.07d.
+106384   D:   (a) ADS 8471B, 13.51V, +0.38(B-V),
+106384   D:   (b) -0.17(U-B), optical; C, 11.85V,
+106384   D:   (c) +1.33(B-V), +1.35(U-B).
+106384   D:   (d) Occultation triple: A, 7.3,7.3v, sep. 0.1";
+106384   D:   (e) C, 11.6v at 74", 195~.
+106384   M:   (a) Possible blue straggler.
+106742   G:   (a) HII 209.
+107145   S:   (a) Also classified F5IV/V.
+107276   N:   (a) 10 Com.
+107276   C:   (a) V ranges from 6.65 to 6.70; (B-V) from
+107276   C:   (b) 0.117 to 0.18; (U-B) from 0.09 to 0.10.
+107276   S:   (a) Also classified Am.
+107276   G:   (a) Mel 111.68.  Coma Cluster.
+107288   Var: (a) NSV 5556, ADS 8514A.
+107288   D:   (a) ADS 8514B, 11.0v.
+107341   S:   (a) Also classified K0III and G0V.
+107341   D:   (a) B, 10.28V, +0.58(B-V), +0.08(U-B),
+107341   D:   (b) F9V, RV -7.1k/s, PM -.035",+.000".
+107341   D:   (c) Component C, G0V, RV -7.1k/s.
+107397   Var: (a) RY UMa.  SRb, 6.68-8.5v.  311d.
+107447   S:   (a) Variable from F6 to G2.
+107447   Var: (a) T Cru.  C@d.  6.360 to 6.834V, +0.781
+107447   Var: (b) to +1.069(B-V).  6.73327d.
+107805   S:   (a) Variable from F6 to G2.
+107805   Var: (a) R Cru.  C@d.  6.417 to 7.234V, +0.577
+107805   Var: (b) to +1.021(B-V), +0.414 to +0.794(U-B).
+107805   Var: (c) 5.82575d.
+107805   G:   (a) Near HII 212.
+107814   Var: (a) TT Crv.  Amp.0.10V, period near 11.5d.
+107814   M:   (a) Old disc population.
+107935   S:   (a) Also classified Am and A8V, A7V.
+107935   G:   (a) Mel 111.104.  Coma Cluster.
+108002   S:   (a) Also classified B1Ib, B1.5Ib.
+108105   S:   (a) Also classified C5II or C5,3e.
+108105   Var: (a) SS Vir.  M, 6.0-9.6v.  354.66d.
+108105   Var: (b) Period varies.
+108346   N:   (a) 72 UMa.
+108346   S:   (a) Also classified A1mA7.
+108466   G:   (a) Mel 111.137.  Coma Cluster.
+108486   S:   (a) Am.
+108486   Var: (a) NSV 5629.  E:, 6.67-6.76V.
+108486   G:   (a) Mel 111.139.  Coma Cluster.
+108610   G:   (a) HII 220.
+108680   Var: (a) FZ Vir.  6.81 to 6.98V; +1.60 to +1.65(B-V);
+108680   Var: (b) +1.78 to +1.90(U-B).  About 25d.
+108680   G:   (a) Probable young disc population.
+108773   S:   (a) Also classified F0Ib.
+108773   G:   (a) HII 220.
+109241   S:   (a) A7V+F/G:III:.
+109372   Var: (a) Lb, 5.85 to 6.56V, +1.67 to  +1.77(B-V),
+109372   Var: (b) +1.20 to +1.48(U-B), +1.62 to +1.70(R-I)$E.
+109372   G:   (a) Old disc population.
+109475   G:   (a) HII 220.
+109808   Dyn: (a) ".017.
+110194   S:   (a) Also classified K2Vm, K3III.
+110326   SB:  (a) 2.7045d, e 0.05, K 40.7k/s,
+110326   SB:  (b) V$0 -8.6k/s, asini 1.51.
+110326   G:   (a) Probable member of Coma Cluster.
+110418   N:   (a) 28 Vir.
+110501   S:   (a) Also classified K0III.
+110835   S:   (a) Also classified K2IV, K3III, and K4II.
+110932   D:   (a) ADS 8659B is BD +15~2503.  Component
+110932   D:   (b) A, 7.23V, -0.11(B-V), -0.36(U-B);
+110932   D:   (c) component B, 7.75V, +0.41(B-V),
+110932   D:   (d) -0.05(U-B).  Trig. parallax of A,
+110932   D:   (e) +".008+/-10; of B, +".018+/-8.
+110994   S:   (a) Also classified M3III and S5,1.
+110994   Var: (a) BQ Oct.  Amp. 0.2p, >0.1V.
+111102   G:   (a) Near HII 223.
+111464   G:   (a) Near HII 226.
+111499   Var: (a) SV Crv.  SRb, 6.78-7.6V.  About 60d.
+111572   Var: (a) NSV 5976.  Amp. 0.06V.
+111844/5 D:   (a) ADS 8690A, 7.34V, +0.32(B-V),
+111844/5 D:   (b) +0.09(U-B), Am; component B =
+111844/5 D:   (c) HD 111845, 7.87V, +0.56(B-V),
+111844/5 D:   (d) +0.06(U-B), RV-3.6k/s.  Component C is
+111844/5 D:   (e) BD +20~2768 = HD 11814,
+111844/5 D:   (f) 8.7v at 247", 327~.
+111934   S:   (a) Also classified B9Ia, B1.5Ib, B3Ib.
+111934   Var: (a) BU Cru.  Elliptical?,  6.80-6.90V;
+111934   Var: (b) Amp. 0.04b.
+111934   G:   (a) NGC 4755.106.  @kCru Cluster.
+111990   RV:  (a) Mean values range -6 to -29k/s.
+111990   G:   (a) NGC 4755.3.
+112074   D:   (a) ADS 8699B is BD -17~3725, 6.8v A0,
+112074   D:   (b) 9.3v A2, PM +.027",+.006".
+112127   S:   (a) Also classified
+112127   S:   (b) K2.5III:CN1Fe1Ba-0.5C$20.5.
+112361AB D:   (a) 7.4,7.6v, 294y, e 0.872, a 0.695", i 43~.
+112381   Var: (a) V823 Cen.  Amp. 0.005y, 0.01b,
+112381   Var: (b) v and u.  2.84d.
+112559   S:   (a) Also classified C7I.
+112559   Var: (a) RY Dra.  SRb, 9.4-11.4p.  172.5:d.
+112559   Var: (b) Morel-Magnenat give 6.33, 6.49V;
+112559   Var: (c) 9.42, 9.80B; 15.54, 18.70U; 4.33,
+112559   Var: (d) 4.49R; 2.91, 3.06I; i.e., +3.09
+112559   Var: (e) to +3.31(B-V); +6.12 to +8.90(U-B);
+112559   Var: (f) +1.42 to +1.43(R-I).
+112814   C:   (a) (U-B) +0.56 in Morel-Magnenat, +0.67
+112814   C:   (b) in Nicolet.
+112814   S:   (a) Also classified K0V.
+113365   D:   (a) Probably single.  Reported double in
+113365   D:   (b) 1881.3 in Berlin AG.
+113457   G:   (a) HII 229.
+113867   RV:  (a) Also given as -6k/s.
+113984   S:   (a) Also classified F6V+G0V.
+113984   Dyn: (a) ".016.
+114174   S:   (a) Also classified G2IV-V.
+114446   D:   (a) Possible physical system with DM +59~1489,
+114446   D:   (b) 9.78V, +0.875(B-V), +0.053(U-B),
+114446   D:   (c) CPM at 2~.
+114489   G:   (a) HII 230, 232.
+114800   G:   (a) HII 229, 231.
+114886   S:   (a) Also classified B0III/IV, B1/2Ib/II and O9V.
+114886   RV:  (a) Also a determination of -63.5k/s.
+114886   Dyn: (a) ".019.
+114886   G:   (a) HII 229, 231.
+114961   Var: (a) SW Vir.  SRb, 6.85 to 7.88V, +1.61 to
+114961   Var: (b) +1.73(B-V), +0.56 to +0.885(U-B),
+114961   Var: (c) +1.73 to +1.93(R-I)$E.  About 150d.
+114988   S:   (a) Also classified G5III.
+115043   D:   (a) Component B = HD 115019, BD +57~1424,
+115043   D:   (b) 8.6v G5.
+115043   G:   (a) UMa Cluster.
+115061   D:   (a) Component BC, of which A is HD 115136, CPM.
+115062   N:   (a) 56 Vir.
+115062   G:   (a) Member Arcturus Group.
+115136   D:   (a) CPM with  BD +68~717 = HD 115061 =
+115136   D:   (b) component B.  Component C is BD
+115136   D:   (c) +68~719, PM +.031",+.011".
+115236   S:   (a) Also classified SC, K5pn, S6/8.
+115236   Var: (a) UY Cen.  SR, 9.5-11.2p.  6.56 to
+115236   Var: (b) 7.39V, +2.67 to +2.86(B-V), +1.13 to
+115236   Var: (c) +1.30(R-I)$E.  114.6:d.
+115322   Var: (a) FH Vir.  SRb, 6.92-7.45V.  About 70d.
+115322   G:   (a) Possible member Arcturus Group.
+115400   G:   (a) HII 229, 231.
+115404   D:   (a) Component ADS 8841B, 10.2v, RV +10k/s.
+115404   D:   (b) Component C, 10.5v at 92", 3~.
+115404   Dyn: (a) ".089.
+115415   RV:  (a) More recent determination, -24k/s.
+115577   S:   (a) Also classified K0III.
+115577   G:   (a) Arcturus group, member.
+115898   Var: (a) V CVn.  SRa, 6.74 to 8.8V.  +1.45 to
+115898   Var: (b) +1.78(B-V).  191.93d.  Polarization
+115898   Var: (c) varies.  Amplitude of light varies strongly.
+115903   N:   (a) 62 Vir.
+116442   S:   (a) Also classified K0III+K2III.
+116442   D:   (a) ADS 8883B is BD +3~2766, 7.6v, PM
+116442   D:   (b) +.018",+.202".
+116442   Dyn: (a) ".031.
+117000   C:   (a) (U-B) +0.58 or +0.46.
+117000   S:   (a) Variously classified F0/2Ia, F5Iab,
+117000   S:   (b) F1Ia, G0II.
+117000   G:   (a) HII 236.
+117024   G:   (a) HII 229.
+117362   Var: (a) FO Vir.  RR?  6.5-6.8V.  Amp.0.33U.
+117362   Var: (b) About 0.6d.
+117399   C:   (a) (B-V) also +0.81.
+117399   Var: (a) V659 Cen.  C@d, 6.45-6.71V, 5.62180d.
+117399   G:   (a) HII 236.
+117846   D:   (a) A, 7.28V, +1.00(B-V), +0.80(U-B),
+117846   D:   (b) G8III; B, 8.17V, +0.42(B-V),
+117846   D:   (c) -0.01(U-B), F5IV.
+117846   Dyn: (a) ".004.
+117878   N:   (a) 77 Vir.
+117902   S:   (a) Also classified A3n, A6III.
+117902   D:   (a) ADS 8939, 7.3,7.8v, 54.8y, e 0.80, a
+117902   D:   (b) 0.18", i 69~.  C is BD +35~2461, 9.3v
+117902   D:   (c) at 16", 333~, PM -.133",+.044".
+117902   Dyn: (a) ".003.
+118289   Var: (a) FP Vir.  SRb,  6.72 to 7.35V, +1.56 to
+118289   Var: (b) +1.68(B-V), +1.475 to +1.705(U-B),
+118289   Var: (c) +1.39 to +1.49(R-I)$E.  55:d.
+118349B  D:   (a) ADS 8966B.  Component A is HR 5120 =
+118349B  D:   (b) -25~9900, trig. parallax +".021.
+118349B  Dyn: (a) ".010.
+119191   D:   (a) 7.5,7.6v.
+119191   Dyn: (a) ".019.
+119430   S:   (a) Also classified A0III.
+119461   D:   (a) Component B, 10.16V, +0.53(B-V),
+119461   D:   (b) +0.04(U-B), F7V, RV +4.4k/s; C,
+119461   D:   (c) 14.16V, +.075(B-V), +0.17(U-B), optical.
+119646   G:   (a) Near HII 236, 239.
+119699   G:   (a) NGC 5281.1.  Near HII 239.
+120476   D:   (a) ADS 9031, 7.59,8.03v, 155.0y, e 0.043,
+120476   D:   (b) a 2.423", i 47~.  @DV 0.46, @D(B-V)
+120476   D:   (c) 0.18, @D(U-B) 0.09.  RV of B -21k/s.
+120476   Dyn: (a) ".078.
+120651   D:   (a) Component B is BD +21~2579, 7.4v G0,
+120651   D:   (b) PM -.047",+.012".
+120680   S:   (a) Also classified B2III-IV, B2II.
+120901/2 Var: (a) DL Vir.  EA, 7.0-7.5v.  1.315475d.
+120901/2 Var: (b) Period may be double the period given.
+120901/2 SB:  (a) 1.315475d, e 0.0, K 93.0k/s, V$0
+120901/2 SB:  (b) -23.8k/s, asini 1.68; also 2260d, e 0.44,
+120901/2 SB:  (c) K 17.5k/s, V$0 -24.9k/s, asini 488.
+120901/2 SB:  (d) Spectroscopic triple system containing
+120901/2 SB:  (e) the short period eclipsing binary.
+120901/2 SB:  (f) Period revolution of G8III star about CG
+120901/2 SB:  (g) of eclipsing pair is about 2260d.  Bright
+120901/2 SB:  (h) component, spectrum A; second component,
+120901/2 SB:  (i) spectrum not seen; third component G8III.
+120901/2 RV:  (a) vsini of A2V component 120k/s; vsini
+120901/2 RV:  (b) of F9II-III component 50k/s.
+121518   C:   (a) U-B from 1.52 to 1.69.
+121518   Var: (a) According to IDS, component A of
+121518   Var: (b) double is variable.
+121518   D:   (a) Component B is -57~6409 = HD 121506.
+121648   S:   (a) F2IV/V+F2IV/V.
+121648   Var: (a) ZZ Boo.  EA, 6.78-7.26V, 7.2-7.85p.
+121648   Var: (b) 4.9917440d, masses 1.71, 1.70 solar;
+121648   Var: (c) radii 2.28, 2.15 solar; detached
+121648   Var: (d) system.  Secondary minimum 7.75p.
+121648   SB:  (a) 4.9917d, e 0.0, K$1 91.7k/s, V$0
+121648   SB:  (b) -29.5k/s, m$1sin3i 1.73, a$1sini 6.29;
+121648   SB:  (c) K$2 95.5k/s, m$2sin3i 1.67, a$2sini 6.56.
+122132   Var: (a) Microvariable in V and colors.
+123033   D:   (a) Companion 8.80V, +0.76(B-V),
+123033   D:   (b) +0.32(U-B), K0V.
+123177   N:   (a) 94 Vir.
+123214   Var: (a) ER Vir.  SRb, 6.45-6.63V.  55d.
+123598   C:   (a) B-V from 1.55 to 1.61; U-B from 1.75
+123598   C:   (b) to 1.86.
+123598   Var: (a) FR Vir.  Lb?  7.02 to 7.19V.  +1.55 to
+123598   Var: (b) +1.61(B-V), +1.75 to +1.86(U-B),
+123598   Var: (c) +1.01 to +1.10(R-I).
+123598   G:   (a) Member Arcturus Group.
+123797   S:   (a) Also classified G8/K0III.
+123797   M:   (a) Nicolet and Blanco disagree on UBV.
+123797   M:   (b) Identified in Mermilliod (A&A Supp.,
+123797   M:   (c) 24, 159, 1976) and Nicolet,
+123797   M:   (d) as NGC 5460.109, 7.07V, +0.06(B-V),
+123797   M:   (e) +0.03(U-B), a non-member of the
+123797   M:   (f) cluster.  However, Blanco color index
+123797   M:   (g) (tabulated) is more consistent with
+123797   M:   (h) the spectral class.
+124182   S:   (a) Also classified B3II/III and B9III.
+124304   Var: (a) EV Vir.  SRb, 6.74-7.09V.  120d.
+124314   S:   (a) Also classified 06Vnf:.
+124314   RV:  (a) One determination, -46k/s.
+124314   Dyn: (a) ".005.
+124587/8 D:   (a) HD gives blended mag. 6.76v, spectral
+124587/8 D:   (b) classes F0 and A2, mag. 7.0,7.1v.
+124587/8 D:   (c) IDS gives 7.5,7.6v.  Nicolet
+124587/8 D:   (d) attributes mag. 6.80V to HD 124588
+124587/8 Dyn: (a) ".009.
+124757   D:   (a) ADS 9182, 7.8,7.9v, 213.44y, e 0.24,
+124757   D:   (b) a 1.10", i 148~.
+124757   Dyn: (a) ".032.
+124834   S:   (a) Double emission in H@b, H@d.
+125072   G:   (a) HII 245.
+125332   C:   (a) B-V from 1.74 to 1.77; U-B from 1.92
+125332   C:   (b) to 2.02.
+125332   S:   (a) Also classified K5III.
+125628B  D:   (a) Component A is HR 5371 = HD 125628 =
+125628B  D:   (b) -57~6619, trig. parallax +".024.
+125628B  Dyn: (a) ".016.
+125628B  G:   (a) HII 245.
+125630   Var: (a) BS Cir.  6.703-6.794V.  Amp. 0.14y,
+125630   Var: (b) 0.06b, 0.17v, 0.06u.  2.205d.
+126009   Var: (a) CI Boo.  Amp. 0.5p.
+126028   D:   (a) Proper motion of B is -.021",+.009".
+126135   RV:  (a) Previous determination, +18V.
+126269/0 C:   (a) Combined magnitudes and colors.
+126269/0 S:   (a) Also classified A2V+G1II-III.
+126269/0 SB:  (a) 192.65d, e 0.26, K 9.8k/s, V$0 -20k/s,
+126269/0 SB:  (b) asini 25.1.  HD lists blended
+126269/0 SB:  (c) magnitude 6.77v but separate spectral
+126269/0 SB:  (d) classes F5, A0.  Suspected of being a
+126269/0 SB:  (e) single Am star, it has now been
+126269/0 SB:  (f) proved an SB of which the two HD
+126269/0 SB:  (g) stars are the two binary components.
+126269/0 RV:  (a) vsini of A-type secondary, 80k/s.
+126367   Dyn: (a) ".005.
+126515   Var: (a) FF Vir.  @aCV, 7.086-7.127V.  Magnetic
+126515   Var: (b) field varies in period 130.0d.
+126759   S:   (a) Also classified B9III-IVSi:.
+127168   D:   (a) Component B, 11.16V, +1.12(B-V),
+127168   D:   (b) +1.00(U-B), optical?
+127168   G:   (a) Possible member Hyades Group.
+127208   Var: (a) Emission-line object, probably light
+127208   Var: (b) and sp. var.  Balmer profiles var. in
+127208   Var: (c) interval of less than a week.  Possible
+127208   Var: (d) occultation of emitting material.
+127753   S:   (a) Also classified K5III.
+127753   Var: (a) NSV 6706.  Amp. 0.05V.
+127753   G:   (a) NGC 5662.8.
+128037   Var: (a) V737 Cen.  C@d, 7.5-8.0p.  7.06585d.
+128293   Var: (a) NSV 6739.  Amp. 0.06V.
+128344   RV:  (a) Previous determinations, +17 and +19V.
+128661   Var: (a) BW Boo.  EA, 6.5-6.83v.  3.33284d.
+128661   Var: (b) Times of eclipses consistent with the
+128661   Var: (c) spectoscopic data.
+128661   SB:  (a) 3.3328d, e 0.137, V$0 -16.5k/s, K
+128661   SB:  (b) 74.2k/s, asini 3.37, f(m) 0.137.
+128775   Var: (a) NSV 6750.  Amp. 0.06V.
+128787   D:   (a) ADS 9330CD, 9.73V, K5V, at 124", 42~.
+128787   D:   (b) Component B, 12.2v at 24", 134~.
+128787   D:   (c) Component D, 11.7v at 1", 285~from C.
+128819   RV:  (a) Previous determination, +22k/s.
+129092   D:   (a) Component C is variable according to IDS.
+129791   RV:  (a) Previous determination, +3Vk/s.
+130021   S:   (a) Also classified B2V.
+130205/6 D:   (a) Combined mag., color.  7.3,7.3v,
+130205/6 D:   (b) originally classified G5,A3.  Motion
+130205/6 D:   (c) direct.  Component C, 9.85v at 37", 125~.
+130604   D:   (a) ADS 9392, 7.6,7.6v, 227.9y, e 0.623,
+130604   D:   (b) a 0.835", i 107~.
+130604   Dyn: (a) ".013.
+130932   Var: (a) NSV 6834.  Amp. 0.05V.
+130940   D:   (a) 7.6,7.9v, 258y, e 0.30, a 1.386", i 119~.
+130940   Dyn: (a) ".035.
+130989   G:   (a) Probable member Wolf 630 Group.
+131156B  D:   (a) ADS 9413AB 4.74,6.90v, G8V+K5V,
+131156B  D:   (b) 151.505y, e 0.512, a 4.904", i 140~.
+131156B  D:   (c) Small difference in radial velocities
+131156B  D:   (d) of the components.  Component A is HR
+131156B  D:   (e) 5544, an IR source, trig. parallax
+131156B  D:   (f) +".156.  Component C, 12.6v at 282",
+131156B  D:   (g) 101~from B is optical.  Possibly an
+131156B  D:   (h) invisible companion, 10.2y
+131156B  Dyn: (a) ".153.
+131168   D:   (a) A, 7.07V, -0.06(B-V), -0.72(U-B),
+131168   D:   (b) B3Ve; B,  9.62V, +0.98(B-V),
+131168   D:   (c) +0.72(U-B); C, 13.4V, +0.56(B-V).
+131399   S:   (a) Also classified A1V.
+131399   D:   (a) 7.0,10.5v.
+131491   S:   (a) Also classified B4III.
+132112   Var: (a) FY Lib.  SRb, 7.06-7.46V; +1.59,
+132112   Var: (b) +1.72(B-V); +1.17, +1.35(U-B); +1.64,
+132112   Var: (c) +1.74(R-I).  45:d.
+132202   D:   (a) 7.2,11.2v.
+132301   S:   (a) Also classified F7IV/V.
+132301   G:   (a) Member Hyades Group.
+132883   D:   (a) B, 10.15V, +0.80(B-V), +0.36(U-B), K0V.
+132910   D:   (a) ADS 9474B = HD 132909 = BD +54~1725,
+132910   D:   (b) 7.64V, +0.29(B-V), +0.02(U-B), F0.
+133086   N:   (a) 8 UMi.
+133518   S:   (a) Variously classified B2VpHe, B2IVpHe,
+133518   S:   (b) B3III and B3Vp.
+133557   G:   (a) Near HII 253.
+133621   N:   (a) 9 UMi.
+133638   Var: (a) T TrA.  Cst?  6.85v.
+133638   D:   (a) Component D is CPD -68~2309.
+133738   S:   (a) B1.5IVneShell; also classified
+133738   S:   (b) B1/2III/Vne, B5ne.
+133738   Var: (a) NSV 6943.  Amp. 0.11V.
+133800   N:   (a) 22 Lib.
+134066   D:   (a) ADS 9507AB.  Blended V, colors.  @Dm =
+134066   D:   (b) 0.0.  CPM.
+134066   Dyn: (a) ".012.
+134066   G:   (a) Member Hyades Group.
+134331   S:   (a) Also classified G2V.
+134331   D:   (a) B = HD 134330 = CoD -43~9678, 7.60V,
+134331   D:   (b) +0.72(B-V), +0.30(U-B), K0IV-V.
+134483   D:   (a) Component B of which A is HR 5649 = HD
+134483   D:   (b) 134505, an IR source.
+134646   SB:  (a) 2.450d, e 0.0, K 69.7k/s, V$0 +1.9k/s,
+134646   SB:  (b) asini 2.35.
+134646   D:   (a) SB is brighter component of ADS 9520.
+134646   D:   (b) Companion 10.8v probably optical.
+134657   S:   (a) Also classified B5III.
+135592   Var: (a) R TrA.  C@d, 6.39 to 6.93V, +0.569 to
+135592   Var: (b) +0.874(B-V), +0.329 to +0.606(U-B),
+135592   Var: (c) F6-G0.  3.389287d.
+135681   Var: (a) ES Lib.  EB, 7.10-7.57V.  0.8830356d.
+135681   Var: (b) Secondary minimum probably due to
+135681   Var: (c) ellipticity.
+135681   SB:  (a) 0.8830d, e 0.09, K 86.9k/s, V$0 +4k/s,
+135681   SB:  (b) asini 1.05.
+135774/5 S:   (a) Also classified Am.
+135774/5 SB:  (a) 187.55d, V$0 -22k/s, K 25.5k/s, e 0.40,
+135774/5 SB:  (b) asini 60.3, msin3i 0.25.
+136003   S:   (a) Variously classified B1Iab/b, B1II,
+136003   S:   (b) B2Ia, B2Ib and B2III.
+136140   Var: (a) FZ Lib.  Lb, 6.87-7.11V.
+136160   C:   (a) V from 7.09 to 7.13.
+136160   D:   (a) ADS 9580 B, 8.03V, +0.62(B-V),
+136160   D:   (b) +0.10(U-B), dG0, PM -.102",+.072".
+136160   Dyn: (a) ".028.
+136176   Var: (a) NSV 7018.  Amp. 0.05V.
+136176   D:   (a) ADS 9578 AB, 7.33,7.36V, @D(B-V) =
+136176   D:   (b) -0.01, @D(U-B)=0.08.  P 200.026y, e
+136176   D:   (c) 0.650, a 1.197, i 58, masses 1.12,
+136176   D:   (d) 1.11solar.  Formerly suspected
+136176   D:   (e) subsystems with periods 30 to 50
+136176   D:   (f) years not confirmed.  Speckle
+136176   D:   (g) interferometer sep. 1.332", 1.368", 249~.
+136176   Dyn: (a) ".027.
+136801   N:   (a) 30 Lib.
+136801   Var: (a) NSV 7043.  @D(U-B)$C = 0.08.
+136977   Var: (a) NSV 7069.  Suspected as variable when
+136977   Var: (b) used as comparison star for R TrA.
+137597   Var: (a) GO Lup.  SRb, 6.98 to 7.21V, +1.63 to
+137597   Var: (b) +1.69(B-V), +1.69 to +1.86(U-B),
+137597   Var: (c) +1.18 to +1.23(R-I)$E.  Variable amp.
+137597   Var: (d) about 0.2V.  30d.
+137763   S:   (a) Spectrum blend with HD 137778.
+137763   Var: (a) NSV 7089.  6.83 to 6.98V, +0.70 to
+137763   Var: (b) +0.81(B-V), +0.23 to +0.52 (U-B).
+137763   Var: (c) Component A of double of which B is
+137763   Var: (d) HD 137778.
+137763   D:   (a) Component B, 7.59V, +0.93(B-V),
+137763   D:   (b) +0.65(U-B), +0.30(R-I)$E.  dK5.
+137763   D:   (c) Component C = BD -8~3984, 15.35V,
+137763   D:   (d) +1.84(B-V), +1.42(R-I)$E.  Third
+137763   D:   (e) component 15.35V, +1.84(B-V).  Often
+137763   D:   (f) blended with component B.  Trig.
+137763   D:   (g) parallax of A, +".060+/-6; of B, +".067+/-6.
+137798   S:   (a) Also classified G0V.
+137949   Var: (a) NSV 7104.  @aCV, amp. 0.04V.
+137949   G:   (a) Possible member Hyades Group.
+138344   Var: (a) GG Lib.  SRb:, 6.83-6.93V.
+138367   S:   (a) Also classified F9III.
+138488BC D:   (a) ADS 9689BC.  A is HR 5765; BC, 7.12V,
+138488BC D:   (b) +0.30(B-V), +0.00(U-B), A3.  57.32y,
+138488BC D:   (c) e 0.62, a 0.245", i 25~.  BC is also
+138488BC D:   (d) occultation double, 7.8,8.0v sep. 0.225".
+138488BC D:   (e) ADS 9689C, 7.00v, A3 at 9", physical.
+138488BC Dyn: (a) ".011.
+139206   Var: (a) NSV 7166.  EA, amp. 0.3B.
+139216   N:   (a) 17 Ser.  @t4Ser.
+139216   Var: (a) @t4Ser.  Lb, 7.5-8.9p.
+139268   RV:  (a) Var. from -45 to +30k/s.
+139341   S:   (a) Secondary is HD 139323, 7.87v, K0.
+139341   D:   (a) ADS 9716AB, 7.45,7.60v, @DV 0.33,
+139341   D:   (b) @D(B-V) 0.12.  P 55.759, e 0.589, a
+139341   D:   (c) 0.803, i 63, masses 0.93, 0.90 solar.
+139341   D:   (d) Speckle interferometry sep. 0.828",
+139341   D:   (e) 28~.  Same trig. parallax for both
+139341   D:   (f) components A and B, +".049+/-4.
+139341   D:   (g) Component C, 7.57V, +0.97(B-V),
+139341   D:   (h) +0.77(U-B), +0.29(R-I)$E.  dK5 at
+139341   D:   (i) 122", from AB, CPM, physical.
+139341   Dyn: (a) ".045.
+140164   D:   (a) ADS 9751AB, @DV +1.41, @D(B-V) 0.01.
+140164   D:   (b) C is BD -15~4167, 10.0v at 13", 36~.
+140164   Dyn: (a) ".007.
+140817   D:   (a) AB, 7.2,8.2v, 0.3", 42~.  C,
+140817   D:   (b) -35~10504, 7.5v = HD 140840, 6.89v, B9.
+142315   G:   (a) Upper Sco Association.  HII 686.
+142804   Var: (a) NSV 7351, ADS 9848A.  Amp.0.05V.
+142804   D:   (a) B, 13.73V, +0.70(B-V), +0.14(U-B).
+142804   G:   (a) Probable member Wolf 630 Group.
+142884   G:   (a) Upper Sco Association.  HII 686.
+143112   S:   (a) Also classified G8III.
+143112   G:   (a) HII 684.
+143321   D:   (a) Combined mag. for ABC.
+143658   Var: (a) QY Nor.  Amp. 0.01 in y,b,v; 0.026u.  5.2d.
+143658   G:   (a) HII 273.
+143715   Dyn: (a) ".006.
+143715   G:   (a) HII 684.
+144087/8 C:   (a) Magnitude and colors for blend of HD
+144087/8 C:   (b) 144087 and 144088; ADS 9910A, 7.46V,
+144087/8 C:   (c) +0.74(B-V), +0.29(U-B); B, 8.02V,
+144087/8 C:   (d) +0.85(B-V), +0.56(U-B).
+144087/8 D:   (a) Sextuple system consisting of three
+144087/8 D:   (b) components of ADS 9910 and three of the
+144087/8 D:   (c) CPM system, ADS 9909 at 281", 169~.
+144087/8 D:   (d) Tabulated @Dm and sep. for ADS 9910AB.
+144087/8 D:   (e) ADS 9910A is BD -11~4057 = HD 114087,
+144087/8 D:   (f) 7.43V, +0.74(B-V), +0.32(U-B), G8V;
+144087/8 D:   (g) ADS 9910B is BD -11~4058 = HD 144088,
+144087/8 D:   (h) 8.02V, +0.85(B-V), +0.54(U-B), K0V,
+144087/8 D:   (i) PM -.061",-.033"; ADS 9910C,
+144087/8 D:   (j) PM -.061",-.033", at 81", 83~.
+144087/8 D:   (k) ADS 9909AB = @xSco = HR 5977/8, q.v.;
+144087/8 D:   (l) ADS 9909C, 7.30V, +0.75(B-V), dG7,
+144087/8 D:   (m) PM -.075",-.028", at 7" 57~ from
+144087/8 D:   (n) ADS 9909A.  Trig. parallax of A,
+144087/8 D:   (o) +".057+/-5; of B, +".041+/-5.
+144087/8 Dyn: (a) ".040.
+144172   G:   (a) HII 687.
+144205   Var: (a) X Her.  SRb, 7.5-8.6p.  95.0d.  Mean
+144205   Var: (b) mag. varies in period 746d.
+144231   Var: (a) LL TrA.  Amp. 0.03 in y,b,v; 0.06u.  4.41d.
+144386   G:   (a) HII 273.
+144628   S:   (a) High ultraviolet excess.
+144892   D:   (a) ADS 9932, 7.3,7.6v, 55.0y, e 0.88,
+144892   D:   (b) a 0.510", i 85~.  Also observed by
+144892   D:   (c) speckle interferometry, 0.343", 192~.
+144937   N:   (a) 46 Ser.
+144965   D:   (a) AB 7.8,8.2v.
+145050   Var: (a) FQ Ser.  Lb, 6.31 to 6.58V, +1.51 to
+145050   Var: (b) +1.59(B-V), +1.41 to +1.54(U-B), +1.42 to
+145050   Var: (c) +1.45(R-I)$E.  Erratic variable.
+145102   G:   (a) Upper Sco Association.
+145459   Var: (a) RU Her.  M, 6.8-14.3v.  485.49d.
+145459   Var: (b) Composite spectrum at minimum: probable
+145459   Var: (c) companion, 12.23V, +1.58(B-V), +3.37(R-I).
+145459   RV:  (a) Absorption -29.5k/s, emission -43.1k/s.
+145675   N:   (a) 14 Her.
+145894   G:   (a) HII 690.
+145958   N:   (a) 49 Ser in Her.
+145958   D:   (a) A, 7.5v, dK0, RV +18k/s = S component,
+145958   D:   (b) trig. parallax +".058+/-5; B, 7.6v, dK1,
+145958   D:   (c) RV +21k/s = N component, trig. parallax
+145958   D:   (d) +".049+/-5.
+145958   Dyn: (a) ".035.
+146059   S:   (a) Also classified G5III and G5V.
+146059   D:   (a) 6.6,8.0v, 115.7y, e 0.34, a 0.458",
+146059   D:   (b) i 37~.  Direct motion.
+146059   Dyn: (a) ".014.
+146349   Dyn: (a) ".004.
+146835   D:   (a) AB 5.4-6.9v.  Component A is HR 6077 =
+146835   D:   (b) HD 146836 = CoD -30~13041.
+147001   S:   (a) Also classified B9IV.
+147196   S:   (a) Also classified B5V, B8IV.
+147196   G:   (a) May not be member of Sco-Cen Association.
+147683   S:   (a) Also classified B3:Vn+Be:Vn, B4V.
+147683   Var: (a) V760 Sco.  EA, 7.3-7.7p.  1.7309d.
+147683   D:   (a) Suspected double.
+147888   D:   (a) ADS 10045 = ADS 10049DE.  @rOph
+147888   D:   (b) system.  ADS 10049AB are HR 6112/3 =
+147888   D:   (c) HD 147933/4.
+147888   Dyn: (a) ADS 10049AD, ".013; ADS 10049DE =
+147888   Dyn: (b) ADS 10045, ".005.
+147888   G:   (a) Upper Sco Association.
+148128   Var: (a) NSV 7707.  6.8-7.3v.  Comparison star
+148128   Var: (b) for U Her, (@D@a = -0m31s, @D@d =
+148128   Var: (c) +20.9').
+148199   S:   (a) Also classified ApSiCr.
+148199   G:   (a) Upper Sco Association.
+148296   Var: (a) V746 Her.  Amp. 0.17V, very short period.
+148321   S:   (a) A1/A5/A7II-III.
+148594   G:   (a) Upper Sco Association.  HII 286.
+148653   D:   (a) ADS 10075, 7.7,7.8v, 236.07y, e 0.767,
+148653   D:   (b) a 2.234", i 108~.  @DV 0.20, @D(B-V)
+148653   D:   (c) 0.00, @D(U-B) 0.10.
+148653   Dyn: (a) ".052.
+148937   S:   (a) Also classified O6ef.
+148937   Var: (a) NSV 7808.  Amp. 0.10V.
+148937   D:   (a) B 12.6v; AC, 6.8,13.2v, 36.2", 359~.
+148937   G:   (a) Cl NGC 6193 region.  Embedded in
+148937   G:   (b) emission nebula NGC 6164-65.  Central
+148937   G:   (c) star of planetary nebula.  Brightest
+148937   G:   (d) apparent magnitude of central star of
+148937   G:   (e) any known planetary.  HII 285, 287.
+148979   D:   (a) CPM with HD 148998 = BD +8~3216 =
+148979   D:   (b) comp. B, 8.28V, +0.59(B-V), +0.075(U-B).
+149764   Var: (a) 6.936-6.983V.
+149880   Var: (a) R Dra.  M, 6.7-13.0v.  245.47d.
+149881   Var: (a) V600 Her.  @bC?, 7.0-7.03V, 0.205797d.
+149881   Var: (b) Possibly ellipsoidal with period either
+149881   Var: (c) 1.2357d or 5.1643d.  However, possibly
+149881   Var: (d) irregular.
+149881   SB:  (a) SB period 6.3138d.
+150041   S:   (a) Also classified B0IIk, B0III, B1Ib and
+150041   S:   (b) B1/2Ib.
+150041   G:   (a) HII 285, 287, 288, NGC 6164, 6165, 6188.
+150085   S:   (a) Also classified F8II, G0Ib.
+150135   S:   (a) Also classified O6f::.
+150135   RV:  (a) Range from -22 to -50k/s.
+150135   D:   (a) Component A is HR 6187 = HD 150136.
+150135   Dyn: (a) ".007.
+150135   G:   (a) NGC 6193.2.  Exciting star of HII
+150135   G:   (b) region, HII 285, 287, 288, NGC 6164,
+150135   G:   (c) 6165, 6188.
+150998   Var: (a) NSV 7937.  Cst.  8.3p.
+151003   S:   (a) Also classified O8:V, O9Ib,
+151003   S:   (b) O9.5Iab/Ib.
+151003   G:   (a) HII 289, 300, IC 4628.
+151061   Var: (a) V2111 Oph.  Amp.  0.39V.  About 45d.
+151061   M:   (a) Probable young disc population.
+151090   N:   (a) 41 Her.
+151090   S:   (a) Also classified dG6, G3IV.
+151090   D:   (a) Component B, 10.30V, +1.04(B-V),
+151090   D:   (b) +0.91(U-B), +0.41(R-I)$E, K3V.  RV
+151090   D:   (c) -4k/s var. from -26 to +12k/s.  Trig.
+151090   D:   (d) parallax of A, +".032+/-5; of B, +".026+/-7.
+151109   G:   (a) HII 289, IC 4628.
+151196   S:   (a) Also classified F2IV.
+151937   N:   (a) 48 Her.
+151965   Var: (a) V911 Sco.  Amp. about 0.05V, Period
+151965   Var: (b) either 1.85 or 4.2d.  May be magnetic
+151965   Var: (c) variable.
+151965   G:   (a) Foreground object of Sco OB1.
+152003   C:   (a) (U-B) also -0.63.
+152003   Var: (a) NSV 8004.  Amp. 0.15V.
+152003   G:   (a) In cluster NGC 6231.  Sco. OB1.  HII
+152003   G:   (b) 289, 300, IC 4628.
+152113   S:   (a) F5IV+G0IV/V.
+152113   D:   (a) ADS 10229, 7.0,8.0v, 1080y, e 0.35,
+152113   D:   (b) a 1.25", i 106~.
+152113   Dyn: (a) ".010.
+152192   S:   (a) Also classified Am, A4/F2.
+152233   Var: (a) NSV 8021.  Amp. 0.13V.
+152233   D:   (a) Component A is HR 6260 = HD 152234 =
+152233   D:   (b) -41~11024.
+152233   G:   (a) Cluster NGC 6231.299, HII 289, IC
+152233   G:   (b) 4628, possibly HII 300.
+152248   Var: (a) NSV 8022.  E:,  amp. 0.36V.
+152248   SB:  (a) 5.97d, K$1 191k/s, K$2 206k/s,
+152248   SB:  (b) V$0 primary -44k/s, secondary -8k/s,
+152248   SB:  (c) m$1sin3i 20.1, m$2sin3i 18.7, a$1sini
+152248   SB:  (d) 15.7, a$2sini 16.9.
+152248   G:   (a) NGC 6231.291.  Sco. OB1.  HII 289,
+152248   G:   (b) 300, IC 4628.
+152306   S:   (a) Also classified G2V.
+152380   D:   (a) ADS 10235, 6.8,8.2v, 261.82y, e 0.560,
+152380   D:   (b) a 1.012", i 27~.  ADS 10235 C at 83"
+152380   D:   (c) may be physical.
+152380   Dyn: (a) ".017.
+152424   S:   (a) Also classified OC9.5Iab, B0Ib/II, B0Iap.
+152424   G:   (a) Aggregate Sco I:, HII 289, 300, IC 4628.
+152491   G:   (a) HII 289, 300, IC 4628.
+152623   Var: (a) Rufener suspected variable.
+152623   G:   (a) HII 289, 293, IC 4628.
+152723   C:   (a) V from 7.10 to 7.31, (B-V) from +0.10
+152723   C:   (b) to +0.14.
+152723   S:   (a) Also classified O6.5V.
+152723   D:   (a) Component B is 13.0v at 7.2", 129~;
+152723   D:   (b) D, 10.5v at 15.7", 238~.
+152723   G:   (a) Exciting star of HII region, IC 4628,
+152723   G:   (b) HII 289, 293, 294.
+152783   Var: (a) RR Sco.  M, 5.0 to 12.4v.  6.10 to 10.49V,
+152783   Var: (b) +1.36 to +1.72(B-V), +0.185 to
+152783   Var: (c) +0.825(U-B), +1.56 to +2.02(R-I)$E.
+152783   Var: (d) 279.42d.
+152792   G:   (a) HII 289, IC 4628.
+152923AB C:   (a) V from 7.10 to 7.17.
+152923AB D:   (a) Component B is CPD -59~6877, 10.22V,
+152923AB D:   (b) +0.34(B-V), +0.24(U-B).
+153004   S:   (a) Also classified F5G1.
+153004   Var: (a) RV Sco.  C@d, 6.614 to 7.488V, +0.757
+153004   Var: (b) to +1.199(B-V), +0.423 to
+153004   Var: (c) +0.890(U-B).  6.06133d.  Also spectrum
+153004   Var: (d) variable.
+153004   D:   (a) Component A is the variable.
+153075   G:   (a) Member Arcturus Group.
+153286   S:   (a) Also classified Am.
+153344   G:   (a) Possible member Arcturus Group.
+153345   Var: (a) AI Dra.  EA, 7.05-8.09V, (B-V) -0.07,
+153345   Var: (b) -0.16.  1.19881520d.  Secondary min. 7.16V.
+153345   SB:  (a) 1.1988d, e 0.02, K 92.6k/s, V$0
+153345   SB:  (b) -2.2k/s, asini 1.53.  Spectrum of
+153345   SB:  (c) secondary F7IV.  Possible photometric
+153345   SB:  (d) evidence for gas-streams.
+153639   S:   (a) Also classified G8III.
+153855   S:   (a) Also classified B0Ib, B1III, B2IIk.
+153919   S:   (a) Strong emission of CIII @l4650, SiIV, NIII,
+153919   S:   (b) and HeII @l4686.  P Cygni characteristics
+153919   S:   (c) indicate high rate mass-loss.
+153919   Var: (a) V884 Sco.  EB, 6.51-6.60V.  3.4120d.
+153919   Var: (b) Secondary minimum 6.59m.
+153919   SB:  (a) 3.4126d, e 0.20, K 20.6k/s, V$0 -64.5k/s,
+153919   SB:  (b) asini 0.947.  Optical counterpart of
+153919   SB:  (c) X-ray source 3U 1700-37.  V$0 same with
+153919   SB:  (d) different spectral lines.  No spectral
+153919   SB:  (e) evidence of secondary with mass under 2
+153919   SB:  (f) solar.  The primary in the 3U 1700-37
+153919   SB:  (g) X-ray binary system, 3.4126d.  Two
+153919   SB:  (h) variable components in He @l5876 P Cyg
+153919   SB:  (i) line and in H@a emission.  One component
+153919   SB:  (j) displaced 400-600k/s to red.
+153919   G:   (a) NGC 6281.2.  Exciting star of HII
+153919   G:   (b) region, HII 298.  Region cluster NGC
+153919   G:   (c) 6281; possibly escaped from the  cluster.
+154088   S:   (a) Also classified K1V.
+154345   Var: (a) NSV 8148.  Amp. 0.03V.
+154365   S:   (a) Also classified F6-G2.
+154365   Var: (a) BF Oph.  C@d, 7.020 to 7.651V, +0.681
+154365   Var: (b) to +1.029(B-V), +0.391 to +0.724(U-B).
+154365   Var: (c) 4.06784d.
+154426   G:   (a) HII 317.
+154811   S:   (a) Also classified B0II/III, O9.5Ib.
+154811   G:   (a) HII 317.
+154873   D:   (a) Companion 8.7v, B1.5Vn.
+154873   Dyn: (a) ".008.
+154873   G:   (a) HII 317.
+155099   SB:  (a) 2.8831d, e 0.11, K 28.8k/s, V$0 -1.8k/s,
+155099   SB:  (b) asini 1.13.
+155099   D:   (a) SB has 8.9v companion at 3".
+155099   D:   (b) Secondary spectrum F5-F7.
+155099   Dyn: (a) ".006.
+155416   G:   (a) HII 301.
+155536   D:   (a) 7.0,8.8v, @DV 1.97, @D(B-V) 0.14,
+155536   D:   (b) @D(U-B) 0.01.
+155536   Dyn: (a) ".004.
+155536   G:   (a) HII 301.
+155555   S:   (a) G5IV+K0IV/V; also classified K1Vp.
+155555   SB:  (a) 1.6817d, e 0.0, K$1 84.9k/s, V$0
+155555   SB:  (b) +2.3k/s, m$1sin3i .491, a$1sini 1.96;
+155555   SB:  (c) K$2 90.9k/s, m$2sin3i 0.458, a$2sini
+155555   SB:  (d) 2.10.  Components differ by about 1
+155555   SB:  (e) mag.  Possible RS CVn binary with
+155555   SB:  (f) changing period.  Possible mass transfer.
+155555   RV:  (a) Range from +80 to -80k/s.
+155555   D:   (a) Companion 13.0v.
+155775   S:   (a) Also classified O9.5k, B1III, B1V.
+155889   S:   (a) Also classified B0.5Ib, B1/2Ib/II.
+155889   D:   (a) 7.3,7.6v.
+155889   G:   (a) Near HII 306.
+155896   S:   (a) Also classified B7Ve.
+155896   Var: (a) NSV 8412.  Long?  6.8-6.90V.  Nicolet
+155896   Var: (b) gives (B-V) = +0.13; several other
+155896   Var: (c) sources -0.110.
+155896   D:   (a) 7.2,10.2v.
+155896   G:   (a) IC 510/58.  HII 300.
+155918   G:   (a) Arcturus Group?
+155985   G:   (a) HII 317.
+156026   D:   (a) ADS 10417C, CPM with possible IR
+156026   D:   (b) source, ADS 10417BA = HD 155885/6 =
+156026   D:   (c) HR 6401/2 at 730".
+156026   Dyn: (a) ".045.
+156026   G:   (a) Old disc population.
+156034   S:   (a) Also classified F7V.
+156034   D:   (a) ADS 10423, 7.5,8.0v, 157.0y, e 0.35,
+156034   D:   (b) a 0.365", i 40~.
+156034   Dyn: (a) ".008.
+156115   Var: (a) Spectrum var.
+156157   Var: (a) NSV 8451.  Amp. 0.4p.
+156157   G:   (a) HII 300, 317.
+156184   S:   (a) Also classified K1/2III+A7/9.
+156184   D:   (a) 7.5,8.1v.
+156385   Var: (a) Variability in UV suspected.
+156385   G:   (a) HII 317.
+156751   S:   (a) Also classified A7II/III.
+156751   D:   (a) Comp. B, 9.9v, G8V, RV -1.8k/s.
+156979   S:   (a) HD spectral class G5.
+156979   Var: (a) V636 Sco.  C@d, 6.396 to 6.923V,
+156979   Var: (b) +0.783 to +1.071(B-V), +0.533 to
+156979   Var: (c) +0.826(U-B).  6.79671d.
+156979   SB:  (a) 1318d.  Mass <=60 solar.
+156979   G:   (a) HII 317.
+157316   G:   (a) HII 317.
+157317   S:   (a) Also classified B7III.
+157317   G:   (a) HII 317.
+157455   G:   (a) Near IC 4651.
+157832   Var: (a) V750 Ara.  6.64-6.70V.
+157832   G:   (a) IC 516/64.  HII 317.
+158042   D:   (a) Component A, 6.29V, B7IV; component B,
+158042   D:   (b) 8.61V, +0.17(B-V), A2IV.
+158042   G:   (a) HII 300, 317.
+158116   C:   (a) Also 7.70V.
+158116   D:   (a) ADS 10553B, 9.3v; C, 9.6v at 96", 250~.
+158116   G:   (a) HII 321.
+158186   S:   (a) Also classified B2/3II.
+158186   G:   (a) Exciting star of HII region, HII 321.
+158228   Var: (a) V2114 Oph.  Amp.0.2V, very short
+158228   Var: (b) period; amp. var. in period 18d.
+158228   G:   (a) Wolf 630 Group?
+158320   C:   (a) Photometry for combined light of three
+158320   C:   (b) components.
+158320   S:   (a) Also classified B5Ib, B0.5IIe, B4IV,
+158320   S:   (b) B1/2Ib/II.
+158320   SB:  (a) 38.10d, e 0.0, K 15k/s, V$0 +4k/s,
+158320   SB:  (b) asini 7.86.  Unconfirmed as
+158320   SB:  (c) counterpart of X-ray source 3U 1727-33.
+158320   D:   (a) Component B, 9.86V, +0.22(B-V),
+158320   D:   (b) -0.56(U-B), at 4.4", 321~; probably
+158320   D:   (c) physically related to the SB pair.
+158320   D:   (d) C, 11.5v at 14.6".
+158747   G:   (a) HII 317.
+159223   Var: (a) V648 Her.  @dSct, 6.83-6.87v.  0.29:d.
+159340   S:   (a) Also classified Am, A3/F4.
+159704   D:   (a) 6.9,9.3v.
+160042   R:   (a) Diam. ".008 (diffraction).
+160202   S:   (a) Also classified B1ne, B3V.
+160202   Var: (a) V862 Sco.  @gC type variable?  Usually
+160202   Var: (b) 6.63-6.76V; decreased to 9.50V June 24,
+160202   Var: (c) 1965; outburst to 2mag on July 3, 1965.
+160202   G:   (a) NGC 6405.32.  M6.  Near HII 325.
+160371   S:   (a) Strong bands of CN.  Also classified
+160371   S:   (b) K3III+G:.
+160371   Var: (a) BM Sco.  SRd, 6.8-8.7p.  850:d.  UBV
+160371   Var: (b) published values range from 5.60 to
+160371   Var: (c) 6.2V, +1.60 to 1.83(B-V) and +1.55 to
+160371   Var: (d) 1.57(U-B).  Slow oscillations; deep
+160371   Var: (e) min. at intervals of 1700d.
+160371   G:   (a) In M6.  NGC  6405.1.  Region of open cluster.
+160435   S:   (a) Also classified C5II.
+160435   Var: (a) V Pav.  SRa, 9.3-11.2p.  225d.  Mean
+160435   Var: (b) mag. varies in period 3735d.
+160435   D:   (a) Component A is the variable; B, 14.0v.
+160529   S:   (a) Also classified Oe5, A3Iae, A3Ia-0, A9Ia,
+160529   S:   (b) F8I.  Probably variable.  Intensities of
+160529   S:   (c) absorption lines vary by 20%.
+160529   Var: (a) V905 Sco.  Amp. 0.27y, 0.18(u-v).
+160529   RV:  (a) Amp. 40k/s.
+160538   N:   (a) 29 Dra.
+160715   Var: (a) NSV 9548.  Amp. 0.04V.
+160810   S:   (a) Also classified M0III.
+161573   SB:  (a) 18.92d, e 0.08, K 6.7k/s, V$0
+161573   SB:  (b) -13.4k/s, asini 1.74.
+161573   G:   (a) IC 4665.62.
+161677   Var: (a) Rufener suspected variable.
+161677   SB:  (a) 91.459d, V$0 +2k/s, K 25.3k/s, e 0.36,
+161677   SB:  (b) asini 29.68, f(M) 0.125.
+161677   G:   (a) IC 4665.73.
+161796   Var: (a) Microvariable in V and colors.  6.97
+161796   Var: (b) to 7.09V, -0.39 to -0.46(B-V), +2.15
+161796   Var: (c) to +2.22(U-B) on the Geneva System.
+161796   Var: (d) Pseudo-periodic, 54d.
+161796   RV:  (a) Variable -47.23 to -56.04k/s in
+161796   RV:  (b) photometric period 54d.
+161807   S:   (a) Also classified O9.5V:n:.
+161817   Var: (a) NSV 9679.  Amp. 0.04V.
+161817   M:   (a) Horizontal branch blue star.
+162094   D:   (a) Component D optical.
+162576   S:   (a) Also classified B8/9III.
+162576   G:   (a) NGC 6475.55, non-member.
+162652   D:   (a) B is HD 162651 = +1~3525, 7.24V, A0,
+162652   D:   (b) RV -29k/s, PM -.004",-.014".
+162780   SB:  (a) 6.6226d, e 0.54, K 13.2k/s, V$0
+162780   SB:  (b) -16.0k/s, asini 1.01.  However,
+162780   SB:  (c) binary nature questioned.
+162780   G:   (a) NGC 6475.104, member.
+162804   S:   (a) Also classified B9III/IV.
+162804   G:   (a) NGC 6475.108, member.
+162888   S:   (a) Also classified B9/A0III.
+162888   G:   (a) NGC 6475.121, non-member.
+163181   S:   (a) Also classified O5,  O9.5Ia/ab, B0Ia,
+163181   S:   (b) B0I+O8, Bn1Iaep.  Possible weak F3III
+163181   S:   (c) shell with a small expansion
+163181   S:   (d) velocity, reminiscent of P Cygni.
+163181   S:   (e) Unusual strength of lines of NII and
+163181   S:   (f) NIII and weakness of CIII and OII.
+163181   Var: (a) V453 Sco.  EB, 6.36-6.73V.  12.60597d.
+163181   Var: (b) Secondary probably the more massive.
+163181   SB:  (a) 12.0058d, K$1 192.2k/s, K$2 110k/s,
+163181   SB:  (b) V$0 -42.3k/s, m$1sin3i 12.4, m$2sin3i
+163181   SB:  (c) 21.7, a$1sini 31.6, a$2sini 18.1.
+163181   D:   (a) Companion 12.4v.
+163254   S:   (a) Also classified B2Vn.
+163800   S:   (a) Also classified O7If:.
+164427   S:   (a) Also classified G0V.
+164816   G:   (a) NGC 6530.9, M8, HII 341, NGC 6523.
+165052   G:   (a) NGC 6530.118, M8, HII 341, NGC 6523.
+165401   G:   (a) @sPuppis Group.
+165590   Var: (a) V772 Her.  EA, amp.0.05V.
+165590   Var: (b) Observations correlated with the SB
+165590   Var: (c) orbital period, 0.879511d.
+165590   SB:  (a) One component of the visual double is
+165590   SB:  (b) SB, 0.879511d, e 0.045, K 94.68k/s,
+165590   SB:  (c) asini 1.14.  Discordances in the
+165590   SB:  (d) literature as to which visual
+165590   SB:  (e) component is the SB.  Components of
+165590   SB:  (f) the visual pair never separated over
+165590   SB:  (g) 0.5" and impossible to obtain
+165590   SB:  (h) separate spectra.  At periastron the
+165590   SB:  (i) center of mass of the SB pair is
+165590   SB:  (j) closer to the other visual component
+165590   SB:  (k) than Mercury is to the sun.  The
+165590   SB:  (l) invisible SB component may have
+165590   SB:  (m) M-type spectrum.  Other companions at
+165590   SB:  (n) wide separations from the orbital
+165590   SB:  (o) pair.  Masses, A 1.63, B 0.88 solar.
+165590   D:   (a) Visual data for ADS 11060AB, 7.4,8.5v,
+165590   D:   (b) give 20.081y, a 0.253", e 0.956, i
+165590   D:   (c) 77~, while a combination of visual
+165590   D:   (d) and spectroscopic yield 7397.54d =
+165590   D:   (e) 20.25y, e 0.958, a 0.248", i 82.7~,
+165590   D:   (f) V$0 -22.82k/s, K$A 17.95k/s, K$B
+165590   D:   (g) 33.38k/s; masses, A 1.63, B 0.88
+165590   D:   (h) solar.  Speckle interferometry AB
+165590   D:   (i) unresolved in 1978, the year of
+165590   D:   (j) periastron.  Sep. 0.293", 94~in 1975;
+165590   D:   (k) 0.113, 99~in 1977.  Component B, G5V,
+165590   D:   (l) vsini 18k/s; component C, 10.62V,
+165590   D:   (m) +1.36(B-V), +1.13(U-B), +0.64(R-I)$E,
+165590   D:   (n) M1V, physical.
+165590   Dyn: (a) ".024.
+165674   C:   (a) Large IR excess.
+165674   S:   (a) OH source at 1612MHz.
+165674   Var: (a) VX Sgr.  SRc, 6.5-12.5v.  732d.
+165674   Var: (b) Amplitude strongly variable.
+165674   R:   (a) Diam. ".025 by occultation.
+165784   G:   (a) In reflection nebula, association Sgr
+165784   G:   (b) R1.  HII 345.
+166767   Var: (a) AP Sgr.  C@d, 6.588 to 7.408V, +0.593
+166767   Var: (b) to +1.032(B-V), +0.394 to
+166767   Var: (c) +0.781(U-B).  5.05793d.
+166767   G:   (a) Near HII 349.
+167287   S:   (a) Also classified O9.5III.
+167287   G:   (a) Brightest star in Markarian 38.  Near
+167287   G:   (b) HII 354.
+167506   S:   (a) Also classified G8II.
+167576   G:   (a) Group with HR 1614.
+167838   Var: (a) NSV 10498.  Amp. 0.02V.
+167863   S:   (a) Also classified B7V.
+167863   D:   (a) ADS 11232A.  Component B, 9.7v, B9V.
+167863   G:   (a) Near HII 354.
+167954   SB:  (a) 120.0074d, e 0.04, K 15.5k/s, V$0
+167954   SB:  (b) +25.2k/s, asini 25.6.
+168198   Var: (a) IQ Her.  SRb, 6.99 to 7.47V, +1.58 to
+168198   Var: (b) +1.68(B-V), +1.06 to +1.34(U-B),
+168198   Var: (c) +1.62 to +1.715(R-I)$E.  75d with
+168198   Var: (d) shorter period, small amplitude
+168198   Var: (e) variations superposed.
+168567   G:   (a) HII 368.
+168874   Dyn: (a) ".028.
+169021   Var: (a) 6.965-7.087V.
+169027   N:   (a) 38 Dra.
+169454   C:   (a) B-V has also been found +1.14.
+169454   Var: (a) V430 Sct.  @zAur system?  Amp. 0.04B.
+169454   Var: (b) Totality should last 8 days.
+169706   S:   (a) Also classified G5III.
+170657   Var: (a) NSV 10944.  Amp. 0.06V.
+170657   G:   (a) IC 4725.26.  HII 376.
+170756   S:   (a) F2Ibp-K4e(Rp); also classified C0,0.
+170756   Var: (a) AC Her.  RVa, 7.01 to 8.37V, 7.43 to
+170756   Var: (b) 9.74B, +0.62 to +1.06(B-V), +0.17 to
+170756   Var: (c) +0.76(U-B).  75.4619d.
+170757   S:   (a) B9.5V+B9.5V.
+170757   Var: (a) RX Her.  EA, 7.26-7.89p.  1.7785724d.
+170757   Var: (b) Masses 2.7, 2.3 solar, radii 2.43,
+170757   Var: (c) 1.84 solar, detached system.
+170757   Var: (d) Secondary min. 7.77p at phase 0.021.
+170757   SB:  (a) 1.7786d, e 0.0, K$1 138k/s, V$0
+170757   SB:  (b) -26k/s, m$1sin3i 2.73, a$1sini 3.38;
+170757   SB:  (c) K$2 163k/s, m$2sin3i 2.31, a$2sini 3.99.
+170757   RV:  (a) Component a, B9V, vsini 78k/s;
+170757   RV:  (b) component b, A0V:, vsini 68k/s.
+170886   G:   (a) IC 4725.251.  HII 376.
+171352   S:   (a) Also classified K0III, K1II.
+171384   D:   (a) Component B is BD +38~3213, 8.2v G5.
+171384   D:   (b) PM +.091",+.066".
+171394   Var: (a) Very long period?
+171451   Var: (a) V3877 Sgr.  SRb, 6.84-7.30V.  +1.665
+171451   Var: (b) to +1.73(B-V), +1.67 to +2.02(U-B),
+171451   Var: (c) +1.22 to +1.25(R-I)$E.  About 50d.
+171451   G:   (a) Probable member Arcturus group.
+171586   Var: (a) FR Ser.  @aCV, 6.34-6.52V, 2.1436d.
+171586   Var: (b) Other possible periods 2.1308 and 2.1565d.
+171586   D:   (a) ADS 11477C is BD +4~3802, 9.3v; B,
+171586   D:   (b) 12.5v at 10", 330~.
+171586   G:   (a) IC 4756.8.
+171627   G:   (a) Wolf 630 Group, member.
+171767   G:   (a) IC 4756.24.
+171911   G:   (a) Member Arcturus Group.
+172046   G:   (a) IC 4756.62.
+172068   D:   (a) Components CPM.
+172068   Dyn: (a) ".003.
+172190   D:   (a) ADS 11526, 6.5,10.0v, @Dm var?
+172865   S:   (a) Also classified G8III.
+172865   SB:  (a) Combined SB and visual data give
+172865   SB:  (b) 91.8d, a 0.232", e 0.911, i 119~.
+172865   SB:  (c) Also speckle interferometry sep.
+172865   SB:  (d) 0.082", 38~, 0.110", 46~.
+172865   D:   (a) ADS 11579AB, 7.5,8.0v G5IV+G5III,
+172865   D:   (b) 90.0y, e 0.90, a 0.25", i 116~.
+172865   D:   (c) ADS 11579 C, 8.83V, +0.54(B-V),
+172865   D:   (d) +0.54(U-B) at 14" physical, CPM.
+172865   Dyn: (a) ".009.
+173297   Var: (a) V350 Sgr.  C@d, 7.083 to 7.818V,
+173297   Var: (b) 0.721 to +1.116(B-V), +0.476 to
+173297   Var: (c) +0.788(U-B).  5.15419d.
+173371   S:   (a) B7/8III/VeShell.
+173371   G:   (a) HII 388.
+173787   Var: (a) V356 Sgr.  EA, 7.00-7.87B, 7.0-8.0p,
+173787   Var: (b) 8.89610d, masses 12.1, 4.7 solar,
+173787   Var: (c) radii 8.5, 15.4 solar, semi-detached
+173787   Var: (d) system.  Secondary minimum 7.39m.
+173787   Var: (e) Rotation line apsides possible.
+173787   SB:  (a) 8.8961d, e 0.0, K$1 190k/s, V$0 +7k/s,
+173787   SB:  (b) m$1sin3i 4.66, a$1sini 23.2; K$2 73k/s,
+173787   SB:  (c) m$2sin3i 12.1, a$2sini 8.93.  The
+173787   SB:  (d) A-type component is the brighter and
+173787   SB:  (e) it appears to depart from the
+173787   SB:  (f) mass-luminosity relation.
+173787   D:   (a) Occultation double 7.1,7.9v, sep. 0.0002".
+173994   S:   (a) Also classified B2V, B5II.
+174005   D:   (a) ADS 11695B, 9.61V, +0.515(B-V),
+174005   D:   (b) +0.025(U-B).
+174089   Var: (a) YZ Sgr.  C@d 7.016 to 7.757V, +0.888 to
+174089   Var: (b) +1.128(B-V), +0.579 to +1.020(U-B).
+174089   Var: (c) 9.55345d.
+174152AB S:   (a) Combined mag., color, sp. for AB.
+174152AB S:   (b) Component A, 6.52v, also classified B6V.
+174323   G:   (a) Arcturus group, member.
+174383   Var: (a) BB Sgr.  C@d, 6.691 to 7.290V, +0.843
+174383   Var: (b) to +1.173(B-V), +0.535 to
+174383   Var: (c) +0.938(U-B).  6.63699d.
+174897   D:   (a) Component B, 9.80V, +0.56(B-V),
+174897   D:   (b) +0.04(U-B), F7V, SB, PM -.017",-.040".
+175543   D:   (a) ADS 11842, 7.8,7.9v, A5V, 225y,
+175543   D:   (b) e 0.20, a 0.350", i 138~.  Starikova
+175543   D:   (c) gives another orbit: 97.089y, e 0.838,
+175543   D:   (d) a 0.523, i 104, masses 1.42, 1.21.
+175543   Dyn: (a) ".018.
+175579   Var: (a) NSV 11543.  Max., 7.7R.
+175674   S:   (a) Also classified K3IIICNII.
+175876   RV:  (a) vsini also given as 246k/s.
+175876   M:   (a) Stellar wind velocity 33k/s.
+176377   G:   (a) Non-member Hyades Group.
+176853   S:   (a) Also classified B4III+B8III or B4V+B8.
+176853   Var: (a) V599 Aql.  EB, 6.89-6.97B, 1.849084d.
+176853   Var: (b) Secondary min amp.0.06m.  Shallow
+176853   Var: (c) eclipses.  Light curve in U different
+176853   Var: (d) from the others and cannot be
+176853   Var: (e) satisfied by the same solution.
+176853   SB:  (a) 1.8491d, e 0.03, K$1 150.6k/s, V$0
+176853   SB:  (b) -12.9k/s, m$1sin3i 7.10, a$1sini 3.83; K$2
+176853   SB:  (c) 241.2k/s, m$2sin3i 4.43, a$2sini 6.13.
+177082   Var: (a) NSV 11685.  Cst.
+177166   C:   (a) V also 7.19.  Var?
+177166   D:   (a) ADS 11989.  7.5,7.8v, @Dm 0.24V,
+177166   D:   (b) 0.33B, 0.28U, 0.05(B-V), -0.04(U-B).
+177166   D:   (c) 241.3y, a ".97, e 0.33, i 132.8~.
+177166   D:   (d) Sum of masses 2.5 solar.  Occultation
+177166   D:   (e) double 7.7,7.9v, sep. 2.256".
+177166   Dyn: (a) ".0185.
+177300   Var: (a) BL Tel.  EA, 7.72-9.82B, 778.1d.  Also
+177300   Var: (b) intrinsic var. amp. 0.1V, period
+177300   Var: (c) about 2 months.
+177300   SB:  (a) 778.0d, e 0.31, K 19.3k/s,
+177300   SB:  (b) V$0 +91.8k/s, asini 196.
+177300   M:   (a) Runaway star.
+177347   G:   (a) HII 395.
+177624   SB:  (a) 2.374148d, e 0.02, K$1 81.9k/s, V$0
+177624   SB:  (b) -11.4k/s, m$1sin3i 3.73, a$1sini 3.84,
+177624   SB:  (c) v1sini 120k/s; K$2 196.0k/s, m$2sin3i
+177624   SB:  (d) 1.56, a$2sini 9.20, v2sini 110k/s.
+177624   SB:  (e) Mass-ratio 2.4, @Dm 1.05.  Radii 5.4
+177624   SB:  (f) and 4.2 solar.
+177648   D:   (a) ADS 12010C is BD +23~3551, 8.8v at 43",
+177648   D:   (b) 106~, PM -.013",-.076".
+177648   Dyn: (a) ".013.
+177868   Var: (a) AG Sgr.  M-type, 10.0-(14.0p, 359.2d.
+177880   D:   (a) ADS 12038A, 6.84 V; B, 9.2v
+177880   D:   (b) A0VpSrCrSi; C, 14.0v, at 14" 190~.
+178359   Var: (a) TT Aql.  C@d, 6.501 to 7.684V, +0.957
+178359   Var: (b) to +1.615(B-V), +0.826 to +1.828(U-B).
+178359   Var: (c) 13.7546d.
+178690   Var: (a) NSV 11765.  Max. 8.5p.
+178734   D:   (a) B, 8.44V, F6IV, = HD 178710.
+178849   D:   (a) ADS 12093B is BD +34~3436, 8.6v.
+179002AB D:   (a) ADS 12126, 7.3,7.7v, 120.0y, e 0.690,
+179002AB D:   (b) a 0.256", i 127~.
+179002AB Dyn: (a) ".004.
+179116/7 S:   (a) Also classified B3/5.
+179116/7 D:   (a) 7.3,7.9v.  Secondary is HD 179117, F0:V.
+179343AB Var: (a) NSV 11799.  Amp. 0.09V.
+179343AB D:   (a) ADS 12147AB, 7.7,8.5v, @Dm var.
+179343AB D:   (b) C, 11.24V, +1.42(B-V), +1.35(U-B).
+179343AB D:   (c) +0.60(R-I)$E, at 13", probably optical.
+179343AB Dyn: (a) ".003.
+179419   C:   (a) Two magnitude determinations, 6.426V
+179419   C:   (b) and 6.70V.
+179869   Var: (a) Microvariable in V.
+180702   D:   (a) 7.6,7.7v, 60.0y, e 0.780, a 0.510", i 92~.
+180953   S:   (a) Also classified R8, C5II.
+180953   Var: (a) V1942 Sgr.  Lb, 6.99 to 7.03V.
+180953   Var: (b) Erratic variation of small amplitude.
+180953   G:   (a) Region of open cluster Ruprecht 147.
+180973   D:   (a) Comp B.  A is HR 7321 = HD 181053
+180973   D:   (b) = BD +0~4170.  P is 12.6v at 49.5",
+180973   D:   (c) 160~from A; Q at 59.8", 302~ from B.
+181312   Var: (a) NSV 11915.  Amp. 0.15V.
+182040   S:   (a) Also classified C0, R2, C1,2H@d.
+182040   Var: (a) NSV 11960.  Amp. 0.13V.
+182293   C:   (a) V variously determined as 7.03 to 7.14.
+182293   S:   (a) Also classified K1V, K2III, and K3IVp.
+182571   N:   (a) 3 Sge.
+182571   D:   (a) Component B of pair with HD 182490 =
+182571   D:   (b) HR 7369 = BD +16~3839.
+182917   Var: (a) CH Cyg.  Z And, 6.4-8.7V.  Usually 97d
+182917   Var: (b) mean cycles.  Mean mag. varies in
+182917   Var: (c) period about 4700d.  Small outbursts
+182917   Var: (d) probably due to UV continuum.  Also
+182917   Var: (e) decreases in brightness and rapid
+182917   Var: (f) fluctuations.  Probably eclipsing
+182917   Var: (g) system, period 4.85y.  UV satellite
+182917   Var: (h) spectra combined with visual data
+182917   Var: (i) indicate that the secondary component
+182917   Var: (j) of this symbiotic star is 9.80V,
+182917   Var: (k) A0V:.  At times the M6 spectrum
+182917   Var: (l) superimposed by hot blue continuum.
+182989   C:   (a) (B-V) +0.14, +0.45.
+182989   Var: (a) RR Lyr.  RRab prototype, 7.06-8.12V,
+182989   Var: (b) 0.566830d.  Strong Blazko effect.
+182989   Var: (c) Period and form of light curve vary
+182989   Var: (d) in period 40.812289d.  Amp.  of
+182989   Var: (e) changes related to Blazko effect
+182989   Var: (f) varies in period of 4y. Strongly
+182989   Var: (g) variable magnetic field.
+183058   C:   (a) Rufener gives 9.279V, HD 8.0v, Blanco
+183058   C:   (b) 7.14V, Nicolet 7.12V.
+183058   Var: (a) NSV 12038.  7.10-7.14V.
+183143   C:   (a) (B-V) varies from +0.88 to +1.09.
+183143   S:   (a) Heavily reddened B7 supergiant.
+183143   Var: (a) HT Sge.  Amp.0.15B.
+183262   S:   (a) Also classified Am.
+183556   S:   (a) Also classified C7,3.
+183556   Var: (a) UX Dra.  SRa, 5.94-7.1V.  168d.
+183794   Var: (a) V822 Aql.  The brighter component of
+183794   Var: (b) ADS 12538.  EA, 6.7-7.1p.  5.295028d.
+183794   SB:  (a) 5.2951d, e 0.09, K 135.0k/s, V$0
+183794   SB:  (b) -1.6k/s, asini 9.79.
+183794   D:   (a) Component B 9.8v.
+183794   RV:  (a) Amp. 138k/s.
+183794   Dyn: (a) ".004.
+184268   Var: (a) NSV 12153.  Amp. 0.39I.
+184279   C:   (a) (B-V) +0.02, +0.06.
+184279   S:   (a) Also classified A0ep, B1IV, B1Vne.
+184279   Var: (a) V1294 Aql.  @gC, 6.82-7.17V.
+184283   S:   (a) Also classified C7,4.
+184283   Var: (a) AQ Sgr.  SRb, 9.1-10.9p.  199.6d.
+184283   Var: (b) Diam. ".00548 from occultation.
+184313   S:   (a) Also classified M8V, but this is
+184313   S:   (b) contradictory to type of variability
+184313   S:   (c) which implies SR giant star.
+184313   Var: (a) V450 Aql.  SRb, 6.30 to 6.65V, +1.65
+184313   Var: (b) to +1.725(B-V), +1.44 to +1.585(U-B),
+184313   Var: (c) +1.51 to +1.59(R-I)$E.  Amp. 0.4V but
+184313   Var: (d) strongly variable.  About 40d.
+184385   S:   (a) Also classified G8IV, G5II.
+184537   S:   (a) Also classified Am.
+184905   S:   (a) H and K lines vary.
+184905   Var: (a) V1264 Cyg.  @aCV, 6.48-6.67V.  Amp.
+184905   Var: (b) 0.07U.  2.17d.  Periods of 1.855 and
+184905   Var: (c) 1.84d also possible.  Magnetic variable.
+185183   Var: (a) V4062 Sgr.  Amp.0.05y, 0.06b, 0.06v,
+185183   Var: (b) 0.07u.  About 1.737d.
+185193   S:   (a) Also classified A3.
+186158   D:   (a) Comp. B is BD -8~5079, 7.51V,
+186158   D:   (b) +0.43(B-V), F5V, PM +.033",-.068".
+186226   D:   (a) B, 8.79V, +0.68(B-V), +0.27(U-B), G0V.
+186226   G:   (a) Edge of Barnard dark nebula B339.
+186379   S:   (a) Also classified G5V.
+186465   Dyn: (a) ".004.
+186535   G:   (a) In Barnard dark nebula B339.
+186745/6 S:   (a) Kiev Catalogue 1800.0, gives
+186745/6 S:   (b) 6.99V, 7.90B, O9.
+186745/6 G:   (a) I Vul aggregate.
+186780   Var: (a) V4026 Sgr.  Amp. >0.3V.
+187075   Var: (a) NSV 12407.  7.09-7.14V.
+187399   S:   (a) Also classified B2V.
+187399   Var: (a) V1507 Cyg.  6.86 to 7.04V, -0.357 to
+187399   Var: (b) -0.45(U-B).
+187399   SB:  (a) 27.9705d, e 0.39, K 105.2k/s, V$0
+187399   SB:  (b) -19.6k/s, asini 37.3.  Secondary the
+187399   SB:  (c) more massive and may be a black hole.
+187399   SB:  (d) Evidence of gas streams.
+187462   S:   (a) Also classified G3III.
+187921   Var: (a) SV Vul.  C@d, 6.738 to 7.774V, +1.122
+187921   Var: (b) to +1.794(B-V).  45.1030d.
+187981   D:   (a) ADS 13038.  Component B, 6m fainter
+187981   D:   (b) than A, at 10".  C, 9.70V,
+187981   D:   (c) +0.415(B-V), -0.06(U-B).
+188378   Var: (a) RR Sgr.  M, 6.15 to 12.31V, +1.30 to
+188378   Var: (b) +1.85(B-V), -0.28 to +0.94(U-B),
+188378   Var: (c) +1.42 to +1.96(R-I)$E.  334.58d.
+188378   RV:  (a) Absorption +93.6k/s, emission +84.5k/s.
+189108   S:   (a) Also classified G5III, G5V, and K0II-III.
+189337   S:   (a) G7Ib-IIBa0.4H@d1.
+189474   Dyn: (a) ".005.
+189576   Var: (a) NSV 12668.  Max., 8.3p.
+189576   D:   (a) B is BD +17~4187 = HD 189575, 8.42V,
+189576   D:   (b) F5, PM -.012",-.027".
+189783   SB:  (a) The brighter component of ADS 13256.
+189783   SB:  (b) 4.4696d, e 0.10, K 41.3k/s, V$0
+189783   SB:  (c) -43k/s, asini 2.53.
+189783   D:   (a) Component B, 7.8v.  2356y, e 0.67,
+189783   D:   (b) a 3.822", i 82~.
+189783   Dyn: (a) ".010.
+189783   G:   (a) Non-member Hyades Group.
+189832   S:   (a) Also classified A6pSrCrEu.
+189832   Var: (a) Suspected variable with period over 15d.
+189847   S:   (a) Also classified B5IV.
+189921   S:   (a) Also classified B5III.
+190047   S:   (a) Also classified B6III.
+190167   S:   (a) Also classified B8V.
+190275   S:   (a) Also classified A3II, A5p, Am.
+190401   S:   (a) Also classified Am.
+190401   Var: (a) Possibly microvariable in V.
+190401   G:   (a) Near HII 426.
+190429   C:   (a) V ranges from 6.602 to 6.63, (B-V)
+190429   C:   (b) from +0.10 to +0.19, U-B from -0.71
+190429   C:   (c) to -0.80.
+190429   S:   (a) Variously classified O4-O9Ib to V:,
+190429   S:   (b) Oe, O4f, O4If, O5If; Comp. B, B0III
+190429   S:   (c) or O9.5III.
+190429   D:   (a) ADS 13312A, 7.2v, O5n, RV -16, B,
+190429   D:   (b) 7.8v, O9n, RV -7, vsini 88k/s.  Both
+190429   D:   (c) components SB.  C, 9.71V, +0.17(B-V),
+190429   D:   (d) -0.53(U-B), +0.17(R-I), B1IIIs, sep.
+190429   D:   (e) 42", 328~; D, 328~; D, 12.90V,
+190429   D:   (f) +0.19(B-V), -0.57(U-B), +0.07(R-I),
+190429   D:   (g) sep. 29", 172~.
+190429   Dyn: (a) ".002.
+190537   S:   (a) Also classified F0III, A3mF2, A2, Am.
+190606   C:   (a) (B-V) also +3.26.
+190606   S:   (a) Also classified C5,5.
+190606   Var: (a) X Sge.  SR, 7.0-8.36V, 196d.
+190879   G:   (a) Red giant in 61 Cyg Group.
+190918   C:   (a) A range 6.67-6.87V, +0.11 to
+190918   C:   (b) +0.17(B-V), -0.72 to -0.79(U-B).
+190918   S:   (a) WN5+O9.5I/III.
+190918   Var: (a) V1676 Cyg.  ADS 13374A.  E:, amp.
+190918   Var: (b) 0.08V.  Variation of approximately 10%
+190918   Var: (c) in ultraviolet flux.
+190918   SB:  (a) ADS 13374A.  Orbital period 85d not
+190918   SB:  (b) confirmed; new elements, 112.7d e 0.54.
+190918   SB:  (c) OB component K$1 15.0k/s, V$0 -20.3k/s,
+190918   SB:  (d) vsini 123k/s; WR component K$2 32.5k/s,
+190918   SB:  (e) V$0 +106k/s, vsini 288k/s.  Mass-ratio
+190918   SB:  (f) WR/OB = 0.46.  Large difference in V$0
+190918   SB:  (g) determinations for the components may
+190918   SB:  (h) arise from assymetry of emission lines.
+190918   SB:  (i) Possible long-term var. in HeII emission.
+190918   D:   (a) ADS 13374A = var = SB.  Component B,
+190918   D:   (b) 12.0v, B3V at 6.5", 64~.  Component C,
+190918   D:   (c) 11.0v at 11", 24~.  Component D, 7.91V,
+190918   D:   (d) +0.25(B-V), -0.66(U-B), B1V, at 11",
+190918   D:   (e) 300~, vsini 253k/s, PM +.004",+.000",
+190918   D:   (f) parallax +".006.  Component E, 11.42V,
+190918   D:   (g) +0.22(B-V), -0.33(U-B), at 28", 107~.
+190918   D:   (h) Component F, 7.36V, +0.23(B-V),
+190918   D:   (i) -0.66(U-B), B1Ia, also classified O8, O9, B2.
+190918   D:   (j) RV -4k/s, vsini 54k/s.  Components DF,
+190918   D:   (k) blend 7.1V, B1Ia+B2. Components FG,
+190918   D:   (l) blend 7.30V, +0.23(B-V), -0.64(U-B),
+190918   D:   (m) +0.14(R-I).  Components FH, 8.0,14.0v,
+190918   D:   (n) sep. 30", 57~.  Components FGH, blend
+190918   D:   (o) 7.31V, +0.22(B-V), -0.59(U-B),
+190918   D:   (p) +0.15(R-I).  Trig. parallaxes, component
+190918   D:   (q) A, +".040; D, +".034; F, +".011; weighted
+190918   D:   (r) mean +".028.
+190918   G:   (a) NGC 6871.1.  Probable member of cluster.
+191046   C:   (a) (R-I)$E also +0.39.
+191046   S:   (a) CN weak, 4143 strong.  Also classified
+191046   S:   (b) G9III, K0II, K0V.
+191046   G:   (a) Member Arcturus Group.
+191158   S:   (a) Also classified Am.
+191190   D:   (a) B, 11.18V, +1.13(B-V), +0.77(U-B).
+191709   D:   (a) Component B is BD -0~3935, 8.5v, A0,
+191709   D:   (b) PM -.015",-.019".
+191940   D:   (a) Speckle interferometry sep. 0.309", 222~.
+191940   Dyn: (a) ".002.
+192074   G:   (a) Center of cluster Mel 227.
+192182   G:   (a) HII 457, NGC 6888.
+192422   S:   (a) Also classified B0.5Ia, B0.5II, B2III.
+192422   D:   (a) Component A is variable according to
+192422   D:   (b) IDS.  B is BD +38~3956, 7.1v, B2, PM
+192422   D:   (c) -.006",-.006".  C, 9.3v at 56", 106~.
+192422   G:   (a) HII 463.
+192461   D:   (a) Comp. B is BD -3~4824, 8.12V,
+192461   D:   (b) +0.45(B-V), +0.01(U-B), F4V.
+192536   S:   (a) Also classified A7III, A5V.
+192536   G:   (a) HII 472.
+192579   N:   (a) 31 Cyg B.
+192579   Var: (a) NSV 12931, 31 Cyg B, ADS 13554C.
+192579   Var: (b) Amp. 0.09V.
+192579   D:   (a) Component C of ADS 13554.  Comp. A
+192579   D:   (b) is 31 Cyg A = HR 7735 = HD 192577/8,
+192579   D:   (c) 3.79V, K2II+B3V, trig. parallax
+192579   D:   (d) +".007.  Comp. B, 13.0v, 37",
+192579   D:   (e) 332~from A; C, BD +46~2883, 6.9v B9,
+192579   D:   (f) PM +.009",-.001"; D is HR 7730, HD
+192579   D:   (g) 192514, BD +46~2881, 30 Cyg, NSV
+192579   D:   (h) 12926, 4.81V, amp. 0.03, at 331", 323~.
+192913   Var: (a) MW Vul.  @aCV.  6.62-6.70V.  16.478d.
+192913   Var: (b) Possible periods of 16.148 and 16.821d.
+193182   S:   (a) Also classified A0Iae, A0I, B9II,
+193182   S:   (b) B7IV/Ve shell.
+193220   D:   (a) ADS 13666A.  Comp. B, 12.8v at 5", 149~.
+193701   S:   (a) Also classified F5IV.
+193701   D:   (a) ADS 13723, 7.4,8.2v, 113.5y, e 0.85,
+193701   D:   (b) a 0.336", i 129~; or 121.290y, e 0.843,
+193701   D:   (c) a 0.347, i 125~.
+193701   Dyn: (a) ".010.
+193793   Var: (a) V1687 Cyg.  Amp.0.11V.  Large variations
+193793   Var: (b) in infrared radiation related to mass-
+193793   Var: (c) loss.  2m outburst in IR observed in Sept.
+193793   Var: (d) 1977.  Optically thick circumstellar dust
+193793   Var: (e) shell formed.  Slow infrared variation
+193793   Var: (f) not correlated with UV observations which
+193793   Var: (g) showed no var. in an interval of 6 months.
+193793   Var: (h) Star may be member of a wide binary with
+193793   Var: (i) a period over one year.
+193857   S:   (a) Also classified A5Vm.  H/K/m = A3/A5/F2.
+193857   SB:  (a) 4.343068d, e 0.052, K 21k/s,
+193857   SB:  (b) V$0 -21k/s, asini 1.26.
+194206   S:   (a) Also classified B7IV.
+194206   D:   (a) ADS 13783B, BD +38~4050, 9.1v B1Ib-II,
+194206   D:   (b) PM -.010",+.000", optical.
+194279   G:   (a) NGC 6910.2.  HII 538.
+194357   S:   (a) Also classified B5V.
+194558   D:   (a) Single or round 1953-1960; unresolved
+194558   D:   (b) by speckle interferometry in 1979.
+194558   Dyn: (a) ".020.
+194558   G:   (a) Near HII 559.
+194640   G:   (a) Group with HR 1614.
+194676   S:   (a) Also classified M6e.
+194676   Var: (a) T Mic.  SRb, 7.7-9.6p, 6.74 to 7.83V,
+194676   Var: (b) +1.46 to +1.66(B-V), +0.54 to
+194676   Var: (c) +0.89(U-B), +1.80 to +1.90(R-I)$E.  344d.
+194676   G:   (a) Old disc population.
+194765   D:   (a) ADS 13868A.  B is -2~5282 = HD 194766,
+194765   D:   (b) PM -0.026",-0.067".  7.50V, +0.52(B-V),
+194765   D:   (c) -0.02(U-B).  Other components 10.6-13.6v.
+194765   D:   (d) Trig. parallax of A, -".001+/-5; of B, -".000+/-5.
+194789   G:   (a) Near HII 554.  In reflection nebulosity.
+194885   G:   (a) Near HII 566.
+194960   D:   (a) ADS 13887D.  Component A is HR 7822 =
+194960   D:   (b) HD 194943 = -18~5689.
+194960   Dyn: (a) ".017.
+195102   D:   (a) 7.6,8.9v.
+195481AB D:   (a) ADS 13944, 7.6,7.6v A3V+A3V, 48.25y,
+195481AB D:   (b) e 0.47, a 0.166", i 115~.  Also
+195481AB D:   (c) observed by speckle interferometry,
+195481AB D:   (d) sep. 0.090", 64~; 0.087", 273~.
+195481AB Dyn: (a) ".005.
+195592   RV:  (a) vsini also given as 79k/s.
+195592   G:   (a) HII 581.
+195710   D:   (a) Comp. B, 9.54V, +0.48(B-V), +0.00(U-B).
+195987   SB:  (a) 57.3210d, V$0 -6k/s, K 28.8k/s, e 0.305,
+195987   SB:  (b) asini 21.582, f(m) 0.122.  Separation
+195987   SB:  (c) components about 71 solar radii.
+195987   SB:  (d) Eclipses possible.
+195987   G:   (a) Cygnus II association.
+196133   Var: (a) Possible changes in spectrum.
+196133   SB:  (a) 87.687d, e 0.76, K 32.5k/s, V$0
+196133   SB:  (b) -9.0k/s, asini 25.5.
+196197   S:   (a) Also classified K1+IIIa.
+196197   D:   (a) Comp. B, BD +32~1977, 9.18V, +0.36(B-V),
+196197   D:   (b) -0.01(U-B), F2IV-V, RV 6.8k/s.
+196348   N:   (a) 13 Cap.
+196348   G:   (a) Possibly young disc star.
+196565   D:   (a) CPM with HD 196787 = HR 7901.
+196673   C:   (a) Blend of two components, ADS 14078AB,
+196673   C:   (b) sep. 0.7".
+196673   S:   (a) K0IIb/IIIBa0.2.
+196829   Var: (a) AV Mic.  Lc:, 6.25-6.35V.
+196866   G:   (a) Arcturus group, member.  Halo giant.
+196929   D:   (a) B, 10.68V; C, DM +2~4219A, 10.05V, K0.
+196929   D:   (b) Reality of B questioned in IDS.
+197037   G:   (a) HII 609.
+197169   Var: (a) Suspected Am var. 6.76 to 6.95V; +0.15
+197169   Var: (b) to +0.21(B-V), +0.023 to -0.07(U-B).
+197433   Var: (a) VW Cep.  EW, 7.8-8.2p, 7.08-7.40V.
+197433   Var: (b) 0.2783121d.  Period and form of light
+197433   Var: (c) curve vary.
+197433   D:   (a) Astrometric orbit, 30.45y, e 0.595,
+197433   D:   (b) a 0.51", i 29~.  Third body, 10.5v at
+197433   D:   (c) 0.63", 223~ discovered as predicted
+197433   D:   (d) by astrometry; masses A,B,C, 1.1,
+197433   D:   (e) 0.4, 0.58 solar.  BD +74~889, 7.9G5 at
+197433   D:   (f) 1.2~, CPM.
+197433   Dyn: (a) ".041.
+197489   D:   (a) Component D is BD +25~4350, 9.1v, PM
+197489   D:   (b) +.010",+.004".  Component E is BD
+197489   D:   (c) +25~4343, 9.4v at 443", 286~.
+197900   S:   (a) Also classified K2III, K1V, K3V.
+198272   Var: (a) NSV 13326.  Amp.0.3:V var?
+198287/8 S:   (a) Also classified B8Iae, A4I, A5Iab,
+198287/8 S:   (b) A5Iapv+A9:.
+198287/8 Var: (a) V367 Cyg.  EB, 7.38-7.98B.  18.5972d.
+198287/8 Var: (b) Physical variability of the components
+198287/8 Var: (c) suspected.  Components dF0 and gF0.
+198287/8 Var: (d) Star earlier than A0 surrounded by
+198287/8 Var: (e) nebulosity.  Secondary minimum 7.78B.
+198287/8 D:   (a) Components AB unresolved by speckle
+198287/8 D:   (b) interferometry in 1978.
+198501   S:   (a) A2/A7/F0II-III; also classified A1mA5-F0.
+198624   D:   (a) Component B, 10.30V, +0.58(B-V),
+198624   D:   (b) +0.01(U-B), F8V.
+198626   G:   (a) Member Hyades Group.
+198793   G:   (a) Reflection nebula.
+198794   S:   (a) Also classified K5II.
+199190   S:   (a) Also classified G5IV.
+199288   G:   (a) Arcturus group, non member.
+199306/7 D:   (a) ADS 14412, 7.5,7.9v, 56.1y, e 0.54,
+199306/7 D:   (b) a 0.15", i 143~.  Speckle interferometry
+199306/7 D:   (c) sep. from 0.048", 239~ to 0.090", 189~.
+199306/7 Dyn: (a) ".032.
+199311   S:   (a) Also classified A2V, A2m, A2Vp, A3Ib.
+199355   G:   (a) In reflection nebulosity.
+199394   S:   (a) Also classified G5II, G8II, KpBa.
+199395   G:   (a) HII 614, NGC 7000.
+199479   G:   (a) HII 614, NGC 7000.
+199511   G:   (a) HII 614, NGC 7000.
+199547   G:   (a) In region of Pelican Nebula, an HII
+199547   G:   (b) region, with several IR sources
+199547   G:   (c) apparently nearby.  HII 614, NGC 7000.
+199598   G:   (a) Possible member Hyades Group.
+199721   D:   (a) ADS 14490A.  Comp. B, 8.6v, A0 at 15",
+199721   D:   (b) 254~.  PM +0.001",+0.014".  C is 7.9v,
+199721   D:   (c) BD +15~4302, PM +0.004",-0.050".
+200026   D:   (a) Comp. B of pair of which comp. A is
+200026   D:   (b) HR 8042 = HD 200011 = CoD -43~14325.
+200102   S:   (a) Also classified G7III and G2I.
+200102   G:   (a) HII 614, NGC 7000.
+200334   SB:  (a) 19.6983d, e 0.19, K 32.2k/s,
+200334   SB:  (b) V$0 -13.4k/s, asini 8.56.
+200407   S:   (a) Also classified Am
+200407   Var: (a) Possibly microvariable in V.
+200407   G:   (a) North American Nebula, near Eastern edge.
+200932   Var: (a) NSV 13530.  Amp. 0.07V.
+200968   S:   (a) Also classified K3V+M0V.
+200968   Dyn: (a) ".029.
+200968   G:   (a) Member Hyades Group.
+201098   D:   (a) B, 9.95V, G0, optical?
+201108   D:   (a) 6.9,10.3v.
+202380   Var: (a) NSV 13609.  Lb:, 8.6-10.2p.
+202380   G:   (a) HII 617.
+202560   S:   (a) H and K lines in emission, but not the
+202560   S:   (b) Balmer lines.
+202560   Var: (a) AX Mic.  Flare star with unusually low
+202560   Var: (b) activity for its spectral class.
+202560   Var: (c) Amp. about 0.10U.
+202560   G:   (a) Old disc population.
+202560   M:   (a) One of brightest of dM stars in the
+202560   M:   (b) sky, at 3.8pc.
+202573   G:   (a) Probable member Wolf 630 Group.
+203345   SB:  (a) Visual binary, nearly equal
+203345   SB:  (b) components.  The slightly fainter is
+203345   SB:  (c) SB1.  The invisible spectroscopic
+203345   SB:  (d) companion is the more massive and may
+203345   SB:  (e) be a degenerate star.  ADS 14893Ba,
+203345   SB:  (f) 2.236112d, e 0.0635, K 76.714k/s,
+203345   SB:  (g) asini 2.354, V$0 -24k/s, f(m) 0.104.
+203345   D:   (a) ADS 14893AB, 7.5,7.5v, 6.05y, e 0.91,
+203345   D:   (b) a 0.102", i 132~, or 2210y, e 0.93, K
+203345   D:   (c) 80.5k/s, V$0 -21k/s, asini 6.0107AU.
+203345   D:   (d) Other orbits possible.  Speckle
+203345   D:   (e) interferometry yields sep. from
+203345   D:   (f) 0.175", 85~ to 0.111", 74~.
+203345   Dyn: (a) ".029.
+203374   RV:  (a) Discordant values ranging from -7 to -48k/s.
+203374   D:   (a) vsini primary, B0.5IVnne, 499:k/s;
+203374   D:   (b) secondary B2V, 180k/s, 167k/s.
+203374   G:   (a) Cepheus II.  Cep OB2.  Probably I Cep Agg.
+203699   Var: (a) NSV 13680.  Cst.
+203746   S:   (a) Also classified B9.5IV and A0IV.
+203938   G:   (a) Cepheus II.
+204710   D:   (a) Probably single star.
+204710   G:   (a) Cepheus II?
+205116   G:   (a) Cluster M39.  NGC7092.74, member?
+205210   S:   (a) Also classified A1III and B9.5IV.
+205210   G:   (a) NGC 7092.88, M39, member?
+205331   S:   (a) Also classified B9IV, B9V, A1Vp, A1m.
+205331   G:   (a) M39.  NGC7092.118.
+205372   Var: (a) GK Cep.  EB, 6.89-7.37V.  0.936157d.
+205372   Var: (b) Two minima differ in depth by 0.03m.
+205372   SB:  (a) 0.9362d, e 0.0, K$1 172k/s, V$0 -22k/s,
+205372   SB:  (b) m$1sin3i 2.34, a$1sini 2.21; K$2 187k/s,
+205372   SB:  (c) m$2sin3i 2.16, a$2sini 2.41.  Ratio of
+205372   SB:  (d) luminosities 0.8 from K-line, consistent
+205372   SB:  (e) with photometric.  Light curves show
+205372   SB:  (f) effects of gas streams.
+205905   G:   (a) Possible dwarf member Hyades Group.
+205952   G:   (a) HII 626.
+206058   N:   (a) 24 Aqr.
+206058   RV:  (a) -10, -17 and -28Vk/s.  Range for
+206058   RV:  (b) combined light, 45k/s.
+206058   D:   (a) ADS 15176, 7.2,7.6v, 48.7y, e 0.86,
+206058   D:   (b) a 0.423", i 55~.  Speckle
+206058   D:   (c) interferometry sep. 0.275", 226~.
+206058   D:   (d) One component of ADS 15176 is SB.
+206058   Dyn: (a) ".023.
+206121   S:   (a) Also classified G2Ib, G2p.
+206121   G:   (a) HII 627.
+206155   S:   (a) Also classified B9.5+A3.
+206155   Var: (a) EE Peg.  EA, 6.9-7.57v.  2.628208d.
+206155   Var: (b) Secondary minimum 7.10v.  Period
+206155   Var: (c) varies.  Lines of secondary detected.
+206155   SB:  (a) 2.6282d, e 0.03, K 86.2k/s, V$0
+206155   SB:  (b) -13.4k/s, asini 3.11.  Spectrum of
+206155   SB:  (c) secondary F4V.
+206395   S:   (a) Also classified G8V.
+206428   D:   (a) Component B of which A is HD 206429;
+206428   D:   (b) C is HD 20638 = -57~9939, 7.9 K0.
+206429   D:   (a) See 206428.
+206773   S:   (a) Also classified B0Vpne and B1Vnne.
+206773   G:   (a) Cepheus II.  HII 628, IC 1396.
+207076   Var: (a) EP Aqr.  SRb, 6.37 to 6.82V.  +1.45 to
+207076   Var: (b) +1.55(B-V), +0.70 to +0.88(U-B),
+207076   Var: (c) +1.74 to +1.87(R-I)$E.  50-60d.  Mean
+207076   Var: (d) mag. varies in a longer period.
+207119   C:   (a) U-B also +1.98.
+207119   S:   (a) Also classified K5Ib.
+207158   Var: (a) 6.55 and 6.74V.
+207692   G:   (a) Probable member 61 Cyg Group.
+207826   SB:  (a) The brighter component of ADS 15366,
+207826   SB:  (b) 2.7257d, K 30.7k/s, V$0 -15.3k/s, asini 1.15.
+207826   D:   (a) Comp. B, 10.59V, +0.93(B-V), +0.59(U-B),
+207826   D:   (b) PM -.029",-.046", nearly CPM with A.
+207991   S:   (a) Also classified K5Ib.
+208063   S:   (a) Ca weak.
+208063   D:   (a) ADS 15405B.  Component A is HD 208095
+208063   D:   (b) HR 8357 = +55~2639, optical?
+208218   C:   (a) U-B from -0.49 to -0.58.
+208218   G:   (a) NGC 7160.1; Cep OB2; Cepheus II.
+208392   C:   (a) Color excess, E(B-V) = 0.43.
+208392   S:   (a) B0.5V+B1Ve; also classified B3IIk.
+208392   Var: (a) EM Cep.  ADS 15434A.  EB, 7.02-7.15V.
+208392   Var: (b) 0.806277d.  Secondary minimum 7.11V
+208392   Var: (c) or 7.13V.  Form of light curve varies.
+208392   Var: (d) Physical changes in brightness possible.
+208392   RV:  (a) Recent values -44 and -55k/s.
+208392   D:   (a) ADS 15434A (EM Cep).  B is +61~2217 =
+208392   D:   (b) HD 208440, NGC 7160.3, 7.92V,
+208392   D:   (c) +0.07(B-V), -0.72(U-B), B1III/V.
+208392   D:   (d) vsini 140k/s.  AP 7.1,13.2v, sep. 20", 281~.
+208392   D:   (e) BQ 8.8,13.7v, sep. 22", 43~.
+208392   G:   (a) NGC 7160.2, region of open cluster.
+208392   G:   (b) I Cep Association; Cep OB2.
+208612   Var: (a) Profiles of H shell lines variable.
+208718   S:   (a) Also classified Am+F2V, A2V+F2V.
+208718   D:   (a) Component B, F2V, vsini 100k/s.
+208718   Dyn: (a) ".014.
+208728   S:   (a) Also classified G7, A+G.
+208886   S:   (a) Also classified B5III.
+208905   D:   (a) Speckle interferometry sep. 0.416".
+208905   G:   (a) Cep OB2.  Prob. Agg. I Cep.
+208998   G:   (a) @hCephei Group.
+209336   C:   (a) (B-V) +1.48, +1.84; (U-B) +1.23,
+209336   C:   (b) +1.42; (R-I) +1.44, +1.58.
+209336   Var: (a) TT PsA.  Lb, 7.00-7.49V.
+209744   N:   (a) 15 Cep.
+209744   RV:  (a) Early observations gave range -13 to
+209744   RV:  (b) -27k/s, two recent values, -49.3 and -56.2.
+209744   D:   (a) ADS 15601B, 11.4v at 11", 298~.
+209744   D:   (b) Component C, BD+59~2457, 8.90V,
+209744   D:   (c) +1.36(B-V), +2.11(U-B), K0II, at 90",
+209744   D:   (d) 39~, PM -.020",-.020", optical.
+209744   D:   (e) Component D, BD+59~2461, HD 209810,
+209744   D:   (f) 7.85V, +0.06(B-V), -0.05(U-B), B9Vn
+209744   D:   (g) at 184", 72~, optical.  Component E,
+209744   D:   (h) HD 209809, optical.  Component F,
+209744   D:   (i) BD+59~2463, 8.14V, +0.03(B-V),
+209744   D:   (j) -0.07(U-B), variously classified A0,
+209744   D:   (k) A2, B1V, B9.5V, at 192", 34~from E,
+209744   D:   (l) PM -0.022",+0.000", optical.
+209744   D:   (m) Component P, 14.3v at 18", 334~.
+209744   G:   (a) Cep OB2.
+209791   S:   (a) Also classified F7V.
+209791   D:   (a) Component B of ADS 15600, of which A
+209791   D:   (b) is HR 8417 = HD 209790.  Periods
+209791   D:   (c) 3800y, a 11.5" and 2.254y, a 0.073",
+209791   D:   (d) trig. parallax +".032.
+209791   Dyn: (a) ".038.
+209791   G:   (a) Non-member Hyades Group.
+209809   Var: (a) NSV 14018.  Amp. 0.10V.
+209809   D:   (a) Component E of ADS 15601 of which A is
+209809   D:   (b) HD 209744, q.v.
+209813   S:   (a) Strong H and K emission.
+209813   Var: (a) HK Lac.  RS CVn, 6.77-6.91V; amp. var.
+209813   Var: (b) 0.07 to 0.22V, <0.05(B-V),
+209813   Var: (c) <0.07(U-B).  Period 25.3d differs
+209813   Var: (d) slightly from the orbital.  Neither
+209813   Var: (e) eclipsing nor pulsating.  Form of
+209813   Var: (f) light curve and period probably vary.
+209813   Var: (g) Light variations possibly due to
+209813   Var: (h) non-uniform surface brightness, or to
+209813   Var: (i) gaseous streams associated with the star.
+209813   SB:  (a) 24.4284d, e 0.009, K 34.6k/s,
+209813   SB:  (b) V$0 -23.6k/s, asini 11.6.
+210277   G:   (a) Group with HR 1614.
+210387   D:   (a) Identified as ADS 15679 component D in
+210387   D:   (b) AGK2.  Proper motions for components
+210387   D:   (c) A, B and D CPM, respectively,
+210387   D:   (d) (+0.031",-0.005"), (0.042",-0.005"),
+210387   D:   (e) and (+0.038",-0.006").
+210405   Var: (a) 6.70 to 6.81V, -0.03 to +0.03(B-V),
+210405   Var: (b) -0.30 to -0.26(U-B).
+210405   D:   (a) ADS 15679A.  Component B, BD+44~4060,
+210405   D:   (b) 10.06V, +0.25(B-V), +0.20(U-B),
+210405   D:   (c) +0.13(R-I), at 27", 110~.  Component C,
+210405   D:   (d) 13.53V, +0.73(B-V), +0.38(U-B),
+210405   D:   (e) +0.62(R-I), at 23", 164~from B,
+210405   D:   (f) may be optical.  Other UBV determinations,
+210405   D:   (g) B, 9.94V, +0.32(B-V), +0.11(U-B);
+210405   D:   (h) C, 14.69V, +1.43(B-V).
+210615   S:   (a) Also classified K7III.
+210615   Var: (a) DM Cep.  Lb, 8.4-9.6p.
+210628   S:   (a) Also classified B5II.
+211076   D:   (a) ADS 15763AB, optical.
+211643   S:   (a) Also classified A5III, Am.
+211643   G:   (a) HII 633.
+212043   G:   (a) HII 633.
+212044   Var: (a) V 357 Lac.  Amp. 0.2V.  Spectrum variable.
+212136   RV:  (a) -6, -22, and +2k/s.
+212385   Var: (a) BK Gru.  6.837-6.890V.  Amp.0.01y,
+212385   Var: (b) 0.01b, 0.015v, 0.01u.  2.48d.
+212466   C:   (a) IR excess, dust shell.
+212466   S:   (a) At minimum, K20-Ia.
+212466   Var: (a) RW Cep.  Lc, 8.6-10.5p, 6.41 to 6.66V,
+212466   Var: (b) +2.09 to +2.31(B-V), +2.33 to
+212466   Var: (c) +2.38(U-B).
+212989   Dyn: (a) ".016.
+213155   C:   (a) Also -0.074(B-V), -0.028(U-B).
+213307   D:   (a) ADS 15987C.  Component A is @dCep = HR
+213307   D:   (b) 8571 = HD 213306 = +57~2548; comp. B
+213307   D:   (c) is 13.0v.  Parallax of A is +".011.
+213893   S:   (a) Also classified K5III.
+213893   G:   (a) Arcturus group, member.
+213976   G:   (a) I Lac Association.
+214080   S:   (a) Also classified B1V.
+214167   D:   (a) ADS 16095A is HR 8603 = HD 214168,
+214167   D:   (b) 5.67V, -0.15(B-V), -0.91(U-B),
+214167   D:   (c) -0.18(R-I), B1Vne; C, 10.77V,
+214167   D:   (d) +0.55(B-V), -0.10(U-B), +0.37(R-I);
+214167   D:   (e) D, 9.06V, -0.03(B-V), -0.26(U-B),
+214167   D:   (f) +0.00(R-I), B7Vn.  Additional
+214167   D:   (g) determinations for B: 6.480V,
+214167   D:   (h) -0.162(B-V), -0.819(U-B), B1.5Vs.
+214167   G:   (a) I Lac Association.
+214263   G:   (a) I Lac Association.
+214608   Var: (a) NSV 14258.  Amp. 0.014V.
+214608   D:   (a) ADS 16138, 7.6,7.6v, 30y, e 0.3,
+214608   D:   (b) a 0.353", i 90~, @Dm var?
+214608   Dyn: (a) ".030.
+214652   SB:  (a) Brighter component of ADS 16143.
+214652   SB:  (b) 1.2545d, e 0.04, K 64.2k/s,
+214652   SB:  (c) V$0 -11.9k/s, asini 1.11.
+214652   D:   (a) B is 10.8m at 16".
+214652   G:   (a) I Lac Association.
+214686   SB:  (a) P 21.7014d; e, 0.408, K$1 55.1, K$2 55.9,
+214686   SB:  (b) V$0 -36.3k/s, m$1sin3i 1.18, m$2sin3i 1.16.
+214686   SB:  (c) Orbital inclination about 90~, so eclipses
+214686   SB:  (d) possible.  Components nearly alike in mag.
+214686   SB:  (e) and spectrum.
+214686   D:   (a) Occultation double, 7.5,7.5v, sep. 0.004".
+215769   Var: (a) V 6.53 or 6.72; possibly variable?
+215812   S:   (a) Also classified G2V+G3V.
+215812   D:   (a) ADS 16270.  A, 6.75, G0, RV -23k/s;
+215812   D:   (b) trig. parallax -".024+/-6.  B, 7.6, G4,
+215812   D:   (c) RV -25k/s; trig. parallax +".034+/-6.
+215812   D:   (d) C is BD -4~5759, 8.3v, G2, at 50",
+215812   D:   (e) 106~, PM +.014",-.012".
+215812   Dyn: (a) ".034.
+215985   Var: (a) AX Gru.  Amp. 0.4p, >0.1V.
+216014   S:   (a) B0.5IV+B0.5IV; also classified B0.5V:nn.
+216014   Var: (a) AH Cep.  EB, 6.9-7.12p.  1.7747274d.
+216014   Var: (b) Secondary min 7.09p.
+216014   SB:  (a) 1.7748d, e 0.03, K$1 225.3k/s, V$0
+216014   SB:  (b) -20.6k/s, m$1sin3i 11.4, a$1sini 5.50;
+216014   SB:  (c) K$2 261.2k/s, m$2sin3i 9.82, a$2sini 6.37.
+216014   D:   (a) Component B, B1V, vsini 161k/s.
+216227   D:   (a) ADS 16298A.  Component B, 8.9v B8Vn.
+216227   Dyn: (a) ".001.
+216285   D:   (a) ADS 16314, 7.7,7.7v, 243.26y, e 0.45,
+216285   D:   (b) a 0.422", i 127~.  Component B,
+216285   D:   (c) F5III.  Comp. C, 10.88V, +1.64(B-V),
+216285   D:   (d) +2.00(U-B), +0.77(R-I)$E, at 51", optical.
+216369   D:   (a) ADS 16321C is BD +40~4925, 8.5v, A0.
+216369   D:   (b) E is BD +40~4924, 8.9v, A0, at 118", 263~.
+216655   D:   (a) AB and CD both direct motion.
+216655   Dyn: (a) ".008.
+216656   D:   (a) Comp. CD of which AB are HD 216655.
+216931   D:   (a) Component A is occultation double,
+216931   D:   (b) 7.1,7.5v, sep. 0.039", 199~.
+216945   G:   (a) HII 649.
+217817   Var: (a) NSV 14398.  Max., 6.99V.
+217825   S:   (a) Also classified  M1 III.
+217825   Var: (a) NSV 14405.  4.87-5.15I.
+218154   SB:  (a) 2.177853d, e 0.026, K 54.0k/s,
+218154   SB:  (b) V$0 +2.3k/s, asini 1.62.
+218155   Var: (a) NSV 14421.  6.75-6.78V.
+218393   S:   (a) Also classified A5pe Shell.
+218393   Var: (a) KX And.  6.915 to 7.05V, +0.273 to
+218393   Var: (b) +0.39(B-V), -0.25 to -0.584(U-B).
+218393   Var: (c) Amp. 0.3U.  Spectrum variable.  Metallic
+218393   Var: (d) shell lines appear and disappear in
+218393   Var: (e) semi-regular cycles 35 to 40d.
+218393   RV:  (a) Radial velocities obtained by Swings
+218393   RV:  (b) and Struve, from various lines on one
+218393   RV:  (c) night ranged from -8 to -99, with an
+218393   RV:  (d) average of about -41k/s.  Early
+218393   RV:  (e) observations by Harper and by Merrill
+218393   RV:  (f) indicated large variations in HeI
+218393   RV:  (g) lines, suggesting a binary.
+218674   Var: (a) KY And.  Amp.about 0.06V.  RV variable
+218674   Var: (b) in period about 1 month.
+218674   G:   (a) Lacerta I.
+218723   G:   (a) HII 654.
+218767   D:   (a) Tabulated values of UBV for AB.  Comp.
+218767   D:   (b) C, 9.48V, +0.20(B-V), +0.10(U-B).
+218767   D:   (c) AB orbital period 900y, a 0.50".
+218767   Dyn: (a) ".003.
+219175AB D:   (a) ADS 16611AB, combined V = 7.02.
+219175AB D:   (b) A, 7.56V, +0.56(B-V), -0.03(U-B),
+219175AB D:   (c) F8V, trig. parallax +".033+/-.010.  B,
+219175AB D:   (d) 8.19V, +0.69(B-V), +0.10(U-B), G2V,
+219175AB D:   (e) trig. parallax +".013+/-.007.
+219175AB Dyn: (a) ".006.
+219361   C:   (a) Also 7.12V.  Var?
+219409   G:   (a) Member 61 Cygni group.
+219978   Var: (a) NSV 14501.  9.02-9.6B.
+220057   S:   (a) Also classified B8V.
+220057   Var: (a) NSV 14513.  6.90-6.95V.
+220057   RV:  (a) Two DAO plates (out of 13) show double
+220057   RV:  (b) lines giving a separation of about 350k/s.
+220057   G:   (a) M52, NGC 7654.197.  Near HII 660,
+220057   G:   (b) NGC 7635.
+220102   S:   (a) Also classified F2I and F2V.
+220334   D:   (a) B, 9.76V, +1.06(B-V), dK6,
+220334   D:   (b) RV-22k/s, at 6".
+220334   Dyn: (a) ".022.
+220436   D:   (a) ADS 16725AB, optical.
+220466   D:   (a) Reality of companion doubtful.
+220562   D:   (a) Speckle interferometry sep. 0.277", 120~.
+220819   S:   (a) Also classified A5Ib, A5II, A6II, A7V.
+220819   G:   (a) NGC 7654.1267.
+221231   D:   (a) B is CPD -69~3324, 9.17V.
+221237   S:   (a) Also classified B8Vn.
+221237   RV:  (a) -5, -3.5, +20k/s.
+221237   D:   (a) ADS 16795CD.  Comp. A = HD 221253
+221237   D:   (b) HR 8926 = BD +57~2748 = AR Cas.
+221445   D:   (a) ADS 16819, 7.5,7.7v.  30.637y, e 0.240,
+221445   D:   (b) a 0.203, i 41~, masses 1.47 and 1.40 solar.
+221445   D:   (c) Also observed by speckle interferometry,
+221445   D:   (d) sep. 0.169", 56~.
+221445   Dyn: (a) ".015.
+221627   D:   (a) Component B optical.
+221627   G:   (a) Member Hyades Group.
+221830   S:   (a) Also classified G2V.
+221830   G:   (a) @hCephei Group.
+221839AB D:   (a) ADS 16850, 7.0,8.0v, 76.1y, e 0.53,
+221839AB D:   (b) a 0.577", i 52~.
+221839AB Dyn: (a) ".025.
+222237   G:   (a) Old disc population.
+222275   S:   (a) Also classified A5V, A3m.
+222317   S:   (a) H and K emission.
+222317   SB:  (a) 6.2020d, e 0.02, K 41.3k/s, V$0
+222317   SB:  (b) -2.1k/s, asini 3.52.
+222683   N:   (a) 76 Peg.
+222683   G:   (a) Possible member Hyades Group.
+222804   G:   (a) Group with HR 1614.
+223065   Var: (a) SX Phe.  RRs, 6.78-7.51V.
+223065   Var: (b) 0.054964379d.  Period, form of light
+223065   Var: (c) curve and amplitude vary in period
+223065   Var: (d) 0.192836d.  Secondary period 21.0d.
+223065   Var: (e) Beat period 0.19283425d.
+223065   RV:  (a) Var. correlated with light.
+223065   M:   (a) Sub-dwarf, abs. mag. +4.1V.
+223070   D:   (a) Combined UBV data for AB; C, 9.86V,
+223070   D:   (b) +2.12(B-V), +1.15(U-B), +2.48 (R-I);
+223070   D:   (c) D, BD +59~2768, 10.95V, +0.70(B-V),
+223070   D:   (d) +0.15 (U-B), +0.34 (R-I), PM
+223070   D:   (e) -.016",+.002".  Both AGK3 and Yale
+223070   D:   (f) Zone Catalogue give an additional
+223070   D:   (g) star, BD+59~2769A, 9.1v, A0, at 112"
+223070   D:   (h) Nf, PM +.003",+.000"(AGK3), not
+223070   D:   (i) listed as part of ADS 16982.
+223617   S:   (a) Barium Star?
+223718   D:   (a) ADS 17054B, RV -18k/s.
+223718   Dyn: (a) ".022.
+223866   D:   (a) ADS 17073D = ADS 17080A.  IDS lists 4
+223866   D:   (b) comp. for ADS 17073 and 4 for ADS 17080.
+223960   RV:  (a) Probably var., -48, -49, -57, -23k/s.
+224083   D:   (a) B is BD +28~4667 = HD 224084, 8.24V,
+224083   D:   (b) K0, PM +.015",+.002".
+224166   C:   (a) (U-B) -0.41 in Nicolet, -0.63 in
+224166   C:   (b) Blanco et.al.
+224186   Var: (a) NSV 14761.  Amp. 0.1v.
+224186   G:   (a) Probable red giant member 61 Cyg Group.
+224364   RV:  (a) Possibly var.  -76, -49k/s.
+224583   Var: (a) S Phe.  SR, 6.93 to 8.07V, +1.48 to
+224583   Var: (b) 1.64(B-V),+1.01 to 1.28(U-B), +1.34
+224583   Var: (c) to 1.58(R-I).  120d, quasi-periodic.
+224850   S:   (a) Also classified M1III.
+224890   S:   (a) Also classified Am:.
+225187   Var: (a) NSV 9.  7.056-7.15V.
+225187   G:   (a) @sSculptor cluster.
+179278S  N:   (a) SAO number.
+179278S  S:   (a) Also classified C9I, N6e, C6,3e.
+179278S  Var: (a) V Hya.  SRa, 10.9-16p, 529.2d.
+179278S  Var: (b) Mean mag. varies in period 18y.
+250043S  N:   (a) SAO number.
+250043S  Var: (a) NSV 3845.  6.69-6.73V.
+250043S  RV:  (a) Also +16.3K/S.
+250043S  G:   (a) NGC 2516.128.

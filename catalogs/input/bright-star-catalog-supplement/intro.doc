@@ -1,0 +1,412 @@
+Supplement to the BRIGHT STAR CATALOGUE
+
+
+INTRODUCTION
+
+   The Bright Star Catalogue (BS) was ostensibly complete to magnitude
+6.50v on the visual system of the HR catalogue (Harvard Revised
+Photometry, Harvard Annals, vol. 50, 1908).  Included in the HR were
+over 500 stars fainter than 6.50v, of which 26 had magnitudes between
+7.00 and 7.64v.  Following Frank Schlesinger, who compiled the first
+two editions of the BS (1930 and 1940), we have included in the third (1964)
+and fourth (1982) editions only the stars with HR numbers.  Subsequently a
+number of complaints have been received because numerous stars now known to
+be brighter then 6.50V in the modern photoelectric UBV system are not included
+in the BS.  All of the stars that were specifically called to our attention
+had actually been listed as fainter than 6.50v in the Harvard photometric
+catalogues that were available when the HR was being assembled.  In response
+to the criticism, however, we have now collected data on stars for which
+photoelectric determinations are given as 7.10V or brighter and which are not
+HR stars already in the BS (except for a few that occur in the REMARKS of
+the BS because they are companions to the BS stars).
+
+    The major sources for the selection of the Supplement stars have been
+the tapes provided by Carlos Jaschek of the Centre de Donnees Stellaires for
+the preparation of the fourth edition of the BS.  These are primarily Nicolet
+(A. and A. Supp. 34, 1, 1978) and Morel-Magnenat (A. and A. Supp. 34,
+477, 1978), although a great many other miscellaneous sources are represented.
+However, we make no claim to completeness.  Moreover, a few stars may
+inadvertently be included when a published value labelled V actually was meant
+to refer to a visual or photovisual determination (v).  This Supplement,
+then, which is more in the nature of a first approximation than a final product,
+contains 2603 stars.
+
+    From tables by van Rhijn (Groningen Pub. 43, 1929) it is estimated that
+to magnitude 7.10v there should be approximately 16000 stars.  With 9084
+to this limit in the BS, a complete supplement should contain on the order of
+7000 stars, for only 37% of which we have found V magnitudes.  To have included
+all of the stars with visual or photovisual magnitudes to 7.10 would have led
+to a spurious impression of completeness--more stars of true V magnitude
+brighter than 7.1 would have been omitted than fainter stars, originally graded
+as brighter than 7.10, would have been included.
+
+    2554 of the stars in the Supplement are common to the SAO catalogue.
+For these, Figure 1 shows the correlation between the V-magnitudes and the
+visual or photovisual magnitudes (v) given in the SAO.  The latter stem
+mainly from three sources, the HD, DM, or Cape Zone Catalogues.  410, or 16%
+with V magnitudes brighter than 7.10 are given as fainter in the old visual
+catalogues, and would therefore have been rejected from the Supplement
+had the criteria for inclusion been the older values.  For 52% of the stars
+common to the two catalogues, the v magnitudes are the fainter (by up to
+1.8 mag.), 24% are the same, and 24% are brighter than their corresponding V
+values.  Hence, a selection of all stars to 7.1v would not even guarantee
+completeness to 6.50V if the current selection of 2554 stars is typical of the
+entire expected 7000.  The current sample indicates that 96% completeness to
+6.50V would have been achieved if the stars had actually been selected on the
+basis of a visual limit of 7.1v, at the expense of the inclusion of some
+1800 stars actually fainter than 6.50V on the UBV system.
+
+    The data given in the Supplement are basically the same as for the BS
+itself.  Here, however, the NAME column has been omitted as very few of
+the Supplement stars have Bayer or Flamsteed designations.  Where such do
+apply they are entered under N in the REMARKS.  In place of the name
+column we have inserted the SAO numbers (which do not appear in the BS).  On
+the right-hand pages PAR now includes only trigonometric parallaxes; all
+the dynamical parallaxes are relegated to the REMARKS.  For double stars
+a column headed PA has been added for position angle.  REMARKS are
+given for 49% of the stars.  For a high percentage of these, various data in
+the literature have been found to be discordant.  When these could not readily
+be resolved and corrections indicated, the discordant values are entered in the
+REMARKS.  Misidentifications or oversights are not precluded, as positional
+data are not of comparable precision in all the sources.
+
+    A summary of the completeness of the data for the 2603 Supplement stars
+is shown in Table I, together with the corresponding percentages for the BS
+catalogue.  Table II gives the number of double or multiple systems, n, of
+multiplicity N, indicating that the 2603 stars actually represent 3577
+components.  The last entry, for N = 21, corresponds to HD 25639 = ADS 2984,
+for which Aitken listed 21 components.  These comprise part of the open cluster
+NGC 1502, so that the strictly binary nature of most of the components may be
+questioned.
+
+    In Figures 2 - 4 the color indices (B-V), (U-B), and (R-I) are
+compared with the major spectral classes.  The considerable dispersions reflect
+possible errors in spectral classification, in the colors, and color excesses,
+as well as differences in luminosity classes (which are not differentiated in
+the Figures).  The expected spread in color due to luminosity classes is much
+smaller than the observed dispersions.  A comparison with mean expected
+unreddened colors for each spectral class, as given by C.W. Allen
+(Astrophysical Quantities, p. 206, 1973), indicates that our values for
+(B-V) and (U-B) as plotted in Figures 2 and 3 have a spread of from
+2 to 9 times greater than the expected differences between luminosity V dwarfs
+and luminosity I supergiants.  Very large deviations may indicate errors in
+star identifications.  A few correspond to the difference between resolved and
+unresolved magnitudes for close double stars; and in rare instances the spectral
+class and colors might represent different phases in unrecognized variable
+stars.
+
+
+
+
+ACKNOWLEDGMENTS
+
+
+    Much of the material included in this Supplement stems from the same tapes
+and catalogues supplied by Carlos Jaschek of the Centre de Donnees
+Stellaires at Strasbourg for the preparation of the fourth edition of the
+Bright Star Catalogue.  Dr. Philip C. Keenan kindly supplied a number of
+new spectral classes of G and K type stars.  Dr. W. van Altena contributed all
+of the trigonometric parallaxes, a few of which may still be subject to minor
+revisions as the new General Catalogue of Stellar Trigonometric Parallaxes
+is not quite completed.
+
+    All three authors have shared in the extensive search of the literature
+(through 1981, though not necessarily exhaustive in all categories, and with
+many data from more recent publications).  The final selection of the material
+to be included in the catalogue has been the sole prerogative of the senior
+author.  Michael Saladyga has been the one mainly responsible for the numerous
+and often cumbersome programs necessary on the PDP-11, the DEC-20, and the
+OMNITECH computers.  Peter Wlasuk also aided considerably in various phases of
+programming and proof reading.  The following undergraduate student assistants
+helped over shorter time intervals:  Andrew Partan wrote the earliest versions
+of the DEC-20 programs; Jerome Demarque, Nathaniel Glasser, Iris McNair, and
+Rose Swift shared tasks of putting the REMARKS on the DEC-20 and meticulous
+proof reading.  Graduate student James Shombert made himself available for
+advice on programming whenever needed.
+
+    The catalogue was compiled from magnetic tapes and manuscript materials us-
+ing the PDP-11 computer at the Yale Astronomy Department and the DEC-20 computer
+at the Department of Computer Science.  The REMARKS and introductory pages were
+compiled on the DEC-20 system.  The final camera-ready copy was produced
+using the DEC-20/SCRIBE document preparation system and the OMNITECH typesetter
+at the Yale Printing Service.
+
+    We are particularly grateful to the National Science Foundation for Grant
+AST-8116517 under which this project was carried out.
+
+
+TABLE I.  Completeness of Data
+
+CATEGORY                                No.    %   % in BS
+
+SAO Numbers                            2576   99       -
+Infrared Sources (I)                    310   12      19
+Components of Visual Doubles            649   25      32
+Named Variable Stars                    217    8       9
+Unnamed or Suspected Variables          181    7      13
+(B-V)                                  1794   69      94
+MK Luminosity Classes                  1894   73      93
+Proper Motions                         2595   99.7   100
+Trigonometric Parallaxes                255   10      31
+Radial Velocities                      1510   58      93
+Spectroscopic Binaries                   21    8      19
+Other Stars with variable or
+  suspected var. RV (% of RV)           155   10      29
+vsini                                   356   14      43
+
+
+
+
+
+TABLE II.  Multiplicity of Components
+
+
+       N          n        nN
+
+       1       2053      2053
+       2        309       618
+       3        133       399
+       4         54       216
+       5         19        95
+       6          8        48
+       7          9        63
+       8          4        32
+       10         2        20
+       12         1        12
+       21         1        21
+
+                        -----
+       TOTAL Components  3577
+
+
+
+
+THE CATALOGUE
+Left-Hand Pages
+
+  Column:
+
+    1    HD  Number in the Henry Draper Catalogue, Harvard Annals,
+           93-99, 1918-1924
+
+    2    DM  Durchmusterung number
+           BD north of -23 deg
+           CD from -23 deg to -51 deg
+           CP South of -52 deg
+
+    3    SAO  Number in the Smithsonian Astrophysical Obs. Star Catalog,
+           1966
+
+    4    I  Infrared source.  Mainly from the Catalog of Infrared
+           Observations, NASA Tech. Memorandum 83819, 1982.
+
+    5    D  Double or multiple stars (other than spectroscopic binary
+           or eclipsing):
+           Number  ADS, Aitken General Catalogue of Double Stars, 1932
+           W  From Charles Worley, USNO 1978 unpublished update of the IDS.
+              The letters following the W indicate which components of a
+              multiple star the HD number represents.
+           C  Couteau, IAU Inform. Bull. Double Stars, No. 75, 1978
+           D  Duplicity discovered by occultation
+
+    6    VAR  Variable star designations: Numbers alone in this column
+           indicate unconfirmed variables from the New Catalogue of
+           Suspected Variable Stars, Kukarkin, Kholopov, et. al.,1982.
+           VAR and VAR? for unnamed variables and suspected unconfirmed
+           variables not included in the general catalogues
+
+    7-8   Equatorial coordinates for 1900
+
+    9-10  Equatorial coordinates for 2000
+
+    11-12 Galactic coordinates
+
+
+
+
+THE CATALOGUE
+Right-Hand Pages
+
+  Column:
+
+    1    HD  Repeated from Left Page
+
+    2    V  Visual magnitude on Johnson UBV system
+
+    3    B-V  On Johnson system
+
+    4    U-B  On Johnson system
+
+    5    R-I  On Johnson system unless followed by a letter:
+          E, mainly from Eggen, on Kron system
+          C, from Cousins, close to Kron system
+        (Caution: the Johnson and Kron systems depend on different
+        effective wavelengths and may not be used interchangeably.)
+
+    6    Spectral Class  If followed by * the complete modern
+           determination is too long for the available column width.
+           The complete class is given either in the REMARKS or in the text.
+
+    7    PM(alpha)  Annual proper motion in R.A.
+
+    8    PM(delta)  Annual proper motion in Dec.
+
+    9    PAR  Trigonometric parallax
+
+    10   RV  Radial velocity.  V and V? indicate variable or suspected
+          variable radial velocity; SB, spectroscopic binaries, SB1 or
+          SB2, single or double lined spectra; followed by an O, orbital
+          data available.
+
+    11    vsini  Projected rotational velocities
+
+    12    ^m  Magnitude difference between two components of a double,
+            or between the two brightest components of a multiple system
+
+    13    SEP  The separation of the same two components.  The letter
+            "a" in this column indicates the semi-major axis of the orbit.
+
+    14    PA  Position angle of the same two components.  "orb" in this
+            column means an orbit is available; hence no position angle
+            is given.
+
+    15    Comp  Identification of which two components are represented
+            in columns 12 and 13.  An O in this column indicates
+            occultation binary.
+
+    16    N  The number of components assigned to the multiple systems
+
+    17    R  An asterisk (*) in the final column calls attention to a
+            note in the REMARKS section following the catalogue proper.
+
+
+
+
+REMARKS
+
+    A vast amount of information could not readily be included in the
+left- and right-hand pages of the Catalogue proper, partly because of
+space limitations on the number of columns, but mainly because of the
+diverse nature of many of the notes.  All of this material is collected
+in the REMARKS, which are divided into the following categories:
+
+
+N  STAR NAMES and IDENTIFICATIONS
+
+C  MAGNITUDES, COLORS and color excess.
+
+S  SPECTRA.  Notes on discordances in classification, peculiarities, etc.
+
+VAR  VARIABLE STARS.  Most of the notes in this category comprise types of
+variability, maximum and minimum magnitudes, and periods.  Notes are also
+included in this category for stars not known to show variability in light,
+but which have shown changes in spectrum, magnetic field, or other
+characteristics (unless such changes are noted under S, SB, RV or D).
+
+SB  SPECTROSCOPIC BINARIES.  Mostly orbital data: the period of revolution;
+K, the half amplitude of the radial velocity in the orbiting system, or K$1
+and K$2, the semi-amplitude in RV for each of the components of a
+double-lined spectroscopic binary; V$0, the mean radial velocity of the
+system; msin!3i, the mass function in terms of the solar mass;
+and asini, the projected semi-major axis in units of 10!6km.
+
+RV  RADIAL VELOCITIES and ROTATIONAL VELOCITIES, vsini.  Frequently
+such data for the secondary components of visual or multiple stars are shown,
+but not data already included under SB or D.
+
+D  DOUBLE and MULTIPLE STARS, including astrometric and those discovered by
+occultations or speckle interferometry.  Orbital data are given, including
+magnitudes and spectral classes of the major components, orbital periods, and
+semi-major axes, a.
+
+DYN  DYNAMIC PARALLAXES.
+
+R  Stellar RADII or DIAMETERS.
+
+G  Membership in CLUSTERS, GROUPS, ASSOCIATIONS, and apparent association
+with nebulosity (R associations).  No attempt has been made to resolve
+conflicting assignments in different sources: the various alternatives are
+included.
+
+M  MISCELLANEOUS notes.
+
+
+                     Translation Table: Scribe Codes and
+                  short versions of codes in tape version of
+                       Bright Star Supplement Catalogue
+
+       short code      Scribe code          (follow this sequence when making
+                                              blanket changes of the codes)
+
+       @g              @g(g)   gamma                           first
+       @c              @g(c)   chi                             second
+
+       @a              @g(a)   alpha
+       @b              @g(b)   beta
+       @d              @g(d)   delta
+       @D              @c(@g(D)) small cap. Delta              a
+       @h              @g(h)   eta                             n
+       @k              @g(k)   kappa                           y
+       @l              @g(l)   lambda
+       @p              @g(p)   pi
+       @r              @g(r)   rho                             o
+       @s              @g(s)   sigma                           r
+       @t              @g(t)   tau                             d
+       @x              @g(x)   xi                              e
+       @y              @g(y)   psi                             r
+       @z              @g(z)   zeta
+
+
+       !n              @+(n)   superscript } where {  01234hmsvc
+       $n              @-(n)   subscript   }  n =  {  01234CEAB
+       ~               @g(7)   degrees
+
+
+       asini           @i(a)sin@i(i)                 asini
+       vsini           @i(v)sin@i(i)                 vsini
+       a$1sini         @i(a)@-(1))sin@i(i)           a1sini
+       a$2sini         @i(a)@-(2))sin@i(i)           a2sini
+       msin!3i         @i(m)sin@+(3)@i(i)            msin3i
+       m$1sin!3i       @i(m)@-(1))sin@+(3)@i(i)      m1sin3i
+       m$2sin!3i       @i(m)@-(2))sin@+(3)@i(i)      m2sin3i
+
+
+
+
+           other codes used to produce printed version
+                  but not used in tape version:
+
+       %               @g(1)   minus sign (not dash)
+       {               @g(8)   minutes sign (not single quote)
+       }               @g(9)   seconds sign (not double quote)
+       |               @g(5)   plus-or-minus sign
+       `               - - -   to represent % sign
+
+       ~a              @y(h)   less-than/equal sign
+       ~b              @y(i)   greater-than-equal sign
+       ~r              @y(r)   slash (scribe's different from "/")
+       ~s              @!@g(9)@/.    (scribe overprint for ". sign)
+
+                       @g(2)   times sign (not letter X)
+
+
+
+
+
+             short versions of codes in LEFT PAGE file:
+
+
+       short code      Scribe code
+
+
+       @t!4 Ser        @g(t)@+(4) Ser       HD 139216 'tau4Ser'
+
+
+
+
+
+             short versions of codes in RIGHT PAGE file
+
+
+       @d              @g(d)                HD 189337
+                                            'lowercase greek delta'

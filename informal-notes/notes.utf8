@@ -1,0 +1,337 @@
+Somewhat random and very informal notes and links.
+--------------------------------------------------
+ 
+https://archive.eso.org/cms/eso-archive-news/new-gaia-eso-radial-velocity-catalogue-released-dr4-1.html
+
+Wilson Evans Batten (1995)
+https://articles.adsabs.harvard.edu/pdf/1995A%26AS..114..269D      orig paper in French
+https://ui.adsabs.harvard.edu/abs/1995A%26AS..114..269D/abstract
+https://cdsarc.cds.unistra.fr/viz-bin/cat/III/190B
+https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/III/190B?format=html&tex=true   readme
+- an amalgamation of older catalogs, 1963-1989. Older data. Adds identifiers.
+- rev4, 1997 
+- radial velocities
+- they state that for multiple systems, some sources neglect to say to what exactly the radial velocity applies!
+- simbad 20887
+
+
+
+An amateur astronomer's version of a catalog - https://astronexus.com/hyg
+- uses Hipparcos-1, Yale BSC, and Gliese as base; Wilson-Evans-Batten for some rv's.
+- he uses Hipparcos-1 data, not the more accurate Hipparcos-2.
+- it looks like he applies proper motion from J1991.25 to J2000, but not precession (which is correct)
+- he never mention ICRS, which is curious. Perhaps he knows about the distinction, but ignores it (which is valid)
+  Example of the field description:
+    "ra, dec: The star's right ascension and declination, for epoch and equinox 2000.0."
+
+
+Observer's Handbook (RASC) 2019
+The Brightest Stars
+ - 286 items
+ - Hipparcos 2007 data reduction + spectral classes (private data, Garrison) + BSC5 for radial velocities
+ - https://rasc.ca/handbook/supplements
+ - https://rasc.ca/sites/default/files/Brightest_Stars_OH2022a.pdf
+    an extended version of the table
+ - limiting mag ~3.55 in the above pdf
+ - AAVSO: mag ranges and periods for variable stars
+ - WDS: Washington Double Star Catalog
+ - "It may be hoped that in future years more precise parallaxes will be forthcoming from the Gaia mission, 
+    which has now found an engineering solution significantly easing its initial restriction to the fainter 
+    stars. (Detector overload had been feared.)"
+    
+IAU Star names
+https://www.iau.org/public/themes/naming_stars/     
+
+Radial Velocity
+Yale Bright Star Catalog
+APOGEE - northern sky
+Gaia-ESO - not uniform over the sky
+Gaia - bright stars not complete
+Survey of Surveys (2022, European) - https://www.aanda.org/articles/aa/pdf/2022/03/aa41702-21.pdf
+  - very recent
+  - the goal is to make diverse data sets more homogeneous
+  - https://cdsarc.u-strasbg.fr/viz-bin/cat/J/A+A/659/A95
+  - http://gaiaportal.ssdc.asi.it/SoS/query/form 
+  - readme https://cdsarc.u-strasbg.fr/viz-bin/ReadMe/J/A+A/659/A95?format=html&tex=true
+  - smallest mag is 2.1; 21 rows under mag 3.0
+  - no HD identifier, or similar? No. It uses an internal id (SoS id) to map to its input source catalogs.
+     sos.dat doesn't have the Gaia DR2 source_id
+  - 11 million objects
+  - flag for binaries, but not for variable stars
+  - Gaia DR2 (2018b, 7.2 million stars, mag 4-13) + 5 others (ground-based)
+  - "We are looking forward to upcoming surveys such as SDSS-V (Kollmeier et al. 2017), WEAVE (Dalton et al. 2018), 4MOST
+   (de Jong et al. 2019), and PFS (Takada et al. 2014) which can be also appended to SoS."
+  - "The catalogue’s precision is set by the error distribution which peaks at 0.09 km s−1 and its accuracy is set 
+    by comparison with external catalogues at 0.16−0.31 km s−1."
+Geneva-Copenhaghen (GC) survey provides, among other parameters, very good quality RVs for G and F type
+   dwarf stars in the solar neighbourhood (Nordström et al. 2004). The catalogue contains 14 139 RVs.   
+   
+   
+Hipparcos/Tycho
+https://cdsarc.cds.unistra.fr/viz-bin/cat/I/239
+https://ui.adsabs.harvard.edu/abs/1997ESASP1200.....E/abstract
+https://www.cosmos.esa.int/web/hipparcos
+https://www.cosmos.esa.int/web/hipparcos/catalogues
+https://www.cosmos.esa.int/documents/532822/553204/sect2_01.pdf/88f60038-085c-4cf0-9de0-42af104e8ae1  - field by field description
+ - two detectors on the spacecraft; one was precise, the other a survey instrument (Tycho/star mapper)
+ - no radial velocity
+ - 1993
+ - Hipparcos 118,218 stars with highest precision
+ - ICRS, at epoch 1991.25
+ - a few entries without good position or photometry
+ - Tycho-1 about 10x larger, with less precision
+ - IAU 1998 made it the ICRS realization
+ 
+Visual Double stars in Hipparcos
+https://cdsarc.cds.unistra.fr/viz-bin/cat/I/260
+ 
+Tycho-2 (Feb 2002)
+https://cdsarc.cds.unistra.fr/viz-bin/cat/I/239
+https://www.astro.ku.dk/~erik/Tycho-2/ 
+ - Tycho 2 catalog (2000), 2.5MM stars, 99% of those brighter than mag 11, 500MB
+ - there is also a double star catalog
+ - combined with 144 (much) older catalogs, to infer better proper motions
+ - median accuracy at B~10 20 mas in position, 0.03 B and V mag, 2.5mas/yr proper motion
+ - bright stars 7mas 
+ - no significant difference in positions of Hipparcos!
+ - double separation down to 0.8 arcsec
+ - 96% have proper motions
+  
+ Henry Draper catalog (1918..1936)
+ http://cdsarc.u-strasbg.fr/viz-bin/Cat?III/135A - orig and extension 272,150 items
+ http://cdsarc.u-strasbg.fr/viz-bin/Cat?III/182 - extension charts
+ - whole sky, photographic mag ~9
+ - very basic data: position, two types of mag, and basic spectral type
+ - uses some magic numbers for magnitudes, for object types
+ - 8409 rows < 6.5 "photovisual mag" from the orig+extension
+ - now about 359,000 items in total
+ - HD numbers often useful as a common identifier between catalogs
+ - orig, extension, and extension-charts (later parsed into tables in 1995)
+ - Vizier has a complete cross-match with Tycho 2
+ 
+
+Analysis (see https://www.aanda.org/articles/aa/pdf/2022/03/aa41702-21.pdf) 
+- count nulls
+- range min..max
+- match via identifier (eg HD) 
+- weighted mean, according to error bars
+- "the normalisation of uncertainties using repeated measurements or the three-cornered hat method" 
+- zero-point offsets and trends
+- cross-match (the official Gaia cross-match algorithm)
+- systematic versus random errors
+
+Human Eyes - spectral response under low light conditions
+variation between people is significant
+variation with age is significant
+https://light-measurement.com/spectral-sensitivity-of-eye/
+AVERAGE human eye
+ daylight 555nm peak (yellow) V = 551nm
+ night    500nm peak (green)  G = 464nm
+ 
+https://en.wikipedia.org/wiki/Photometric_system
+https://www.mso.anu.edu.au/~bessell/araapaper.pdf
+https://www.cosmos.esa.int/web/gaia/iow_20180316   - Gaia's passbands are broad - G really peaks near 580nm (after the V peak) 
+   nm
+----- 
+U 365
+B 445
+G 464
+V 551
+R 658
+
+Problems with data:
+- Gaia 
+    has its own pass-bands! G, Gbp, Grp. Doesn't use UBV etc
+    G band is closest to V band (and G is slightly redder than V here)
+    coverage for bright stars? might be lacking about 25 stars G<3.0
+- Hipparcos has no radial velocity
+- Hipparcos  has 3 passbands Hp (Hipparcos detector, very broad) and  Bt, Vt (Tycho detector)
+   it includes a V value, which is sometimes calculated, sometimes a real measurement
+in general, radial velocity is usually spotty in catalogues
+
+
+Hipparcos core data:
+https://www.cosmos.esa.int/documents/532822/553204/sect2_01.pdf/88f60038-085c-4cf0-9de0-42af104e8ae1
+ - no radial velocity, rv-variable flag
+ - no HD, Bayer, Flamsteed, proper name, but has 3 fields for DM
+ - Hp is the Hipparcos detector magnitude;  Bt, Vt are the Tycho detector bands 
+ - V is sometimes a measurement, sometimes calculated (complex); it's not part of the core mission data:
+    "As a result, the field provides an approximate but rather homogeneous indication of the Johnson V magnitude useful, for example,
+    for identification purposes, and for the computation of absolute magnitudes in terms of MV." 
+
+    
+My take: 
+  Drop BSC altogether. Use Hipparcos + something for redshifts (Gaia, SoS) and id's.    
+  Hipparcos has a V to approximate the human eye, Gaia doesn't.
+  Gaia has a Hipparcos cross-match.
+  All Hipparcos columns; filter by V; add rv, rv-variable, and id's.
+  8874 items <= 6.5.
+  Multiple star treatment?
+  Get Bayer and Flamsteed from BSC, using DM to cross-match.
+  VarFlag  *[1,3]? Coarse variability flag            (H6)     
+  Multiples are thorny?
+    AstroRef *[*+A-Z] Reference flag for astrometry    (H10)  A..Z (specific component), * (photocenter), + (center of mass)
+    MultFlag *[CGOVX] Double/Multiple Systems flag     (H59)
+    The thorniness may not matter much for computing proper motion; it's not a problem for the catalog per se.
+OR use Gaia as base, join to Hipparcos for V?
+How do the sources compare?
+    
+Join Hipparcos to Gaia.
+https://www.cosmos.esa.int/web/gaia-users/archive/combine-with-other-data#Sect_combine_precomputed_XM
+https://www.aanda.org/articles/aa/full_html/2019/01/aa34142-18/aa34142-18.html
+  TABLE 8 indicates Tycho-2 is a better match.
+Gaia: under 'cross-match' there is a precomputed cross-match for Hipparcos.
+Forward: gaia -> other
+Backward: other -> gaia
+ x_best_neighbour : best match, force 1 match only; xmFlag is a code that indicates issues
+ x_join,  for N matches, join using 'clean_x_oid'
+ x_original_valid : the other catalog being cross-matched
+ x_neighbourhood (no examples of using this? how big is the neighbourhood?)
+The examples don't match exactly my work flow: my criterion is only on V, which is only present in Hipparcos. 
+  
+Dealing with N>1 matches
+https://www.cosmos.esa.int/web/gaia-users/archive/combine-with-other-data#preXmatch_S2_1.2
+You need to inspect each case manually! Ouch.   
+
+"We here briefly recall that any cross-match algorithm is a trade-off between multiple requisites, and a fraction of
+mismatched and/or missed objects is always present."
+
+"In addition, when the sky is observed at several different epochs or when fields of view overlap, different observations 
+of the same source may not be recognised as such and duplicated entries are introduced in the catalogue."
+
+"Two or more Gaia objects with the same best neighbour are called mates. True mates are objects that are resolved by Gaia, but
+are not resolved by the external survey. For sparse catalogues (such as HIPPARCOS2, Tycho-2, and RAVE 5), where the external 
+catalogue is the leading catalogue, a one-to-one match is forced and mates are not allowed. Additional good neighbours in Gaia 
+for each sparse catalogue source can be found in the Neighbourhood output table."
+HIPPARCOS SHOULD ALWAYS HAVE A ONE-TO-ONE MATCH, I THINK.
+
+"While we expect to find Gaia counterparts for most of the HIPPARCOS2 sources, with the exception of the brightest ones,
+the cross-match results include only about two-thirds of them. This means that according to the adopted cross-match algorithm, 
+only about two-thirds of the HIPPARCOS2 objects have a Gaia counterpart that is compatible within the position errors (i.e. have 
+at least one good neighbour). Hence the HIPPARCOS2 cross-match results clearly show an issue that needs to be investigated."
+OUCH!
+"The cross-match is particularly critical when two catalogues with such small positional uncertainties are combined. The 
+explanation for the one-third of HIPPARCOS2 sources without a Gaia counterpart compatible within position errors seems to 
+reside in non-optimal astrometric solutions for part of the HIPPARCOS2 sources, as a result of astrometric perturbations that 
+are probably caused by multiplicity, variability, and/or peculiarities."
+
+The above is for DR2 (2019). Has this been resolved?????
+https://astronomy.stackexchange.com/questions/35082/what-is-the-overlap-between-the-gaia-and-the-hipparcos-catalog
+https://www.cosmos.esa.int/web/gaia/dr2-known-issues#CrossmatchHipparcos
+There's a workaround with a 1 arcsec cone search.
+
+How exactly to the catalogs deal with multiplicity/resolution?
+See Appendix A of https://www.aanda.org/articles/aa/full_html/2019/01/aa34142-18/aa34142-18.html
+Effective angular resolution (arcsec) is nearly the same:
+Gaia  0.4
+Hipp ~0.3
+Hipparcos is actually a bit more precise in this case.
+Hipparcos is a small (sparse) survey in comparison with other modern (dense) surveys.
+
+
+Gaia -  Photometric relationships with other photometric systems
+DR2 -https://gea.esac.esa.int/archive/documentation/GDR2/Data_processing/chap_cu5pho/sec_cu5pho_calibr/ssec_cu5pho_PhotTransf.html
+Edr3 - Appendix C https://www.aanda.org/articles/aa/full_html/2021/05/aa39587-20/aa39587-20.html
+       the spreads are large
+
+Gaia - EDR3 is the current release.
+https://www.cosmos.esa.int/web/gaia/earlydr3
+https://www.cosmos.esa.int/web/gaia/edr3-papers - the cross-match paper isn't finished yet. Is the issue in DR2 fixed?
+
+
+GSC 2.3 Guide Star Catalog
+http://gsss.stsci.edu/Catalogs/GSC/GSC2/gsc23/gsc23_release_notes.htm
+http://gsss.stsci.edu/webservices/GSC2/GSC2WebForm.aspx
+http://gsss.stsci.edu/Catalogs/GSC/GSC2/GSC2.htm
+https://arxiv.org/pdf/0807.2522.pdf - bandpasses fig 1
+use for bright object protection on the HST (so very likely has no bright limit)
+dense, all sky, V in field 20, variable-flag, multiple-flag, 0.3 arcsec typical error, 0.2-0.25 mag typical error (a bit large)
+used Tycho-2 as input for bright stars
+Is the V field V-photographic?
+photographic plate scanning, data from 1950-1998, in various bands
+Is the Guide Star Photometric Catalog the source of the V?
+
+The brightest star is Sirius.
+Simbad results:  http://simbad.cds.unistra.fr/simbad/sim-id?Ident=alp+CMA&NbIdent=1&Radius=2&Radius.unit=arcmin&submit=submit+id
+Simbad uses for V: http://simbad.cds.unistra.fr/simbad/sim-ref?bibcode=2002yCat.2237....0D
+   Catalogue of Stellar Photometry in Johnson's 11-color system (2002)
+   3945 stars, from various sources, all sky
+   1753 stars with V <=6.5In: Hip, Tycho, BSC, 2MASS (but no V), 
+Not in: GSC.
+
+
+Pulkovo compilation of radial velocities for 35495 stars in a common system. (2006)
+https://simbad.cds.unistra.fr/simbad/sim-ref?bibcode=2006AstL...32..759G
+https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=III/252
+https://ui.adsabs.harvard.edu/abs/2006AstL...32..759G/abstract
+https://arxiv.org/pdf/1606.08053.pdf
+Local spiral arm, Hipparcos objects only!, all sky, "mainly within" 500 pc of the Sun, inputs from 203 publications, weighted means.
+Always includes V, HIP, RV. Exactly what I need. The RV is nearly as precise as Gaia.
+7691 stars V <= 6.5! Pretty good!!!!
+147 stars  V < 3.0   Pretty good!!!
+Includes Deneb, at 1400 ly distance. 500 pc is more than 1500 light years. 
+Median accuracy of the radial velocities obtained is 0.7km/s (Comparable to Gaia is ~0.5km/s)
+Uses the WEB catalog as input, supersedes it.
+https://www.aanda.org/articles/aa/pdf/2019/02/aa33273-18.pdf 
+  "The median radial velocity residuals with respect to the ground-based surveys vary from one 
+  catalogue to another, but do not exceed a few 100 m s−1"
+Radial velocity was never meant to be complete anyway. But this is close!
+
+"The derived radial velocities, together with the Hipparcos three-dimensional
+coordinates, Tycho-2 proper motions, photometry, and data on the duplicity,
+chemical compositions, and ages of stars in the form of OSACA, are already
+used in kinematic studies."
+- HMMM. Hip for position, Tycho-2 for proper motion? Is Tycho-2 better than Hipparcos for proper motion? Yes, I think so,
+because it went back and compared with really old catalogs.
+
+HIP: position, V
+Tycho-2: proper motion (100 years of data)
+PCRV: radial velocity 
+parallax? HIP?
+flags?
+
+"State of the Field: Extreme Precision Radial Velocities" 2016
+Target of 10 cm/s! 0.0001 km/s! Three more orders of magnitude!
+2016 current single measurement precision as low as 80 cm/s! 
+https://tf.nist.gov/general/pdf/2839.pdf
+
+CAN TYCHO-2 BE USED? gOOD JOINS TO GAIA?
+
+
+Comparing RV values with SIMBAD.
+The first record is off. The others seem fine.
+    88  00_01_04.5982692  -48_48_35.492919  0.0046977187  -0.8518927495    5.50   -18.36    -5.82     8.0   0.26   0.29   0.48   0.46   0.38  0.7  5.71          G8III  0.911              224834 9081   τ Phe                        BHHAAAAACAAAAACB_BB__BEE__ 
+                                                                                                     14.70  gaia
+   107  00_01_20.1124271  -50_20_14.636969  0.0058259401  -0.8785533522    6.01     7.88    11.40     2.3   0.21   0.20   0.32   0.25   0.24  0.9  5.53 1        M2III  1.615              224865 9082                                BHHAAAAACAAAAACBBBB__BE___ 
+                                                                                                       IDEM
+   122  00_01_35.8509144  -77_03_55.059964  0.0069704752  -1.3450431269   15.02   -57.30  -177.06    22.6   0.16   0.14   0.18   0.19   0.15  0.6  4.78          K2III  1.254              224889 9084   θ Oct                        BHHAAAAACAAAAACB_BB__BEE__ 
+                                                                                                      22.48 [0.17] gaia
+   124  00_01_37.0188697   61_13_22.094049  0.0070554113   1.0685395054    1.06    -3.14    -0.74   -25.1   0.20   0.19   0.27   0.26   0.21  2.0  5.58          F0III  0.407              224893 9085                                BHHAAAAACAAAAACB_BB__BE___ 
+                                                                                                    -23.2  GC
+   145  00_01_49.4373806  -03_01_38.924939  0.0079585109  -0.0528394792    7.18    19.08    -9.66    23.0   0.28   0.17   0.30   0.32   0.16  4.2  5.13       B7III-IV -0.128              224926 9087          29 Psc                BHHAAAAACAAAAACB_BB__BE_E_ 
+                                                                                                       idem
+   154  00_01_57.5915839  -06_00_50.297215  0.0085515013  -0.1049636029    7.55    48.39   -40.94   -11.7   0.61   0.30   0.59   0.95   0.57  0.5  4.37 2        M3III  1.631              224935 9089          30 Psc                BHHAAAAACAAAAACBBBB__BE_E_ 
+                                                                                                       idem
+   171  00_02_09.6452495   27_05_04.161025  0.0094280686   0.4727135123   82.17   780.22  -917.75   -36.4   1.85   1.26   2.23   2.01   1.20  0.4  5.80            G3V  0.690              224930 9088          85 Peg                BHHAAAAACAAAAACB_BB__BE_E_ 
+                                                                                                    -36.22 [0.03]
+   183  00_02_19.9140797  -29_43_13.614168  0.0101748390  -0.5187196794    6.49     9.34    14.50     8.6   0.20   0.12   0.25   0.29   0.15  1.6  5.04            B4V -0.150              224990 9091   ζ Scl                        BHHAAAAACAAAAACB_BB__BEE__ 
+                                                                                                       idem
+   194  00_02_29.7574157   08_29_08.082237  0.0108906666   0.1481012820   27.10   -94.10   -47.42     9.2   0.28   0.19   0.35   0.34   0.21  0.7  5.70            F0V  0.315              225003 9093          32 Psc                BHHAAAAACAAAAACB_BB__BE_E_ 
+                                                                                                       idem
+   207  00_02_36.0825137   66_05_56.264365  0.0113506407   1.1536445247    0.73     5.83    -2.30   -16.9   1.23   1.07   1.46   1.66   1.32  0.4  5.87          G8III  1.073 C 00026+6606 225009 9094                                BHHAAAAACAAAAACB_BBBBBE___ 
+                                                                                                    -16.81 [0.12] gaia dr2
+   301  00_03_44.3724608  -17_20_09.491788  0.0163168258  -0.3025697545   11.98    25.17    -9.16     8.0   0.24   0.10   0.26   0.27   0.11  4.6  4.55          B9IVn -0.047              225132 9098           2 Cet                BHHAAAAACAAAAACB_BB__BE_E_ 
+                                                                                                       idem
+   330  00_04_13.6636983   62_17_15.592839  0.0184469447   1.0871248320    0.84    -1.32     0.14   -16.9   0.23   0.25   0.32   0.27   0.29  1.9  5.90          A1III  0.274              225180 9100           9 Cas                BHHAAAAACAAAAACB_BB__BE_E_ 
+                                                                                                       idem
+   343  00_04_19.7615034  -16_31_44.003154  0.0188903896  -0.2884835481   11.03    47.64   -61.36   -26.9   0.37   0.20   0.45   0.64   0.22  2.9  5.78          K0III  1.084              225197 9101                                BHHAAAAACAAAAACB_BB__BE___ 
+                                                                                                     25.95 [0.13] gaia dr2
+   355  00_04_30.1223372  -10_30_34.179716  0.0196438507  -0.1834252794    1.56    -6.85   -12.02   -41.8   0.22   0.14   0.31   0.39   0.16  0.5  4.99 1      K3Ibvar  1.619              225212 9103           3 Cet                BHHAAAAACAAAAACBBBB__BE_E_ 
+                                                                                                    -42.10 [0.33] gaia dr2
+
+                                       
+                                                                                                    T
+CDS video https://www.youtube.com/watch?v=wfL11zhj-sA
+                                                             
+Topcat:                                                                                                    
+http://www.star.bris.ac.uk/~mbt/topcat/
