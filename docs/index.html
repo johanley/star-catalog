@@ -31,9 +31,9 @@ published lists of objects, as well as most very large surveys. The idea now is 
 complementary research tools."</em>
 (It seems like this advice is not strictly followed by many people.)
 
-<P>"It is to be noted that for a double system in which the components can be observed separately, Simbad frequently
+<P><em>"It is to be noted that for a double system in which the components can be observed separately, Simbad frequently
     includes three entries: A and B components, and an additional entry for the joint system (AB), the latter entry
-    carrying the observational data and references related to the system as a whole."
+    carrying the observational data and references related to the system as a whole."</em>
  
 
 
@@ -46,7 +46,7 @@ Take the <em>Hipparcos</em> mission as an example.
 Its detectors have certain custom bandpasses - Hp for <em>Hipparcos</em>, Bt and Vt for the <em>Tycho</em> instrument on board the same spacecraft.
 Those detectors are very sensitive, and can measure millimags. 
 These bandpasses aren't the same as the UBV system (also known as Johnson, or Johnson-Morgan, which dates from the 1950s). 
-Conversion formulas can be derived, but you need to understand that they are only approximate, and never as precise as its inputs.
+Conversion formulas can be derived, but you need to understand that they are only approximate, and never quite as precise as the inputs.
 The loss of precision will vary according to the formula used. 
 Here's an 
 <a href='https://www.researchgate.net/publication/234348386_A_reliable_transformation_of_HIPPARCOS_H_p_magnitudes_into_Johnson_V_and_B_magnitudes'>example</a> 
@@ -59,12 +59,8 @@ Vmag is to 2 decimal places, while Hp is to 4 decimal places.
 The values for the native bandpasses are much more precise. 
 Casual users of the catalog can be completely unaware of the significant decrease in precision for such calculated fields.
 
-<P>"Conversely, for large photometric surveys it is best to use the system in which the observations were
-made without converting to a standard system (i.e. define a new system), and publish colour corrections
-to common systems if desired (<a href='https://www.roe.ac.uk/ifa/postgrad/pedagogy/2008_phillips.pdf'>link</a>)."
-
 <P>Useful to note: 
-"It is usually the colours of an object that are of astrophysical interest rather than the observed magnitudes themselves (<a href='https://www.roe.ac.uk/ifa/postgrad/pedagogy/2008_phillips.pdf'>ref</a>)."
+<em>"It is usually the colours of an object that are of astrophysical interest rather than the observed magnitudes themselves</em> (<a href='https://www.roe.ac.uk/ifa/postgrad/pedagogy/2008_phillips.pdf'>ref</a>)."
 
 
 
@@ -88,13 +84,13 @@ For example, see the documentation for the  Hipparcos catalog.
 <P>When a system is treated as being a single entry, then the issue arises of how to characterise the brightness.
 There is a <a href='https://en.wikipedia.org/wiki/Apparent_magnitude#Magnitude_addition'>formula</a> for computing the magnitude of a double star from the magnitude of its components.
 
-<P>The radial velocity must be explicitly attached to either a component of the system, or to its barycenter, otherwise you don't know 
+<P>The radial velocity should be explicitly attached to either a component of the system, or to its barycenter, otherwise you don't know 
 what the radial velocity refers to.
 
 
 
 <h3>Cross-match Issues</h3>
-When you attempt to amalgamate the data across two catalogs, you need a way to cross-match records. 
+When you attempt to amalgamate data across two catalogs, you need a way to cross-match records. 
 That is preferably done using an identifier that they have in common.
 
 <P>When you try to link one catalog to another, it's extremely likely that the join will not match 100% of the time.
@@ -109,12 +105,13 @@ When you gather data from multiple sources, it's beneficial to keep track of the
 <P>One method of doing this might be to define a conventional ordered string of text, that matches 
 the order of fields in the catalog. 
 The text would use codes that identify the provenance of each field, in sequence.
+(This technique is used in this project.)
 
 
 <h2>Yale Bright Star Catalog (BSC)</h2>
 
 <ul>
- <li><a href='https://cdsarc.cds.unistra.fr/viz-bin/cat/V/50'>VizieR link</a> to the most recent revision.
+ <li><a href='https://cdsarc.cds.unistra.fr/viz-bin/cat/V/50'>VizieR link</a> to the most recent revision (r5)
  <li>it was originally based on <a href='https://ui.adsabs.harvard.edu/abs/1908AnHar..50....1P/abstract'>Harvard Revised photometry</a>, 1879-1906.
  <li>the 4th revision had a <a href='https://cdsarc.cds.unistra.fr/viz-bin/cat/V/36B'>supplement</a> published. See 
  its <a href='https://cdsarc.cds.unistra.fr/ftp/V/36B/'>intro.doc</a> for the reasons for its creation.
@@ -125,15 +122,15 @@ The text would use codes that identify the provenance of each field, in sequence
 Issues:
 <ul>
  <li>it contains 14 unusual objects that really shouldn't be there
- <li>in the past, there's been a policy of only allowing objects that were in previous versions of the catalog, with no new objects allowed.
- I don't know what the justification is for this policy.
+ <li>in the past, there has been a policy of only allowing objects that were in previous versions of the catalog, with no new objects allowed.
+ This policy seems undesirable.
  <li>it has over 600 items with Vmag greater than its stated cutoff of 6.5. As 
  explained in the <a href='https://cdsarc.cds.unistra.fr/ftp/V/36B/'>intro.doc</a> of the supplement, 
- this is because of bandpass issues, Johnson V versus <A HREF='https://ui.adsabs.harvard.edu/abs/1908AnHar..50....1P/abstract'>Harvard Revised (HR)</A> photometry (1879-1906).
+ this is because of bandpass issues, that is of differences between Johnson V and the <A HREF='https://ui.adsabs.harvard.edu/abs/1908AnHar..50....1P/abstract'>Harvard Revised (HR)</A> photometry (1879-1906).
  See chart below.
  <li>its positions are only to the nearest arcsecond. Modern catalogs have positions to milliarcsecond or better.
- <li>most parallax values are missinge
- <li>the documentation for the latest revision 5 state that it is a preliminary release, but no final release was ever made.
+ <li>most parallax values are missing
+ <li>the documentation for the latest revision 5 states that it is a preliminary release, but no final release was ever made.
  <li>the BSC revision 4 has a supplement published, but that supplement was not released for revision 5.
  <li>its Vmag field has data from 3 different sources. Usually it's V (in the UBV system), but sometimes it's Harvard Revised photometry (HR), or even a calculated V using HR as source.
  <li>it lacks uncertainties for the core astrometric quantities.
@@ -148,7 +145,7 @@ It included 695 HR stars with magnitudes fainter than 6.5V on the UBV photometri
 modern compilations...are not included in the HR."</em>
 
 <P>The mapping between Harvard Revised Photometry (HR) v and Johnson V magnitudes is shown graphically in the supplement to the 4th ed.:
-<P><img src='johnson-vs-hr.jpg' alt='Johnson versus HR magnitudes'> 
+<P><img src='johnson-vs-hr.jpg' alt='Johnson versus HR magnitudes' width='300'> 
 
 <P><em>"Inevitably many gaps still remain in the tabulated materials.... Despite the vast accumulation of new data it is perhaps astonishing, 
 and somewhat depressing, to note the large numbers of omissions of photoelectric magnitudes and colors, MK specrtral classes, and radial 
