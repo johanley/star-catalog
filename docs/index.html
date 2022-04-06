@@ -15,6 +15,19 @@
 
 The source code for this project is <a href='https://github.com/johanley/star-catalog'>here</a>.
 
+<h2>Download Catalogs</h2>
+ In order to run the code in this project, you need to tell the program where to find catalog files. 
+ You do that by setting an argument called <em>project-root</em> on the command line, which points to 
+ the root of this project on your system:
+ 
+ <P><pre>-Dproject-root=C:\blah\star-catalog</pre>
+
+ <P>You also <b>need to download the catalog files</b> from VizieR. 
+ They aren't included in this project.
+ For details, see the <em>catalogs/input</em> directory. 
+ Each catalog has a <em>SOURCE.utf8</em> file with a link to the VizieR catalog, and the name of the missing file
+ that you need to download.
+
 
 <P>This project is about creating a custom star catalog out of existing star catalogs, using the Java programming language.
 It grew out of a desire to create a replacement for the Yale Bright Star Catalog, revision 5 (1991).
