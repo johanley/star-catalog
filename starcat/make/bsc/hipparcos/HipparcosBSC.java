@@ -254,6 +254,8 @@ public final class HipparcosBSC {
    This implementation uses data from the Yale Bright Star Catalog.
   */
   void identifiers() {
+    log("Adding designations, using the Yale BSC: " + Identifier.BAYER + ", " + Identifier.FLAMSTEED + ", "+ Identifier.HR);
+    log(" The HD identifier (Henry Draper) is used as an intermediate between Hipparcos and the Yale BSC.");
     addDesignationFromBSC(Identifier.BAYER);
     addDesignationFromBSC(Identifier.FLAMSTEED);
     addDesignationFromBSC(Identifier.HR);
@@ -429,7 +431,6 @@ public final class HipparcosBSC {
  
   /** Uses the HD designation as intermediate. */
   private void addDesignationFromBSC(Identifier ident) {
-    log("Adding " + ident + " designation.");
     Map<String/*hd*/, String/*ident*/> table = new LinkedHashMap<>();
     for(Star s : bsc) {
       String hd = s.IDENTIFIERS.get(Identifier.HD);
@@ -440,7 +441,7 @@ public final class HipparcosBSC {
         }
       }
     }
-    log(" Found " + table.keySet().size() + " HD+" + ident + " designations in BSC.");
+    //log(" Found " + table.keySet().size() + " HD+" + ident + " designations in BSC.");
 
     int success = 0;
     for(GeneratedRecord record : records) {
@@ -453,7 +454,7 @@ public final class HipparcosBSC {
         }
       }
     }
-    log(" " + ident + " designation found in BSC catalog: " + success);
+    log(" Number of " + ident + " designations found in the Yale BSC: " + success);
   }
   
   /** 

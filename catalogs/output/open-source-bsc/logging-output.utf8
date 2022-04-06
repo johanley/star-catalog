@@ -19,15 +19,11 @@ Found this many HIP_HDs that occur more than once in BF (which won't be used her
   No RV found in primary RV catalog: 577
   No RV found in secondary RV catalog: 16
   No RV found (16):[20070, 26063, 26727, 28614, 28691, 32810, 40834, 45585, 55203, 71681, 77990, 84709, 90441, 104371, 104887, 115125]
-Adding BAYER designation.
- Found 1564 HD+BAYER designations in BSC.
- BAYER designation found in BSC catalog: 1451
-Adding FLAMSTEED designation.
- Found 2554 HD+FLAMSTEED designations in BSC.
- FLAMSTEED designation found in BSC catalog: 2167
-Adding HR designation.
- Found 9096 HD+HR designations in BSC.
- HR designation found in BSC catalog: 5039
+Adding designations, using the Yale BSC: BAYER, FLAMSTEED, HR
+ The HD identifier (Henry Draper) is used as an intermediate between Hipparcos and the Yale BSC.
+ Number of BAYER designations found in the Yale BSC: 1451
+ Number of FLAMSTEED designations found in the Yale BSC: 2167
+ Number of HR designations found in the Yale BSC: 5039
 Processed star names for this many constellations: 78
 Added this many proper names to stars: 108 Max length: 14 Zubeneschamali
 SIMBAD backfill of parallax, pm, and errors for: 55203
