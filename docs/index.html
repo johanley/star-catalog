@@ -15,6 +15,10 @@
 
 The source code for this project is <a href='https://github.com/johanley/star-catalog'>here</a>.
 
+<P>This project is about creating a custom star catalog out of existing star catalogs, using the Java programming language.
+It grew out of a desire to create a replacement for the Yale Bright Star Catalog, revision 5 (1991).
+
+
 <h2>Download Catalogs</h2>
  In order to run the code in this project, you need to tell the program where to find catalog files. 
  You do that by setting an argument called <em>project-root</em> on the command line, which points to 
@@ -22,21 +26,18 @@ The source code for this project is <a href='https://github.com/johanley/star-ca
  
  <P><pre>-Dproject-root=C:\blah\star-catalog</pre>
 
- <P>You also <b>need to download the catalog files</b> from VizieR. 
+ <P>You also <b>need to download the catalog files</b> from <a href='https://doi.org/10.26093/cds/vizier'>VizieR</a>. 
  They aren't included in this project.
  For details, see the <em>catalogs/input</em> directory. 
  Each catalog has a <em>SOURCE.utf8</em> file with a link to the VizieR catalog, and the name of the missing file
  that you need to download.
 
 
-<P>This project is about creating a custom star catalog out of existing star catalogs, using the Java programming language.
-It grew out of a desire to create a replacement for the Yale Bright Star Catalog, revision 5 (1991).
-
 <h2>Sources of Data</h2>
 Almost all data is taken from the <a href='https://cds.u-strasbg.fr/'>Centre de Données astronomiques de Strasbourg</a> (CDS), in France.
 Among the tools at the CDS are:
 <ul>
- <li><a href='https://vizier.cds.unistra.fr/viz-bin/VizieR'>VizieR</a> - a compendium of catalogs used by professional astronomers (VizieR service DOI: <a href='https://doi.org/10.26093/cds/vizier'>10.26093/cds/vizier</a>)
+ <li><a href='https://doi.org/10.26093/cds/vizier'>VizieR</a> - a compendium of catalogs used by professional astronomers.
  <li><a href='https://simbad.cds.unistra.fr/simbad/'>SIMBAD</a> - a cross-reference tool, mapping from specific objects to various catalogs and underlying papers and bibilographies. 
  <a href='https://aas.aanda.org/articles/aas/pdf/2000/07/ds1821.pdf'>Description</a> of SIMBAD (as of 2000).
 </ul>
