@@ -321,11 +321,15 @@ public final class HipparcosBSC {
    Run this as a developer tool, not when the catalog is actually generated. 
   */
   private void commonality() {
+    List<Star> bscFiltered = StarTool.filterByMagLTEQ(Consts.MAGNITUDE_LIMIT, Bandpass.V, bsc);
+    StarTool.logIdsNotInCommon(bscFiltered, brightStars, Identifier.HD, "BSC mag <=" + Consts.MAGNITUDE_LIMIT, "Hipparcos mag <= " + Consts.MAGNITUDE_LIMIT);
+    /*
     StarTool.logIdsNotInCommon(bsc, new HipparcosCatalog().records(), Identifier.HD, "BSC", "Hipparcos (full)");
     StarTool.logIdsNotInCommon(bsc, brightStars, Identifier.HD, "BSC", "Hipparcos mag <= " + Consts.MAGNITUDE_LIMIT);
     StarTool.logIdsNotInCommon(pulkovo, brightStars, Identifier.HIP, "Pulkovo", "Hipparcos mag <= " + Consts.MAGNITUDE_LIMIT);
     StarTool.logIdsNotInCommon(bf, brightStars, Identifier.HIP, "BF", "Hipparcos mag <= " + Consts.MAGNITUDE_LIMIT);
     StarTool.logIdsNotInCommon(hip2, brightStars, Identifier.HIP, "HIP-2", "Hipparcos mag <= " + Consts.MAGNITUDE_LIMIT);
+    */
     /*
     Set<String> ids = StarTool.onlyInFirst(bsc, brightStars, Identifier.HD);
     for(String id : ids) {
