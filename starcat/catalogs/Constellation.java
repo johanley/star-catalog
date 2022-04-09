@@ -35,9 +35,6 @@ public final class Constellation {
    1875.0 (which I assume is Jan 1.5 1875, Julian Date 2405890.0), and compare that position
    with the boundary definitions (which are defined using 1875.0), to determine the corresponding constellation.
    
-   <P>Statements that <em>star X is no longer in constellation Y, because of precession</em> misunderstand the algorithm.
-   The boundaries don't move over the sky, over time. They are attached to the epoch of 1875.0.
-   
    @param raJ2000 in radians
    @param decJ2000 in radians
   */
