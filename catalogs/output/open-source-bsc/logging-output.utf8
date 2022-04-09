@@ -45,6 +45,8 @@ SIMBAD backfill of radial velocity for: 90441
 SIMBAD backfill of radial velocity for: 104371
 SIMBAD backfill of radial velocity for: 104887
 SIMBAD backfill of radial velocity for: 115125
+Calculating constellation, corresponding to position as of 1875.0 (Delporte). 
+Processed many entries for constellation boundaries: 357
 Summary stats for constructed catalog.
  Num records: 5044
  No RA: 0
@@ -55,8 +57,10 @@ Summary stats for constructed catalog.
  No rv: 0
  No Vmag: 0
  No spectral type: 0
- No B-V: 2
+ No B-V: 2 [26220, 32609]
  No HR: 5
+ Mismatch of Bayer Id vs. constellation : 0
+ Mismatch of Flamsteed Id vs. constellation : 0
  With variable flag: 1295
  With multiplicity flag: 650
  With proper name: 108
