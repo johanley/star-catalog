@@ -31,6 +31,9 @@ public enum Identifier {
   CCDM,
   
   /** Smithsonian Astrophysical Observatory. */
-  SAO;
+  SAO, 
+  
+  /** The constellation to which a star belongs. Not a unique identifier, but it's convenient for this program to treat it as such. */
+  CONSTELLATION;
 
 }

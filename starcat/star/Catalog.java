@@ -31,7 +31,13 @@ public enum Catalog {
    A listing of star names, internal to this project. 
    Not a real catalog, but it's useful to treat it as such. 
   */
-  STAR_PROPER_NAMES("star-names", "proper-names.utf8");
+  STAR_PROPER_NAMES("star-names", "proper-names.utf8"), 
+  
+  /**
+   The Delporte constellation boundaries, defined for epoch 1875.0.
+   Not really a catalog, but it's useful to treat it as such. 
+  */
+  CONSTELLATION_BOUNDARIES("constellation-boundaries", "data.dat");
   
   /** Location of the catalog's files. */
   public String directory() {

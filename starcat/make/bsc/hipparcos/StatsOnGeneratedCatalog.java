@@ -2,6 +2,7 @@ package starcat.make.bsc.hipparcos;
 
 import static starcat.util.LogUtil.log;
 
+import java.util.ArrayList;
 import java.util.List;
 
 import starcat.star.Bandpass;
@@ -27,9 +28,12 @@ public final class StatsOnGeneratedCatalog {
     int multiple = 0;
     int spec = 0;
     int color = 0;
+    List<String> noColor = new ArrayList<>();
     int hr = 0;
     int properName = 0;
     int brighter = 0;
+    int bayerMismatchConstellation = 0;
+    int flamsteedMismatchConstellation = 0;
     for(GeneratedRecord r : records) {
       if(Util.isBlank(r.STAR.RA)) ++ra;
       if(Util.isBlank(r.STAR.DEC)) ++dec;
@@ -39,13 +43,33 @@ public final class StatsOnGeneratedCatalog {
       if(Util.isBlank(r.STAR.RADIAL_VELOCITY)) ++rv;
       if(Util.isBlank(r.STAR.MAGNITUDES.get(Bandpass.V))) ++vmag;
       if(Util.isBlank(r.STAR.SPECTRAL_TYPE)) ++spec;
-      if(Util.isBlank(r.STAR.COLOR_INDICES.get(ColorIndex.B_MINUS_V))) ++color;
+      if(Util.isBlank(r.STAR.COLOR_INDICES.get(ColorIndex.B_MINUS_V))) {
+        ++color;
+        noColor.add(r.STAR.IDENTIFIERS.get(Identifier.HIP));
+      }
       if(Util.isBlank(r.STAR.IDENTIFIERS.get(Identifier.HR))) ++hr;
       if(Util.isPresent(r.STAR.FLAGS.get(Flag.VARIABILITY))) ++var;
       if(Util.isPresent(r.STAR.FLAGS.get(Flag.MULTIPLICITY))) ++multiple;
       if(Util.isPresent(r.STAR.IDENTIFIERS.get(Identifier.PROPER_NAME))) ++properName;
       double v = Double.valueOf(r.STAR.MAGNITUDES.get(Bandpass.V));
-      if (v < 3.0) ++brighter;   
+      if (v < 3.0) ++brighter;
+      
+      if(Util.isPresent(r.STAR.IDENTIFIERS.get(Identifier.BAYER))) {
+        String bayer = r.STAR.IDENTIFIERS.get(Identifier.BAYER);
+        String bayerConstell = bayer.split(" ")[1];
+        String constell = r.STAR.IDENTIFIERS.get(Identifier.CONSTELLATION);
+        if (!constell.equals(bayerConstell)) {
+          ++bayerMismatchConstellation;
+        }
+      }
+      if(Util.isPresent(r.STAR.IDENTIFIERS.get(Identifier.FLAMSTEED))) {
+        String flamsteed = r.STAR.IDENTIFIERS.get(Identifier.FLAMSTEED);
+        String flamsteedConstell = flamsteed.split(" ")[1];
+        String constell = r.STAR.IDENTIFIERS.get(Identifier.CONSTELLATION);
+        if (!constell.equals(flamsteedConstell)) {
+          ++flamsteedMismatchConstellation;
+        }
+      }
     }
     log(" No RA: " + ra);
     log(" No DEC: " + dec);
@@ -55,8 +79,10 @@ public final class StatsOnGeneratedCatalog {
     log(" No rv: " + rv);
     log(" No Vmag: " + vmag);
     log(" No spectral type: " + spec);
-    log(" No B-V: " + color);
+    log(" No B-V: " + color + " " + noColor);
     log(" No HR: " + hr);
+    log(" Mismatch of Bayer Id vs. constellation : " + bayerMismatchConstellation);
+    log(" Mismatch of Flamsteed Id vs. constellation : " + flamsteedMismatchConstellation);
     log(" With variable flag: " + var);
     log(" With multiplicity flag: " + multiple);
     log(" With proper name: " + properName);

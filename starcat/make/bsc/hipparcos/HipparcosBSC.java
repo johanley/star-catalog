@@ -16,6 +16,7 @@ import java.util.Map;
 import java.util.Optional;
 
 import starcat.catalogs.BrightStarCatalog;
+import starcat.catalogs.Constellation;
 import starcat.catalogs.GeneralCatalogOfMeanRV;
 import starcat.catalogs.Hipparcos2Catalog;
 import starcat.catalogs.HipparcosCatalog;
@@ -97,6 +98,7 @@ public final class HipparcosBSC {
     backfillMissingDataFromSimbad();
     provenanceForIdentifiers();
     provenanceForSpectraEtc();
+    constellation();
     showStats();
     return records;
   }
@@ -140,16 +142,17 @@ public final class HipparcosBSC {
     builder.append(field(star.COLOR_INDICES.get(ColorIndex.B_MINUS_V), 6)); 
     builder.append(field(star.FLAGS.get(Flag.MULTIPLICITY), 1));
     
-    //21-26: identifiers
+    //21-27: identifiers
     builder.append(field(star.IDENTIFIERS.get(Identifier.CCDM), 10)); 
     builder.append(field(star.IDENTIFIERS.get(Identifier.HD), 6)); 
     builder.append(field(star.IDENTIFIERS.get(Identifier.HR), 4)); 
     builder.append(field(star.IDENTIFIERS.get(Identifier.BAYER), 7));
     builder.append(field(star.IDENTIFIERS.get(Identifier.FLAMSTEED), 7)); 
     builder.append(field(star.IDENTIFIERS.get(Identifier.PROPER_NAME), maxLengthProperName));
+    builder.append(field(star.IDENTIFIERS.get(Identifier.CONSTELLATION), 3));
 
-    //27: provenance string for all fields (except for provenance itself, of course)
-    builder.append(field(provenance.toString(), 26));
+    //28: provenance string for all fields (except for the provenance itself, of course)
+    builder.append(field(provenance.toString(), 27));
     
     return builder.toString(); 
   }
@@ -520,6 +523,21 @@ public final class HipparcosBSC {
         log("SIMBAD backfill of radial velocity for: " + hip);
         break;
       }
+    }
+  }
+  
+  private void constellation() {
+    log("Calculating constellation, corresponding to position as of 1875.0 (Delporte). ");
+    Constellation constellation = new Constellation();
+    for(GeneratedRecord r : records) {
+      String ra = r.STAR.RA;
+      String dec = r.STAR.DEC;
+      String constell = constellation.constellationFor(ra, dec);
+      if (Util.isBlank(constell)) {
+        log("No constellation found for HIP " + r.STAR.IDENTIFIERS.get(Identifier.HIP));
+      }
+      r.STAR.IDENTIFIERS.put(Identifier.CONSTELLATION, constell);
+      r.PROVENANCE.put(27, Source.Calculated); 
     }
   }
   
