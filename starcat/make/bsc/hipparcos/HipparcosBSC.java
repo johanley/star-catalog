@@ -11,9 +11,11 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.LinkedHashMap;
+import java.util.LinkedHashSet;
 import java.util.List;
 import java.util.Map;
 import java.util.Optional;
+import java.util.Set;
 
 import starcat.catalogs.BrightStarCatalog;
 import starcat.catalogs.Constellation;
@@ -133,7 +135,7 @@ public final class HipparcosBSC {
     builder.append(field(star.ERRORS.get(Error.PARALLAX), 6)); 
     builder.append(field(star.ERRORS.get(Error.PROPER_MOTION_RA), 6)); 
     builder.append(field(star.ERRORS.get(Error.PROPER_MOTION_DEC), 6)); 
-    builder.append(field(star.ERRORS.get(Error.RADIAL_VELOCITY), 4)); 
+    builder.append(field(star.ERRORS.get(Error.RADIAL_VELOCITY), 5)); 
     
     //16-20: flags
     builder.append(field(star.MAGNITUDES.get(Bandpass.V), 5)); 
@@ -574,12 +576,18 @@ public final class HipparcosBSC {
   
   private void writeTextFile(String fileName, List<String> lines) throws IOException {
     Path path = Paths.get(fileName);
+    Set<Integer> lineLengths = new LinkedHashSet<>();
     try (BufferedWriter writer = Files.newBufferedWriter(path, Consts.ENCODING)){
       for(String line : lines){
+        lineLengths.add(line.length());
+        if (line.length() > 263) {
+          log("Too long: " + line);
+        }
         writer.write(line);
         writer.newLine();
       }
     }
+    log("Line lengths: " + lineLengths);
   }
   
   private void updateUncertainty(Error uncertainty, GeneratedRecord r, Optional<Star> hip2Star) {
