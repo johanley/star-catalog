@@ -3,7 +3,9 @@ package starcat.make.bsc.hipparcos;
 import static starcat.util.LogUtil.log;
 
 import java.util.ArrayList;
+import java.util.LinkedHashSet;
 import java.util.List;
+import java.util.Set;
 
 import starcat.star.Bandpass;
 import starcat.star.ColorIndex;
@@ -87,5 +89,40 @@ public final class StatsOnGeneratedCatalog {
     log(" With multiplicity flag: " + multiple);
     log(" With proper name: " + properName);
     log(" With Vmag < 3.0: " + brighter);
+    repeatedIdentifiers(records);
+  }
+  
+  private void repeatedIdentifiers(List<GeneratedRecord> records) {
+    log(" Search for repeated identifiers.");
+    repeatedIdentifier(Identifier.HIP, records);
+    repeatedIdentifier(Identifier.HD, records);
+    repeatedIdentifier(Identifier.HR, records);
+    repeatedIdentifier(Identifier.BAYER, records);
+    repeatedIdentifier(Identifier.FLAMSTEED, records);
+  }
+  
+  private void repeatedIdentifier(Identifier ident, List<GeneratedRecord> records) {
+    List<String> all = new ArrayList<>();
+    Set<String> uniques = new LinkedHashSet<>();
+    for(GeneratedRecord r : records) {
+      String id = r.STAR.IDENTIFIERS.get(ident);
+      if (Util.isPresent(id)) {
+        all.add(id);
+        uniques.add(id);
+      }
+    }
+    log("  " + ident + ": num present = " + all.size() + ", num unique = " + uniques.size());
+    
+    if (all.size() > uniques.size()) {
+      Set<String> uniq = new LinkedHashSet<>();
+      List<String> repeated = new ArrayList<>();
+      for(String id : all) {
+        boolean isRepeated = !uniq.add(id);
+        if (isRepeated) {
+          repeated.add(id);
+        }
+      }
+      log("   Repeats: " + repeated);
+    }
   }
 }

@@ -65,6 +65,14 @@ Summary stats for constructed catalog.
  With multiplicity flag: 650
  With proper name: 108
  With Vmag < 3.0: 172
+ Search for repeated identifiers.
+  HIP: num present = 5044, num unique = 5044
+  HD: num present = 5042, num unique = 5042
+  HR: num present = 5039, num unique = 5039
+  BAYER: num present = 1451, num unique = 1448
+   Repeats: [ψ1 Psc, θ1 Ori, ψ1 Dra]
+  FLAMSTEED: num present = 2167, num unique = 2158
+   Repeats: [74 Psc, 41 Ori, 12 CVn, 8 Sco, 31 Dra, 100 Her, 63 Ser, 6 Cyg, 12 Del]
 Line lengths: [263]
 Catalog file is now written: C:\johanley\ProjectsPhoton\star-catalog\catalogs\output\open-source-bsc\os-bright-star-catalog-hip.utf8
 Done.
