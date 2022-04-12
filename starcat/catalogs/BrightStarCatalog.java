@@ -11,8 +11,12 @@ import static starcat.star.Identifier.HD;
 import static starcat.star.Identifier.HR;
 import static starcat.util.LogUtil.log;
 
+import java.util.ArrayList;
+import java.util.LinkedHashSet;
 import java.util.List;
+import java.util.Set;
 
+import starcat.make.bsc.hipparcos.GeneratedRecord;
 import starcat.star.Bandpass;
 import starcat.star.Identifier;
 import starcat.star.Star;
@@ -145,10 +149,37 @@ public final class BrightStarCatalog implements CoreCatalog {
     log("  Variable V (or suspected): " + countVariableMag);
     log("  Binary or multiple: " + countMultiple);
     log("  V > 6.5: " + countFaint);
+    repeatedIdentifier(Identifier.HD, stars);
   }
   
   // PRIVATE
 
   private Parser p = new Parser();
-
+  
+  private void repeatedIdentifier(Identifier ident, List<Star> stars) {
+    List<String> all = new ArrayList<>();
+    Set<String> uniques = new LinkedHashSet<>();
+    for(Star star : stars) {
+      String id = star.IDENTIFIERS.get(ident);
+      if (Util.isPresent(id)) {
+        all.add(id);
+        uniques.add(id);
+      }
+    }
+    log("  " + ident + ": num present = " + all.size() + ", num unique = " + uniques.size());
+    
+    if (all.size() > uniques.size()) {
+      Set<String> uniq = new LinkedHashSet<>();
+      List<String> repeated = new ArrayList<>();
+      for(String id : all) {
+        boolean isRepeated = !uniq.add(id);
+        if (isRepeated) {
+          repeated.add(id);
+        }
+      }
+      log("   Repeats: " + repeated);
+    }
+  }
+  
+  
 }

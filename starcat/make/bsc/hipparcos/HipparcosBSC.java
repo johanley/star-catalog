@@ -257,6 +257,8 @@ public final class HipparcosBSC {
    Supplement with the Bayer, Flamsteed, and HR designations, when known.
    Use the HD identifier as an intermediate. 
    This implementation uses data from the Yale Bright Star Catalog.
+   Note that HD is missing from 14 records in the Yale Bright Star Catalog, and no HD identifiers are repeated.
+   (If the HD was repeated, then it wouldn't be a robust cross-matching tool.)
   */
   void identifiers() {
     log("Adding designations, using the Yale BSC: " + Identifier.BAYER + ", " + Identifier.FLAMSTEED + ", "+ Identifier.HR);
