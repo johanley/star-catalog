@@ -46,7 +46,7 @@ public final class DataFileReader {
   private static String directory(Catalog catalog, String inout, String filename) {
     String rootDir = System.getProperty("project-root");
     if (Util.isBlank(rootDir)) {
-      throw new RuntimeException("You must see a System property named 'project-root', and point it to the root directory of this project.");
+      throw new RuntimeException("You must set a System property named 'project-root', and point it to the root directory of this project.");
     }
     String sep = File.separator;
     return rootDir + sep + "catalogs" + sep + inout + sep + catalog.directory() + sep + filename;
