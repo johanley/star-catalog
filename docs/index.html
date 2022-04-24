@@ -94,6 +94,12 @@ If you intend to amalgamate close doubles, then there is cross-talk with the fil
 The magnitude of each component in the system can be below the brightness limit, but the combined brightness may be above the limit.
 There is a <a href='https://en.wikipedia.org/wiki/Apparent_magnitude#Magnitude_addition'>formula for adding the magnitudes</a> of two close stars.
 
+<P>Variable stars also have magnitude cutoff issues.
+For variable stars, you need to know its magnitude at maximum brightness in order to filter correctly with respect to a given magnitude limit. 
+Take for example the long-period variable Mira.
+In Hipparcos, Mira's Vmag is stated as 6.47 (near the middle of its range).
+But at its peak, Mira's magnitude is around 3.4.
+So if you filter Hipparcos' hip_main.dat file using Vmag < 6.0, the result will not include Mira.
 
 <h3>Multiplicity Issues</h3>
 Dealing with double/multiple stars is always an issue.
