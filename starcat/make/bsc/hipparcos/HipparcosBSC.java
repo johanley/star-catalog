@@ -36,6 +36,7 @@ import starcat.star.StarTool;
 import starcat.util.Consts;
 import starcat.util.DataFileReader;
 import starcat.util.Util;
+import starcat.variablestar.VariableStarFilterIn;
 
 /**
  Make a bright star catalog based on Hipparcos-2 and Hipparcos-1, supplemented by data from other sources.
@@ -79,6 +80,11 @@ public final class HipparcosBSC {
       log("Sorting by magnitude.");
       sortByMagnitude(records);
     }
+    else {
+      log("Sorting by HIP.");
+      sortByHip(records);
+    }
+    
     List<String> lines = new ArrayList<>();
     for (GeneratedRecord r : records) {
       lines.add(formatted(r.STAR, r.PROVENANCE));
@@ -93,6 +99,7 @@ public final class HipparcosBSC {
     log("  Num Hipparcos records with Vmag <= " + Consts.MAGNITUDE_LIMIT +": " + brightStars.size());
     //commonality();
     initUsingHipparcosBrightStars();
+    addVariableStarsStraddlingTheLimitingMag();
     astrometry();
     radialVelocity();
     identifiers();
@@ -311,6 +318,23 @@ public final class HipparcosBSC {
     Collections.sort(records, c);
   }
   
+  void sortByHip(List<GeneratedRecord> records) {
+    Comparator<? super GeneratedRecord> c = new Comparator<GeneratedRecord>() {
+      @Override public int compare(GeneratedRecord a, GeneratedRecord b) {
+        int result = 0;
+        String aHip = a.STAR.IDENTIFIERS.get(Identifier.HIP);
+        String bHip = b.STAR.IDENTIFIERS.get(Identifier.HIP);
+        if (Util.isPresent(aHip) && Util.isPresent(bHip)) {
+          Double aVal = Double.valueOf(aHip);
+          Double bVal = Double.valueOf(bHip);
+          result = Double.compare(aVal, bVal);
+        }
+        return result;
+      }
+    };
+    Collections.sort(records, c);
+  }
+  
   // PRIVATE
   
   private List<GeneratedRecord> records = new ArrayList<>();
@@ -346,15 +370,45 @@ public final class HipparcosBSC {
   }
   
   private void initUsingHipparcosBrightStars() {
-    for(Star s : brightStars) {
-      GeneratedRecord record = new GeneratedRecord();
-      record.STAR = s;
-      record.PROVENANCE = new Provenance(Provenance.NUM_FIELDS_EXCLUDING_PROVENANCE);
-      record.PROVENANCE.put(Source.Hipparcos1, 1);
-      record.PROVENANCE.put(Source.Calculated, 2);
-      record.PROVENANCE.put(Source.Calculated, 3);
+    for(Star star : brightStars) {
+      GeneratedRecord record = recordFor(star);
       records.add(record);
     }
+  }
+  
+  private void addVariableStarsStraddlingTheLimitingMag() {
+    VariableStarFilterIn variableStars = new VariableStarFilterIn();
+    List<Star> dimVariableStars = variableStars.annexCandidatesForInclusion(Consts.MAGNITUDE_LIMIT);
+    for(Star dimVariableStar : dimVariableStars) {
+      GeneratedRecord record = recordFor(dimVariableStar);
+      record.PROVENANCE.put(Source.HipparcosVariabilityAnnex, 16);
+      if (!containsHipAlready(dimVariableStar.IDENTIFIERS.get(Identifier.HIP))) {
+        records.add(record);
+      }
+    }
+    log("  Num Hipparcos records with Vmag <= " + Consts.MAGNITUDE_LIMIT +", after adding variable stars which straddle the mag limit: " + records.size());
+  }
+  
+  private boolean containsHipAlready(String hip) {
+    boolean result = false;
+    for(GeneratedRecord record : records) {
+      if (record.STAR.IDENTIFIERS.get(Identifier.HIP).equals(hip)) {
+        log("UNEXPECTED: duplicate hip " + hip);
+        result = true;
+        break;
+      }
+    }
+    return result;
+  }
+  
+  private GeneratedRecord recordFor(Star s) {
+    GeneratedRecord record = new GeneratedRecord();
+    record.STAR = s;
+    record.PROVENANCE = new Provenance(Provenance.NUM_FIELDS_EXCLUDING_PROVENANCE);
+    record.PROVENANCE.put(Source.Hipparcos1, 1);
+    record.PROVENANCE.put(Source.Calculated, 2);
+    record.PROVENANCE.put(Source.Calculated, 3);
+    return record;
   }
   
   /** 
@@ -563,7 +617,10 @@ public final class HipparcosBSC {
   
   private void provenanceForSpectraEtc() {
     for(GeneratedRecord r : records) {
-      idSpectraEtc(r.STAR.MAGNITUDES.get(Bandpass.V), Source.Hipparcos1, 16, r);
+      if (!Source.HipparcosVariabilityAnnex.equals(r.PROVENANCE.get(16))) {
+        //don't overwrite if the mag comes from the variability annex
+        idSpectraEtc(r.STAR.MAGNITUDES.get(Bandpass.V), Source.Hipparcos1, 16, r);
+      }
       idSpectraEtc(r.STAR.FLAGS.get(Flag.VARIABILITY), Source.Hipparcos1, 17, r);
       idSpectraEtc(r.STAR.SPECTRAL_TYPE, Source.Hipparcos1, 18, r);
       idSpectraEtc(r.STAR.COLOR_INDICES.get(ColorIndex.B_MINUS_V), Source.Hipparcos1, 19, r);

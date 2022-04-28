@@ -7,7 +7,13 @@ package starcat.star;
 public enum Catalog {
   
   /** Hipparcos (1997). Hipparcos-2 has improved astrometry in comparios with Hipparcos-1, but lacks Spectral Type and HD. */
-  HIPPARCOS("hipparcos", "hip_main.dat"), 
+  HIPPARCOS("hipparcos", "hip_main.dat"),
+  
+  /** Hipparcos Variability Annex 1. Periodic solutions. */
+  HIPPARCOS_VA_1("hipparcos-va-1", "hip_va_1.dat"),
+  
+  /** Hipparcos Variability Annex 2. No periodic solutions. */
+  HIPPARCOS_VA_2("hipparcos-va-2", "hip_va_2.dat"), 
   
   /** Hipparcos-2 (2007). Lacks HD and Spectral Type, but has better astrometry than Hipparcos-1. */
   HIPPARCOS2("hipparcos-2", "hip2.dat"), 

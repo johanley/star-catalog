@@ -39,7 +39,10 @@ final class Provenance {
     CustomData("G"), 
     
     /** Sexagesimal versions of RA, DEC (H). */
-    Calculated("H"), 
+    Calculated("H"),
+
+    /** The Vmag for some variable stars can be overwritten by the maximum brightness found in the variability annex. */
+    HipparcosVariabilityAnnex("I"),
     
     /** Used for blank fields (-). */
     None("-");
@@ -78,6 +81,11 @@ final class Provenance {
     }
   }
   
+  /** Return the source for the given field. */
+  Source get(Integer field) {
+    return provenance.get(field);
+  }
+  
   /** 
    Formatted provenance string used in the catalog.
    One letter per field, in order of appearance in the catalog. 
@@ -96,5 +104,5 @@ final class Provenance {
   /** The fields that contain core astrometric data. */
   static final Integer[] ASTROMETRY_NO_RV = {4,5,6,7,8,10,11,12,13,14};
 
-  private final Map<Integer /*field index*/, Source> provenance = new LinkedHashMap<>();
+  private final Map<Integer /*1-based field index*/, Source> provenance = new LinkedHashMap<>();
 }

@@ -1,6 +1,88 @@
 Creating/updating file: C:\johanley\ProjectsPhoton\star-catalog\catalogs\output\open-source-bsc\os-bright-star-catalog-hip.utf8
 Making a bright star catalog based on Hipparcos-2. Magnitude limit 6.0
   Num Hipparcos records with Vmag <= 6.0: 5044
+Scanning for variables that straddle the limiting mag 6.0
+These variable types will be filtered out (not included): [N, NA, NB, NL, NR, ZAND, NA/E+X, UV]
+Num stars in main catalog with a variability flag and dimmer than the limiting mag: 10267
+Num stars in the variability annexes: 8254
+Variable star's Vmag straddles the limiting mag: S_Scl 1236 [M] V Vmin:13.60 Vmax:5.50
+Variable star's Vmag straddles the limiting mag: R_And 1901 [M] V Vmin:14.90 Vmax:5.80
+Variable star left out because of variable-type: EG_And 3494 [ZAND] V Vmin:7.80 Vmax:7.08 *
+Variable star's Vmag straddles the limiting mag: WW_Psc 4655 [L] V Vmin:6.11 Vmax:5.97
+Variable star's Vmag straddles the limiting mag: VX_Psc 6981 [DSCT] V Vmin:6.02 Vmax:5.90
+Variable star's Vmag straddles the limiting mag: OP_And 7493 [RS] V Vmin:6.01 Vmax:5.92
+Variable star's Vmag straddles the limiting mag: omi_Cet 10826 [M] V Vmin:10.10 Vmax:2.00
+Variable star's Vmag straddles the limiting mag: R_Tri 12193 [M] V Vmin:12.60 Vmax:5.40
+Variable star's Vmag straddles the limiting mag: R_Hor 13502 [M] V Vmin:14.30 Vmax:4.70
+Variable star's Vmag straddles the limiting mag: R_Lep 23203 [M] V Vmin:11.70 Vmax:5.50
+Variable star's Vmag straddles the limiting mag: iot_Men 26264 [] V Vmin:6.05 Vmax:6.00
+Variable star's Vmag straddles the limiting mag: TU_Tau 27135 [SRB] V Vmin:9.20 Vmax:5.90
+Variable star's Vmag straddles the limiting mag: U_Ori 28041 [M] V Vmin:13.00 Vmax:4.80
+Variable star's Vmag straddles the limiting mag: V474_Mon 28321 [DSCT] V Vmin:6.36 Vmax:5.93
+Variable star's Vmag straddles the limiting mag: S_Lep 28874 [SRB] V Vmin:7.58 Vmax:6.00
+Variable star's Vmag straddles the limiting mag: BU_Gem 29450 [LC] V Vmin:8.10 Vmax:5.74
+Variable star's Vmag straddles the limiting mag: NSV_02912 29993 [] V Vmin:6.06 Vmax:5.96
+Variable star's Vmag straddles the limiting mag: V_Mon 30326 [M] V Vmin:13.90 Vmax:6.00
+Variable star's Vmag straddles the limiting mag: T_Mon 30541 [DCEP] V Vmin:6.62 Vmax:5.58
+Variable star left out because of variable-type: RR_Pic 31481 [NB] V Vmin:12.52 Vmax:1.20 *
+Variable star's Vmag straddles the limiting mag: R_Gem 34356 [M] V Vmin:14.00 Vmax:6.00
+Variable star's Vmag straddles the limiting mag: OT_Gem 35933 [GCAS] V Vmin:6.44 Vmax:6.00
+Variable star's Vmag straddles the limiting mag: BO_Cnc 43575 [LB:] V Vmin:6.37 Vmax:5.90
+Variable star's Vmag straddles the limiting mag: X_Cnc 43811 [SRB] V Vmin:7.50 Vmax:5.60
+Variable star's Vmag straddles the limiting mag: IU_Vel 44213 [GCAS] V Vmin:6.08 Vmax:5.97
+Variable star's Vmag straddles the limiting mag: R_Car 46806 [M] V Vmin:10.50 Vmax:3.90
+Variable star's Vmag straddles the limiting mag: R_Leo 48036 [M] V Vmin:11.30 Vmax:4.40
+Variable star's Vmag straddles the limiting mag: S_Car 49751 [M] V Vmin:9.90 Vmax:4.50
+Variable star's Vmag straddles the limiting mag: RX_LMi 52366 [I] V Vmin:6.16 Vmax:5.98
+Variable star's Vmag straddles the limiting mag: U_Car 53589 [DCEP] V Vmin:7.02 Vmax:5.72
+Variable star left out because of variable-type: QU_Car 54226 [NL] V Vmin:12.10 Vmax:11.40 *
+Variable star's Vmag straddles the limiting mag: ST_UMa 55936 [SRB] V Vmin:7.60 Vmax:6.00
+Variable star's Vmag straddles the limiting mag: S_Mus 59551 [DCEP] V Vmin:6.49 Vmax:5.89
+Variable star's Vmag straddles the limiting mag: AI_CVn 60467 [DSCT] V Vmin:6.15 Vmax:5.89
+Variable star's Vmag straddles the limiting mag: BO_Mus 61404 [LB] V Vmin:6.56 Vmax:5.85
+Variable star's Vmag straddles the limiting mag: R_Mus 61981 [DCEP] V Vmin:6.73 Vmax:5.93
+Variable star's Vmag straddles the limiting mag: R_Hya 65835 [M] V Vmin:10.90 Vmax:3.50
+Variable star's Vmag straddles the limiting mag: T_Cen 66825 [SRA] V Vmin:9.00 Vmax:5.50
+Variable star's Vmag straddles the limiting mag: V716_Cen 69491 [EB/KE] V Vmin:6.52 Vmax:5.96
+Variable star's Vmag straddles the limiting mag: R_Cen 69754 [M] V Vmin:11.80 Vmax:5.30
+Variable star's Vmag straddles the limiting mag: S_CrB 75143 [M] V Vmin:14.10 Vmax:5.80
+Variable star's Vmag straddles the limiting mag: tau04_Ser 76423 [SRB] V Vmin:7.07 Vmax:5.89
+Variable star's Vmag straddles the limiting mag: R_Ser 77615 [M] V Vmin:14.40 Vmax:5.16
+Variable star left out because of variable-type: T_CrB 78322 [NR] V Vmin:10.80 Vmax:2.00 *
+Variable star's Vmag straddles the limiting mag: S_TrA 78476 [DCEP] V Vmin:6.81 Vmax:5.95
+Variable star's Vmag straddles the limiting mag: RR_Sco 82912 [M] V Vmin:12.40 Vmax:5.00
+Variable star's Vmag straddles the limiting mag: V640_Her 85302 [SR] V Vmin:6.21 Vmax:5.98
+Variable star's Vmag straddles the limiting mag: Y_Oph 87495 [DCEPS] V Vmin:6.46 Vmax:5.87
+Variable star's Vmag straddles the limiting mag: OP_Her 87850 [SRB] V Vmin:6.73 Vmax:5.85
+Variable star's Vmag straddles the limiting mag: V2392_Oph 89527 [SR] V Vmin:6.14 Vmax:6.00
+Variable star's Vmag straddles the limiting mag: XY_Lyr 91373 [LC] V Vmin:6.35 Vmax:5.80
+Variable star's Vmag straddles the limiting mag: X_Oph 91389 [M] V Vmin:9.20 Vmax:5.90
+Variable star left out because of variable-type: V603_Aql 92316 [NA/E+X] V Vmin:12.03 Vmax:-1.40 *
+Variable star's Vmag straddles the limiting mag: R_Aql 93820 [M] V Vmin:12.00 Vmax:5.50
+Variable star's Vmag straddles the limiting mag: V473_Lyr 94685 [DCEPS] V Vmin:6.35 Vmax:5.99
+Variable star's Vmag straddles the limiting mag: RY_Sgr 94730 [RCB] V Vmin:14.00 Vmax:5.80
+Variable star's Vmag straddles the limiting mag: UX_Dra 95154 [SRA:] V Vmin:7.10 Vmax:5.94
+Variable star left out because of variable-type: CH_Cyg 95413 [ZAND] V Vmin:8.49 Vmax:5.60 *
+Variable star's Vmag straddles the limiting mag: RT_Cyg 97068 [M] V Vmin:13.10 Vmax:6.00
+Variable star left out because of variable-type: V3885_Sgr 97394 [NL] V Vmin:10.51 Vmax:10.27 *
+Variable star's Vmag straddles the limiting mag: chi_Cyg 97629 [M] V Vmin:14.20 Vmax:3.30
+Variable star's Vmag straddles the limiting mag: RR_Sgr 98077 [M] V Vmin:14.00 Vmax:5.40
+Variable star's Vmag straddles the limiting mag: RU_Sgr 98334 [M] V Vmin:13.80 Vmax:6.00
+Variable star's Vmag straddles the limiting mag: RT_Sgr 100033 [M] V Vmin:14.10 Vmax:6.00
+Variable star's Vmag straddles the limiting mag: U_Cyg 100219 [M] V Vmin:12.10 Vmax:5.90
+Variable star's Vmag straddles the limiting mag: EU_Del 101810 [SRB] V Vmin:6.90 Vmax:5.79
+Variable star left out because of variable-type: HR_Del 102190 [NB] V Vmin:12.40 Vmax:3.70 *
+Variable star's Vmag straddles the limiting mag: X_Cyg 102276 [DCEP] V Vmin:6.91 Vmax:5.85
+Variable star's Vmag straddles the limiting mag: T_Cep 104451 [M] V Vmin:11.30 Vmax:5.20
+Variable star's Vmag straddles the limiting mag: V1339_Cyg 107140 [SRB] V Vmin:7.10 Vmax:5.90
+Variable star's Vmag straddles the limiting mag: AG_Peg 107848 [NC] V Vmin:9.40 Vmax:6.00
+Variable star's Vmag straddles the limiting mag: pi.01_Gru 110478 [L] V Vmin:6.70 Vmax:5.41
+Variable star's Vmag straddles the limiting mag: S_Gru 110736 [M] V Vmin:15.00 Vmax:6.00
+Variable star's Vmag straddles the limiting mag: R_Aqr 117054 [M] V Vmin:12.40 Vmax:5.80
+Variable star's Vmag straddles the limiting mag: V373_Cas 117957 [E] V Vmin:6.30 Vmax:5.90
+Variable star's Vmag straddles the limiting mag: R_Cas 118188 [M] V Vmin:13.50 Vmax:4.70
+Number of variables that straddle the magnitude limit: 68
+  Num Hipparcos records with Vmag <= 6.0, after adding variable stars which straddle the mag limit: 5112
 Use the improved Hipparcos-2 astrometry whenever possible.
 Hipparcos-2 astrometry not present for 55203
  Converting sexagesimal ra-dec from Hipparcos-1 to rads for 55203, to match the units of Hipparcos-2.
@@ -16,16 +98,16 @@ Hipparcos-2 astrometry not present for 115125
   Transform DMS: -13 27 17.0 to -0.2189564028 rads.
 Supplement Hipparcos with radial velocities. Primary source: Pulkovo  Secondary source: BF
 Found this many HIP_HDs that occur more than once in BF (which won't be used here): 105
-  No RV found in primary RV catalog: 577
-  No RV found in secondary RV catalog: 16
-  No RV found (16):[20070, 26063, 26727, 28614, 28691, 32810, 40834, 45585, 55203, 71681, 77990, 84709, 90441, 104371, 104887, 115125]
+  No RV found in primary RV catalog: 585
+  No RV found in secondary RV catalog: 17
+  No RV found (17):[20070, 26063, 26727, 28614, 28691, 32810, 40834, 45585, 55203, 71681, 77990, 84709, 90441, 104371, 104887, 115125, 110478]
 Adding designations, using the Yale BSC: BAYER, FLAMSTEED, HR
  The HD identifier (Henry Draper) is used as an intermediate between Hipparcos and the Yale BSC.
- Number of BAYER designations found in the Yale BSC: 1451
- Number of FLAMSTEED designations found in the Yale BSC: 2167
- Number of HR designations found in the Yale BSC: 5039
+ Number of BAYER designations found in the Yale BSC: 1455
+ Number of FLAMSTEED designations found in the Yale BSC: 2173
+ Number of HR designations found in the Yale BSC: 5091
 Processed star names for this many constellations: 78
-Added this many proper names to stars: 108 Max length: 14 Zubeneschamali
+Added this many proper names to stars: 109 Max length: 14 Zubeneschamali
 SIMBAD backfill of parallax, pm, and errors for: 55203
 SIMBAD backfill of parallax, pm, and errors for: 78727
 SIMBAD backfill of parallax, pm, and errors for: 115125
@@ -48,31 +130,32 @@ SIMBAD backfill of radial velocity for: 115125
 Calculating constellation, corresponding to position as of 1875.0 (Delporte). 
 Processed many entries for constellation boundaries: 357
 Summary stats for constructed catalog.
- Num records: 5044
+ Num records: 5112
  No RA: 0
  No DEC: 0
  No Parallax: 0
  No pmRa: 0
  No pmDec: 0
- No rv: 0
+ No rv: 1
  No Vmag: 0
  No spectral type: 0
  No B-V: 2 [26220, 32609]
- No HR: 5
+ No HR: 21
  Mismatch of Bayer Id vs. constellation : 0
  Mismatch of Flamsteed Id vs. constellation : 0
- With variable flag: 1295
- With multiplicity flag: 650
- With proper name: 108
- With Vmag < 3.0: 172
+ With variable flag: 1363
+ With multiplicity flag: 651
+ With proper name: 109
+ With Vmag < 3.0: 173
  Search for repeated identifiers.
-  HIP: num present = 5044, num unique = 5044
-  HD: num present = 5042, num unique = 5042
-  HR: num present = 5039, num unique = 5039
-  BAYER: num present = 1451, num unique = 1448
+  HIP: num present = 5112, num unique = 5112
+  HD: num present = 5110, num unique = 5110
+  HR: num present = 5091, num unique = 5091
+  BAYER: num present = 1455, num unique = 1452
    Repeats: [ψ1 Psc, θ1 Ori, ψ1 Dra]
-  FLAMSTEED: num present = 2167, num unique = 2158
+  FLAMSTEED: num present = 2173, num unique = 2164
    Repeats: [74 Psc, 41 Ori, 12 CVn, 8 Sco, 31 Dra, 100 Her, 63 Ser, 6 Cyg, 12 Del]
+Sorting by HIP.
 Line lengths: [263]
 Catalog file is now written: C:\johanley\ProjectsPhoton\star-catalog\catalogs\output\open-source-bsc\os-bright-star-catalog-hip.utf8
 Done.
