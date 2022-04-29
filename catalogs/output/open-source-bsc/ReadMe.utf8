@@ -71,4 +71,5 @@ The unit 'mas' stands for milliarcsecond.
     F: Backfill for a small number of items - SIMBAD
     G: My own custom data for star names 
     H: Sexagesimal versions of RA, DEC - calculated fields 
+    I: Vmag is the maximum (brightest) magnitude in the Hipparcos Variability Annex
     -: Blank fields
