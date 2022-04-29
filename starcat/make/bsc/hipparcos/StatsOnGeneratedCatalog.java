@@ -31,6 +31,7 @@ public final class StatsOnGeneratedCatalog {
     int spec = 0;
     int color = 0;
     List<String> noColor = new ArrayList<>();
+    List<String> noRV = new ArrayList<>();
     int hr = 0;
     int properName = 0;
     int brighter = 0;
@@ -42,7 +43,10 @@ public final class StatsOnGeneratedCatalog {
       if(Util.isBlank(r.STAR.PARALLAX)) ++parallax;
       if(Util.isBlank(r.STAR.PROPER_MOTION_RA)) ++pmRa;
       if(Util.isBlank(r.STAR.PROPER_MOTION_DEC)) ++pmDec;
-      if(Util.isBlank(r.STAR.RADIAL_VELOCITY)) ++rv;
+      if(Util.isBlank(r.STAR.RADIAL_VELOCITY)) {
+        noRV.add(r.STAR.IDENTIFIERS.get(Identifier.HIP));
+        ++rv;
+      }
       if(Util.isBlank(r.STAR.MAGNITUDES.get(Bandpass.V))) ++vmag;
       if(Util.isBlank(r.STAR.SPECTRAL_TYPE)) ++spec;
       if(Util.isBlank(r.STAR.COLOR_INDICES.get(ColorIndex.B_MINUS_V))) {
@@ -78,7 +82,7 @@ public final class StatsOnGeneratedCatalog {
     log(" No Parallax: " + parallax);
     log(" No pmRa: " + pmRa);
     log(" No pmDec: " + pmDec);
-    log(" No rv: " + rv);
+    log(" No rv: " + rv + " " + noRV);
     log(" No Vmag: " + vmag);
     log(" No spectral type: " + spec);
     log(" No B-V: " + color + " " + noColor);

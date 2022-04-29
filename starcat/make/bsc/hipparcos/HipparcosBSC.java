@@ -551,6 +551,7 @@ public final class HipparcosBSC {
     backFillRadialVelocity(104371, -25.8, 2.0);
     backFillRadialVelocity(104887, -20.90, 0.8);
     backFillRadialVelocity(115125, 10.89, 0.18);
+    //backFillRadialVelocity(110478, ?, ?); //I can't find RV data for pi-1 Gru! 
   }
   
   private void backFillparallaxProperMotion(Integer hip, Double parallax, Double pmRA, Double pmDec, Double e_parallax, Double e_pmRA, Double e_pmDEC) {
