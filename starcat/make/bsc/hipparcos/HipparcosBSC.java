@@ -7,6 +7,7 @@ import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
+import java.text.DecimalFormat;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
@@ -24,6 +25,7 @@ import starcat.catalogs.Hipparcos2Catalog;
 import starcat.catalogs.HipparcosCatalog;
 import starcat.catalogs.PulkovoRVCatalog;
 import starcat.catalogs.StarName;
+import starcat.make.bsc.hipparcos.ClosePairs.CloseDouble;
 import starcat.make.bsc.hipparcos.Provenance.Source;
 import starcat.star.Bandpass;
 import starcat.star.Catalog;
@@ -63,11 +65,8 @@ import starcat.variablestar.VariableStarFilterIn;
  <P>For proper motions, the epoch of the positions is J1991.25 = JD2448349.0625 (TT), not J2000.
  This is near the mean date of Hipparcos observations.
  
- <P>Close optical pairs are not amalgamated here.
- The brightest case of this is Alpha Centauri, whose A and B components are separate entries (HIP = 71683 and 71681, respectively).
- The two components are separated by 20.9 arcseconds.
- If you wish to amalgamate such pairs, there is a 
- <a href='https://en.wikipedia.org/wiki/Apparent_magnitude#Magnitude_addition'>formula</a> for adding two magnitudes. 
+ <P>Close optical pairs are not amalgamated here, but a supplementary file of close doubles is generated.
+ The brightest case of this is Alpha Centauri, whose A and B components are separate entries here (HIP = 71683 and 71681, respectively).
 */
 public final class HipparcosBSC {
 
@@ -85,6 +84,8 @@ public final class HipparcosBSC {
       sortByHip(records);
     }
     
+    writeClosePairsFile(records);
+    
     List<String> lines = new ArrayList<>();
     for (GeneratedRecord r : records) {
       lines.add(formatted(r.STAR, r.PROVENANCE));
@@ -92,7 +93,7 @@ public final class HipparcosBSC {
     writeTextFile(outputFile, lines);
     log("Catalog file is now written: " + outputFile);
   }
-  
+
   /** Return the list of entries in the catalog, but don't format it or save to a file. */
   public List<GeneratedRecord> make() {
     log("Making a bright star catalog based on Hipparcos-2. Magnitude limit " + Consts.MAGNITUDE_LIMIT);
@@ -333,6 +334,22 @@ public final class HipparcosBSC {
       }
     };
     Collections.sort(records, c);
+  }
+  
+  /** Search and report on stars that are close to each other. */
+  void writeClosePairsFile(List<GeneratedRecord> records) throws IOException {
+    log("Searching for close pairs of stars within " + Consts.CLOSE_PAIR_SEPARATION_LIMIT + " arcseconds of each other.");
+    ClosePairs pairs = new ClosePairs();
+    List<CloseDouble> closePairs = pairs.findClosePairs(Consts.CLOSE_PAIR_SEPARATION_LIMIT, records);
+    log("Number of close pairs within " + Consts.CLOSE_PAIR_SEPARATION_LIMIT + " arcseconds of each other: " + closePairs.size());
+    
+    String outputFilePairs = DataFileReader.outputFile(Catalog.OS_BSC_HIPPARCOS, "close-pairs.utf8");
+    List<String> lines = new ArrayList<>();
+    for (CloseDouble closePair : closePairs) {
+      lines.add(formatted(closePair));
+    }
+    writeTextFile(outputFilePairs, lines);
+    log("File of close pairs is now written: " + outputFilePairs);
   }
   
   // PRIVATE
@@ -657,5 +674,27 @@ public final class HipparcosBSC {
   private void showStats() {
     StatsOnGeneratedCatalog stats = new StatsOnGeneratedCatalog();
     stats.showStats(records);
+  }
+  
+  private String dblTwoDecimals(Double val) {
+    DecimalFormat fmt = new DecimalFormat("#0.00");
+    return fmt.format(val);
+  }
+  
+  private String formatted(CloseDouble closePair) {
+    StringBuilder builder = new StringBuilder();
+    
+    builder.append(field(dblTwoDecimals(closePair.arcseconds()), 5));
+    builder.append(field(dblTwoDecimals(closePair.VmagCombined), 5));
+    
+    builder.append(field(closePair.hipA, 6));
+    builder.append(field(closePair.nameA, 7));
+    builder.append(field(closePair.VmagA, 5));
+    
+    builder.append(field(closePair.hipB, 6));
+    builder.append(field(closePair.nameB, 7));
+    builder.append(field(closePair.VmagB, 5));
+    
+    return builder.toString(); 
   }
 }

@@ -18,7 +18,7 @@ public final class Consts {
   /** The character that begins a comment, in a data file, {@value}. */
   public static final String COMMENT = "#";
   
-  /** Separation for proximity flag, in rads, {@value}. */
-  public static final Double SEPARATION_LIMIT = Maths.degToRads(100.0/3600.0);
+  /** Separation limit for detecting close pairs of stars, in arcseconds. Value - {@value}. */
+  public static final Double CLOSE_PAIR_SEPARATION_LIMIT = 60.0;
 
 }

@@ -11,6 +11,11 @@ public class Maths {
     return rad * RADS_TO_DEG;   
   }
   
+  public static double radsToArcseconds(double rad) {
+    Double val = radsToDegs(rad);
+    return val * 3600.0;
+  }
+  
   public static double hoursToRads(double hours) {
     return degToRads(hours * HOURS_TO_DEGS);
   }

@@ -1,0 +1,19 @@
+Description of each field in the close-pairs.utf8 file.
+-------------------------------------------------------
+
+All separations are for the proper motion epoch of J1991.25 = JD2448349.0625 (TT).
+The width of each field appears in square brackets, like this: [6].
+The file is ordered by increasing separation between the components.
+
+------------------------------------------------------------------------------------
+
+01: Separation in arcseconds between A and B [5]
+02: Combined Vmag of A and B [5]
+
+03: A - Hipparcos identifier HIP [6]
+04: A - Bayer/Flamsteed (if available) [7]
+05: A - Vmag [5]
+
+06: B - Hipparcos identifier HIP [6]
+07: B - Bayer/Flamsteed (if available) [7]
+08: B - Vmag [5]

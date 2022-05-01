@@ -27,6 +27,11 @@ public final class DataFileReader {
     return directory(catalog, "output", catalog.dataFile());
   }
   
+  /** Where to output a file related to a catalog. You must set a system property named 'project-root'. */
+  public static String outputFile(Catalog catalog, String fileName) {
+    return directory(catalog, "output", fileName);
+  }
+  
   /**
   Read a text file and return it as a list of (untrimmed) Strings.
    @param fileName the full name of UTF-8 text file. 
