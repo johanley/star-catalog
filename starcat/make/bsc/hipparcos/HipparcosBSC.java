@@ -684,7 +684,7 @@ public final class HipparcosBSC {
   private String formatted(CloseDouble closePair) {
     StringBuilder builder = new StringBuilder();
     
-    builder.append(field(dblTwoDecimals(closePair.arcseconds()), 5));
+    builder.append(field(dblTwoDecimals(closePair.arcseconds()), 6));
     builder.append(field(dblTwoDecimals(closePair.VmagCombined), 5));
     
     builder.append(field(closePair.hipA, 6));

@@ -19,6 +19,6 @@ public final class Consts {
   public static final String COMMENT = "#";
   
   /** Separation limit for detecting close pairs of stars, in arcseconds. Value - {@value}. */
-  public static final Double CLOSE_PAIR_SEPARATION_LIMIT = 60.0;
+  public static final Double CLOSE_PAIR_SEPARATION_LIMIT = 120.0;
 
 }

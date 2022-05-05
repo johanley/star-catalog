@@ -156,12 +156,14 @@ Summary stats for constructed catalog.
   FLAMSTEED: num present = 2173, num unique = 2164
    Repeats: [74 Psc, 41 Ori, 12 CVn, 8 Sco, 31 Dra, 100 Her, 63 Ser, 6 Cyg, 12 Del]
 Sorting by HIP.
-Searching for close pairs of stars within 60.0 arcseconds of each other.
+Searching for close pairs of stars within 120.0 arcseconds of each other.
  [2484(β1 Tuc), 2487(β2 Tuc)]: sep=27.06 arcseconds Vmag=3.69 [4.36 + 4.53]
  [5131(ψ1 Psc), 5132(ψ1 Psc)]: sep=29.78 arcseconds Vmag=4.68 [5.33 + 5.55]
  [26197, 26199]: sep=36.11 arcseconds Vmag=4.38 [5.67 + 4.78]
  [26220(θ1 Ori), 26221(θ1 Ori)]: sep=13.07 arcseconds Vmag=4.3 [4.98 + 5.13]
  [34473(γ1 Vol), 34481(γ2 Vol)]: sep=14.11 arcseconds Vmag=3.61 [5.68 + 3.78]
+ [40817(κ1 Vol), 40834(κ2 Vol)]: sep=64.84 arcseconds Vmag=4.72 [5.33 + 5.63]
+ [42715, 42726]: sep=76.35 arcseconds Vmag=4.36 [5.49 + 4.83]
  [62561, 62572]: sep=21.46 arcseconds Vmag=4.86 [5.92 + 5.38]
  [63003(μ1 Cru), 63005(μ2 Cru)]: sep=34.84 arcseconds Vmag=3.68 [4.03 + 5.08]
  [63121(α1 CVn), 63125(α2 CVn)]: sep=19.37 arcseconds Vmag=2.8 [5.61 + 2.89]
@@ -169,6 +171,9 @@ Searching for close pairs of stars within 60.0 arcseconds of each other.
  [74376(κ1 Lup), 74380(κ2 Lup)]: sep=26.45 arcseconds Vmag=3.69 [3.88 + 5.70]
  [78105(ξ1 Lup), 78106(ξ2 Lup)]: sep=10.25 arcseconds Vmag=4.59 [5.14 + 5.59]
  [78820(β1 Sco), 78821(β2 Sco)]: sep=13.66 arcseconds Vmag=2.44 [2.56 + 4.90]
+ [80047(δ1 Aps), 80057(δ2 Aps)]: sep=103.19 arcseconds Vmag=4.18 [4.68 + 5.27]
+ [81290(16 Dra), 81292(17 Dra)]: sep=90.19 arcseconds Vmag=4.52 [5.53 + 5.07]
+ [85819(ν1 Dra), 85829(ν2 Dra)]: sep=62.0 arcseconds Vmag=4.12 [4.89 + 4.86]
  [86614(ψ1 Dra), 86620(ψ1 Dra)]: sep=30.14 arcseconds Vmag=4.27 [4.57 + 5.81]
  [88817(100 Her), 88818(100 Her)]: sep=14.25 arcseconds Vmag=5.06 [5.79 + 5.83]
  [91971(ζ1 Lyr), 91973(ζ2 Lyr)]: sep=43.71 arcseconds Vmag=4.07 [4.34 + 5.73]
@@ -176,8 +181,8 @@ Searching for close pairs of stars within 60.0 arcseconds of each other.
  [95947(β1 Cyg), 95951(β2 Cyg)]: sep=34.45 arcseconds Vmag=2.9 [3.05 + 5.12]
  [102531(γ1 Del), 102532(γ2 Del)]: sep=9.39 arcseconds Vmag=3.87 [5.15 + 4.27]
  [103569(ε Equ), 103571]: sep=10.32 arcseconds Vmag=4.52 [5.30 + 5.24]
-Number of close pairs within 60.0 arcseconds of each other: 19
-Line lengths: [54]
+Number of close pairs within 120.0 arcseconds of each other: 24
+Line lengths: [54, 55]
 File of close pairs is now written: C:\johanley\ProjectsPhoton\star-catalog\catalogs\output\open-source-bsc\close-pairs.utf8
 Line lengths: [263]
 Catalog file is now written: C:\johanley\ProjectsPhoton\star-catalog\catalogs\output\open-source-bsc\os-bright-star-catalog-hip.utf8
