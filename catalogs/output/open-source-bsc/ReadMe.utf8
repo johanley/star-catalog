@@ -5,62 +5,66 @@ All coordinates are in the ICRS.
 The core astrometry fields are always present.
 The core data is taken from Hipparcos-2, using Hipparcos-1 as occasional backup.
 For proper motions, the epoch is J1991.25 = JD2448349.0625 (TT), not J2000.
-The width of each field appears in square brackets, like this: [6].
+The position and width of each field appears in square brackets. 
+For example, the HIP identifier [1,6] starts at the first character, and is 6 characters wide.
 The unit 'mas' stands for milliarcsecond.
+(When parsing, you will need to trim leading spaces for some fields.)
 
 
 ------------------------------------------------------------------------------------------------
 
 
-01: Hipparcos identifier HIP [6]
+01: Hipparcos identifier HIP [1,6]
 
-02: right Ascension in hours minutes seconds, ICRS [17]
+02: right Ascension in hours minutes seconds, ICRS [9,16]
     Proper motion epoch is J1991.25  
     An underscore is used to separate the parts. 
     Calculated from the radians in field 04. Included for convenience. 
-03: declination degrees minutes seconds, ICRS [17] 
+03: declination degrees minutes seconds, ICRS [27,16] 
     Proper motion epoch is J1991.25  
     An underscore is used to separate the parts. 
     Calculated from the radians in field 05. Included for convenience.
     
-04: right ascension in radians, ICRS. [13]
+04: right ascension in radians, ICRS. [45,12]
     Proper motion epoch is J1991.25  
-05: declination in radians, ICRS.  [14] 
+05: declination in radians, ICRS.  [59,13] 
     Proper motion epoch is J1991.25  
-06: parallax in mas [7] 
-07: proper motion in right ascension in mas/year, * cosine(declination), ICRS [8] 
-08: proper motion in declination in mas/year, ICRS [8] 
-09: radial velocity in kilometers per second [7]
     
-10: formal error in right ascension in mas [6] 
-11: formal error in declination in mas [6] 
-12: formal error in parallax in mas [6] 
-13: formal error in proper motion in right ascension in mas/year [6] 
-14: formal error in proper motion in declination in mas/year [6] 
-15: formal error in radial velocity in kilometers per second [4] 
+06: parallax in mas [73,7] 
+07: proper motion in right ascension in mas/year, * cosine(declination), ICRS [81,8] 
+08: proper motion in declination in mas/year, ICRS [90,8] 
+09: radial velocity in kilometers per second [99,7]
     
-16: magnitude in the Johnson V band [5] 
-17: coarse variability flag [1] 
+10: formal error in right ascension in mas [107,6] 
+11: formal error in declination in mas [114,6] 
+12: formal error in parallax in mas [121,6] 
+13: formal error in proper motion in right ascension in mas/year [128,6] 
+14: formal error in proper motion in declination in mas/year [135,6] 
+15: formal error in radial velocity in kilometers per second [142,5] 
+    
+16: magnitude in the Johnson V band [148,5] 
+17: coarse variability flag [154,1] 
     Hipparcos-1 field H6.
      1: < 0.06mag ; 2: 0.06-0.6mag ; 3: >0.6mag
-18: spectral type [12] 
-29: color index Johnson B-V magnitude [6] 
-20: multiplicity flag
+18: spectral type [156,12] 
+29: color index Johnson B-V magnitude [169,6] 
+20: multiplicity flag [176,1]
     Hipparcos-1 H59, only for C values.
     
-21: CCDM identifier [1] 
+21: CCDM identifier [178,10] 
     A catalog of double/multiple stars.
-22: HD identifier [6]  
+22: HD identifier [189,6]  
     Henry Draper catalog.
-23: HR identifier [4]
+23: HR identifier [196,4]
     Yale Bright Star Catalog, r5.
-24: Bayer identifier [7]
-25: Flamsteed identifier [7]
-26: proper name [14]
+24: Bayer identifier [201,7]
+25: Flamsteed identifier [209,7]
+26: proper name [217,14]
     From an internal list defined by this project.
+27: Constellation abbreviation [232,3]
 
-27: provenance string for all fields (except for the provenance itself, of course) [26]
-    Each field of the previous 26 has a provenance. 
+28: provenance string for all fields (except for the provenance itself, of course) [236,27]
+    Each field (other than this one) has a provenance. 
     The provenance string is an ordered string of single letters, stating the provenance of each field 
     in the given record, in order from left to right.
     A: Primary source for astrometry -  Hipparcos2
@@ -72,4 +76,4 @@ The unit 'mas' stands for milliarcsecond.
     G: My own custom data for star names 
     H: Sexagesimal versions of RA, DEC - calculated fields 
     I: Vmag is the maximum (brightest) magnitude in the Hipparcos Variability Annex
-    -: Blank fields
+    -: Blank fields have no provenance
