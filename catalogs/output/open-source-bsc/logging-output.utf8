@@ -182,7 +182,7 @@ Searching for close pairs of stars within 120.0 arcseconds of each other.
  [102531(γ1 Del), 102532(γ2 Del)]: sep=9.39 arcseconds Vmag=3.87 [5.15 + 4.27]
  [103569(ε Equ), 103571]: sep=10.32 arcseconds Vmag=4.52 [5.30 + 5.24]
 Number of close pairs within 120.0 arcseconds of each other: 24
-Line lengths: [54, 55]
+Line lengths: [55]
 File of close pairs is now written: C:\johanley\ProjectsPhoton\star-catalog\catalogs\output\open-source-bsc\close-pairs.utf8
 Line lengths: [263]
 Catalog file is now written: C:\johanley\ProjectsPhoton\star-catalog\catalogs\output\open-source-bsc\os-bright-star-catalog-hip.utf8
